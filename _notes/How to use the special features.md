@@ -1,6 +1,6 @@
 ---
 title: How to use notenote.link features on your website
-season: summer
+season: winter
 tags: Theme
 toc: true
 comments: true
