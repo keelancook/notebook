@@ -5,7 +5,6 @@ author: Keelan
 date: 2021-01-16
 tags: IMB missions
 ---
-# Core Missionary Task
 
 The core missionary task (CMT) is the language the International Mission Board uses to describe the center of their missions strategy.
 
