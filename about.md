@@ -5,13 +5,14 @@ permalink: /about/
 content-type: eg
 ---
 
-# Welcome to my commonplace book.
 
 You have stumbled into the little corner of the internet where I do my public thinking. By trade, I'm an evangelical missiologist and theologian. My family and I live in Houston where I serve [a network of roughly 340 Baptist churches](https://ubahouston.org) here in the city as  strategist. I'm also on faculty as an instructor of North American missiology for [Southeastern Baptist Theological Seminary](https://sebts.edu).
 
 Primarily, the notes in this commonplace book will deal with topics or theology and ministry. My hope is that by thinking in public, instead of keeping these notes closed up, my thoughts here will benefit others. And perhaps, these thoughts will be sharpened that was as well.
 
 ---
+
+# The commonplace book.
 The [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book) has a long history and deep roots. For hundreds of years, scholars, writers, and thinkers in general carried what ammounts to a scrapbook that they used to compile all of their notes. The book captured thoughts and became a place where those thoughts sharpened each other, giving birth to new ideas.
 
 <p align="center">
