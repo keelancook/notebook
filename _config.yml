@@ -1,9 +1,9 @@
-title: notenote.link
-name: My linked notebook
-user_description: notenote.link
+title: Commonplace Book
+name: My Commonplace Book
+user_description: An online collection of my notes.
 notes_url: "https://keelancook.ml/notenote/notes"
-profile_pic: /assets/img/profile.png
-favicon: /assets/img/favicon.png
+profile_pic: /assets/img/kc-seal.png
+favicon: /assets/img/favicon.ico
 copyright_name: MIT
 baseurl: "/notenote" # the subpath of your site, e.g. /blog
 url: "https://keelancook.ml/notenote" # the base hostname & protocol for your site, e.g. http://example.com
