@@ -19,7 +19,7 @@ The [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book) has a lon
   <img width="460" height="300" src="https://chuckfrey.com/wp-content/uploads/2013/03/davinci-notebook-400px.jpg">
 </p>
 
-Commonplace books have been used by many of the greatest minds. One of the earliest references to the concept are the works of Marcus Aurelius.[[Aurelius, Marcus. The Thoughts of the Emperor M. Aurelius Antoninus. Boston: G. Bell & sons, 1897.::rsn]] They were common throughout the Rennaissance and have even been a mainstay of theologians. Many like Philliip Melanchthon publishing their works with the title *Commonplaces*.[[[Why are so many great Lutheran books called “Commonplaces” or “Loci”?](https://blog.cph.org/study/systematic-theology-and-apologetics/why-are-so-many-great-lutheran-books-called-commonplaces-or-loci)::rsn]]
+Commonplace books have been used by many of the greatest minds. One of the earliest references to the concept are the works of Marcus Aurelius.[[[Aurelius, Marcus. The Thoughts of the Emperor M. Aurelius Antoninus. Boston: G. Bell & sons, 1897.](https://www.google.com/books/edition/_/qZ1fAAAAMAAJ?hl=en)::rsn]] They were common throughout the Rennaissance and have even been a mainstay of theologians. Many like Philliip Melanchthon publishing their works with the title *Commonplaces*.[[[Why are so many great Lutheran books called “Commonplaces” or “Loci”?](https://blog.cph.org/study/systematic-theology-and-apologetics/why-are-so-many-great-lutheran-books-called-commonplaces-or-loci)::rsn]]
 
 
 ---

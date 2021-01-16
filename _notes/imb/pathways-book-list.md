@@ -2,7 +2,7 @@
 title: Pathways » Reading List
 author: Keelan Cook
 season: summer
-parent: Additional Reading
+tags: IMB missions
 date: 2020-12-20
 
 ---

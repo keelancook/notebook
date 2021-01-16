@@ -29,6 +29,7 @@ At its best, discipleship is transformative learning. It's the kind of learning 
 
 Our cohort model attempts this same kind of transformative learning by not reducing the learning process to a list of books, videos, or classroom lectures. Instead, cohorts involve both classroom time, active cross-cultural missionary engagement throughout the month, and fellowship and worship with other cohort members. This back and forth between classroom time and practically engaged ministry creates an important feedback loop where students practice what they are learning with an opportunity to come back together and debrief their experiences together, providing opportunities for them to sharpen their abilities.
 
+---
 ## The Cohort Content
 The Pathways cohort centers its content around the development of eight core competencies identified as indispensable in the life of a missionary. Six of these competencies are aspects of what the IMB calls the Core Missionary Task. The other two deal specifically with spiritual formation (abiding in Christ) and teaming with others for the mission.
 
@@ -37,7 +38,7 @@ The Pathways cohort centers its content around the development of eight core com
 
 ![Core Missionary Task Diagram](https://i.imgur.com/GfS51fH.png)
 
-The core missionary task serves as the course map for most of the cohort, and students will be equipped for specific competencies that prepare them to engage in each phase of the task from entry to exit. This will include preparation in discovery and cultural exegesis, cross-cultural communication and evangelism, disciple-making methods, church formation, and leadership development practices. Cohort members will learn concepts during class time and then practice those contexts in cross-cultural ministry throughout the month by developing their own engagement strategy among diaspora peoples here in Houston.
+The [[Core Missionary Task\|core missionary task]] serves as the course map for most of the cohort, and students will be equipped for specific competencies that prepare them to engage in each phase of the task from entry to exit. This will include preparation in discovery and cultural exegesis, cross-cultural communication and evangelism, disciple-making methods, church formation, and leadership development practices. Cohort members will learn concepts during class time and then practice those contexts in cross-cultural ministry throughout the month by developing their own engagement strategy among diaspora peoples here in Houston.
 
 ### Abiding and Teaming
 In addition to the core missionary task, cohorts will take up two additional competencies that are crucial to success in an international missions context: abiding in Christ and teaming with others.
@@ -45,3 +46,27 @@ In addition to the core missionary task, cohorts will take up two additional com
 In order to make disciples cross-culturally, they must first be a fully-formed disciples themselves. Missionary work is a spiritual endeavor, and one that rises and falls on the work of the Holy Spirit first in the life of the missionary and then as an overflow of their own life into others. Abiding in Christ is of utmost importance in order to thrive in the long term on the field.
 
 Likewise, missionaries do not do their work alone. The book of Acts provides a clear example of missionary teams being the fruitful model for spreading the gospel to the ends of the earth. The IMB relies on teams of missionaries across the world to engage unreached peoples and places. Anyone serving as field personnel with the IMB will become part of one of these teams. Living in another culture creates unique stress in the life of the missionary. Add to this stress the regular issues of communication and vision that exist on any team, and interpersonal conflict is inevitable. Knowing how to thrive in a team setting is essential to missionary health and success on the field. 
+
+---
+## Course Schedule
+The Pathways cohort consists of two four-month semesters. Classes happen twice a month, with the expectation of engaging in cross-cultural missions throughout the week.
+
+Semester 1 takes up the overall theme of personal disciple-making. In this semester, cohort members are challenged in their own spiritual formation. In addition, they learn about cultural exegesis and acquisition for beginning engagement, evangelism practices for gospel proclamation, and practices for discipling those they have evangelized.
+
+### Semester 1: 
+(Download: [Complete Syllabus](https://DOWNLOAD-LINK-HERE))
+* Abiding in Christ
+* Entry
+* Evangelism
+* Discipleship
+
+Semester 2 shifts to the focus toward communal discple-making. In this semester, cohort members learn about turning the corner from inidividual disciple-making to planting churches from the harvest. In addition, they will be taught practices for developing leaders from those they've discipled and how to transition church ministry to the church itself. Finally, members will learn about working in missionary teams overseas and the dynamics of a team approach to cross-cultural ministry.
+
+### Semester 2: 
+(Download: [Complete Syllabus](https://DOWNLOAD-LINK-HERE))
+* Church Formation
+* Leadership Development
+* Exit (Partnering)
+* Teaming
+
+[[*Develop syllabus for each semester*::lmn]]
