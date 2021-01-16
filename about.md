@@ -12,12 +12,15 @@ Primarily, the notes in this commonplace book will deal with topics or theology 
 
 ---
 
-# The commonplace book.
+# The Commonplace Book.
 The [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book) has a long history and deep roots. For hundreds of years, scholars, writers, and thinkers in general carried what ammounts to a scrapbook that they used to compile all of their notes. The book captured thoughts and became a place where those thoughts sharpened each other, giving birth to new ideas.
 
 <p align="center">
   <img width="460" height="300" src="https://chuckfrey.com/wp-content/uploads/2013/03/davinci-notebook-400px.jpg">
 </p>
+
+Commonplace books have been used by many of the greatest minds. One of the earliest references to the concept are the works of Marcus Aurelius.[[Aurelius, Marcus. The Thoughts of the Emperor M. Aurelius Antoninus. Boston: G. Bell & sons, 1897.::rsn]] They were common throughout the Rennaissance and have even been a mainstay of theologians. Many like Philliip Melanchthon publishing their works with the title *Commonplaces*.[[[Why are so many great Lutheran books called “Commonplaces” or “Loci”?](https://blog.cph.org/study/systematic-theology-and-apologetics/why-are-so-many-great-lutheran-books-called-commonplaces-or-loci)::rsn]]
+
 
 ---
 
