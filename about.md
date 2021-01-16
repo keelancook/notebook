@@ -14,7 +14,9 @@ Primarily, the notes in this commonplace book will deal with topics or theology 
 ---
 The [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book) has a long history and deep roots. For hundreds of years, scholars, writers, and thinkers in general carried what ammounts to a scrapbook that they used to compile all of their notes. The book captured thoughts and became a place where those thoughts sharpened each other, giving birth to new ideas.
 
-![DaVinci's Commonplace](https://chuckfrey.com/wp-content/uploads/2013/03/davinci-notebook-400px.jpg)
+<p align="center">
+  <img width="460" height="300" src="https://chuckfrey.com/wp-content/uploads/2013/03/davinci-notebook-400px.jpg">
+</p>
 
 ---
 
