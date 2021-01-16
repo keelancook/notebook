@@ -23,7 +23,7 @@ Cross-cultural disciple-making is a challenging task, and it requires a clear se
 ### Transformative Equipping
 Equipping that transforms a person requires more than a book study or a classroom lecture. Transformation engages the head, heart, and hands. Participants will be engaged in both classroom time and cross-cultural missions locally. Cohort members will work together to implement cross-cultural disciple-making among the many unreached peoples here in Houston. Furthermore, students will develop their own sending support network in their local church to serve as an advocacy and support team for them while they serve overseas. 
 
-The cohort will focus equipping on the core missionary task as outlined by the IMB in their [Foundations](https://www.imb.org/wp-content/uploads/2020/03/Foundations-English-v2.pdf) document. You can read more about cohort content and resources here: [Pathways » IMB Instructional Guide](/imb/pathways-imb-instructional-guide/).
+The cohort will focus equipping on the core missionary task as outlined by the IMB in their [Foundations](https://www.imb.org/wp-content/uploads/2020/03/Foundations-English-v2.pdf) document. You can read more about cohort content and resources here: [Pathways » IMB Instructional Guide](/imb/pathways-imb-instructional-guide).
 
 
 ## Applied to the IMB
