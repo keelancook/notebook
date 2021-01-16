@@ -5,7 +5,7 @@ notes_url: "https://keelancook.ml/notenote/notes"
 profile_pic: /assets/img/seal.png
 favicon: /assets/img/favicon.ico
 copyright_name: MIT
-baseurl: "/notenote" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://keelancook.ml/notenote" # the base hostname & protocol for your site, e.g. http://example.com
 encoding: utf-8
 
