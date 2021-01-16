@@ -2,7 +2,7 @@ title: Commonplace Book
 name: My Commonplace Book
 user_description: An online collection of my notes.
 notes_url: "https://keelancook.ml/notenote/notes"
-profile_pic: /assets/img/kc-seal.png
+profile_pic: /assets/img/seal.png
 favicon: /assets/img/favicon.ico
 copyright_name: MIT
 baseurl: "/notenote" # the subpath of your site, e.g. /blog
