@@ -1,5 +1,7 @@
 ---
 title: Cohort Content
+author: Keelan Cook
+season: summer
 parent: Pathways » IMB
 date: 2020-12-21
 nav_order: 1

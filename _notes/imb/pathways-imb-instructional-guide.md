@@ -1,5 +1,6 @@
 ---
 title: Pathways » IMB
+season: summer
 has_children: true
 author: Keelan Cook
 date: 2020-12-15

@@ -1,6 +1,7 @@
 ---
 title: Pathways » Reading List
 author: Keelan Cook
+season: summer
 parent: Additional Reading
 date: 2020-12-20
 

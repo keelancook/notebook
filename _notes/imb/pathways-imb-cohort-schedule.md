@@ -1,5 +1,6 @@
 ---
 title: Course Schedule
+season: summer
 parent: Pathways » IMB
 author: Keelan Cook
 date: 2020-12-21
