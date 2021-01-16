@@ -5,10 +5,7 @@ permalink: /about/
 content-type: eg
 ---
 
-Welcome to [[notenote.link::https://github.com/Maxence-L/notenote.link]], a fork of [[Simply Jekyll::https://github.com/raghuveerdotnet/simply-jekyll]]!
+# Welcome to my commonplace book.
 
-I used Obsidian for the last 6 months, to keep track of all of the things I was learning while pivoting my career from Economics to Data Science.
+The [commonplace book](_notes/imb/pathways-imb-cohort-content.md) has a long history and deep roots. For hundreds of years, scholars, writers, and thinkers in general carried what ammounts to a scrapbook that they used to compile all of their notes. 
 
-200 notes later, I felt that my Obsidian space was getting cramped and I began to yearn for a way to access my notes everywhere. Simply-Jekyll appeared as the most satisfactory tool on the web, as I needed wikilinks, search, LateX, and code highlighting. 
-
-A little bit of dev work and polishing was need to make it compatible with my Obsidian notes. However, the template is now mature enough, so go on an [[How to setup this site\|give it a try!]]
