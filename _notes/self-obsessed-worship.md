@@ -8,7 +8,9 @@ modified: 2021-01-17T09:53:54-06:00
 ---
 The adjustment in lyric content in worship has significant consequences for discipleship. If the goal is [[Transformational Discipleship]], then corporate worship is central to that. It engages all three domains, the head, heart, and hands in praise. However, when it is anemic in content (or perhaps misidrected toward self or immanence of some form), then it fails to be Spirituall formative It forms us, to be certain, but in the wrong direction. It creates a preoccupation with self, or current lived experiences, and sets our eyes too low. In some ways, worship should for us to contemplate transcendence as well.
 
+---
  ## American Worship Music isn't about Heaven Anymore
+
  Matthew Westerholm, as part of his PhD research, studied contemporary worship music against the backdrop of worship music over a century ago. He writes:
 
  >I compared two large selections of worship songs. The first selection was the most commonly sung congregational songs in the United States from 2000–2015; the second group was the most commonly published congregational songs in the United States from 1737–1960. Among many similarities, one difference was striking: the topic of heaven, which once was frequently and richly sung about, has now all but disappeared.[[[The Church Should Sing for Heaven’s Sake: When and Why We Stopped Singing about Heaven, and How to Start Again](https://www.9marks.org/article/the-church-should-sing-for-heavens-sake-when-and-why-we-stopped-singing-about-heaven-and-how-to-start-again/#annotations:O6lqWESaEeuY-s9JavAGHA)::rsn]]
