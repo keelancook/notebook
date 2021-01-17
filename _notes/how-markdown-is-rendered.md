@@ -1,7 +1,8 @@
 ---
 title: Test page to see how the raw markdown is rendered
-tags: markdown 
-season: winter
+tags: markdown
+season: autumn
+modified: 2021-01-16T18:28:24-06:00
 ---
 
 This is intended as a quick reference and showcase. 
