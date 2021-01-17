@@ -1,9 +1,10 @@
 ---
 title: How to use notenote.link features on your website
-season: winter
+season: autumn
 tags: Theme
 toc: true
 comments: true
+modified: 2021-01-16T18:27:50-06:00
 ---
 
 ## The default features
