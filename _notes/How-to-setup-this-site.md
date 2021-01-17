@@ -1,6 +1,6 @@
 ---
 title: How to setup this site
-tags: Theme
+tags: theme
 season: autumn
 modified: 2021-01-16T18:28:12-06:00
 ---

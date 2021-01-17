@@ -1,6 +1,6 @@
 ---
 title: Test page to see how the raw markdown is rendered
-tags: markdown
+tags: theme
 season: autumn
 modified: 2021-01-16T18:28:24-06:00
 ---

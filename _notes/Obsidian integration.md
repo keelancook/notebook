@@ -1,7 +1,7 @@
 ---
 title: Obsidian integration
 season: autumn
-tags: CMS
+tags: theme
 modified: 2021-01-16T18:28:57-06:00
 ---
 
