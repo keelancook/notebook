@@ -3,6 +3,7 @@ layout: post
 title: Pathways » IMB
 author: Keelan Cook
 season: summer
+tags: IMB missions
 ---
 ![Pathways » IMB Banner Image](https://i.imgur.com/aeVVD30.png)
 
@@ -34,5 +35,3 @@ The application process considers each of the above mentioned qualifications: ca
 ## Additional Questions
 
 If you have additional questions concerning the Pathways » IMB cohorts, application to the IMB through this model, or how you or your church can participate in this initiative, you can find answers to those questions on the [[Pathways » IMB FAQs]] page.
-
-To find out more, check out the [[About]] page.
