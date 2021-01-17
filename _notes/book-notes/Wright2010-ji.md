@@ -1,5 +1,5 @@
 ---
-title: The Mission of God's People(Wright, 2010)
+title: The Mission of God's People (Wright, 2010)
 author: Keelan Cook
 season: winter
 tags: missions theology church Bible book_notes
