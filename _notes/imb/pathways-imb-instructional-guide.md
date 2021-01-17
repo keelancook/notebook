@@ -1,11 +1,10 @@
 ---
-title: Pathways » IMB
+title: Pathways » IMB Instructional Guide
 season: summer
 author: Keelan Cook
-date: 2020-12-15
+created: 2020-12-15T00:00:00-06:00
 tags: IMB missions
-
-
+modified: 2021-01-16T20:11:34-06:00
 ---
 
 ![Pathways IMB Banner](https://i.imgur.com/aeVVD30.png)
