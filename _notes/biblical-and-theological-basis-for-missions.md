@@ -7,7 +7,7 @@ created: 2021-01-17
 ---
 
 ## A Whole Bible Theology of Mission
-Wright is correct when he claims the "biblical basis for missions" conversation is often little more than scouring the text for out-of-context proofs for an already determined strategy.[[Wright, Mission of God::]] 
+Wright is correct when he claims the "biblical basis for missions" conversation is often little more than scouring the text for out-of-context proofs for an already determined strategy.[[Wright, Mission of God::rsn]] 
 
 ## Key Resources
 * Goheen, Michael W. A Light to the Nations: The Missional Church and the Biblical Story. Baker Academic, 2011.
