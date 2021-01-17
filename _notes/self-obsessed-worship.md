@@ -6,7 +6,7 @@ tags: worship ministry
 created: 2021-01-17T09:49:17-06:00
 modified: 2021-01-17T09:53:54-06:00
 ---
-
+The adjustment in lyric content in worship has significant consequences for discipleship. If the goal is [[Transformational Discipleship]], then corporate worship is central to that. It engages all three domains, the head, heart, and hands in praise. However, when it is anemic in content (or perhaps misidrected toward self or immanence of some form), then it fails to be Spirituall formative It forms us, to be certain, but in the wrong direction. It creates a preoccupation with self, or current lived experiences, and sets our eyes too low. In some ways, worship should for us to contemplate transcendence as well.
 
  ## American Worship Music isn't about Heaven Anymore
  Matthew Westerholm, as part of his PhD research, studied contemporary worship music against the backdrop of worship music over a century ago. He writes:
@@ -17,7 +17,7 @@ modified: 2021-01-17T09:53:54-06:00
 
  > It’s important to note the influence that juvenilization has played upon the North American church in general and CWM in particular. Juvenilized music, as scholars use the term, is music that both aims at younger people and, by that token, caters to their life experiences, desires, and emotional maturity levels... It should surprise no one that hymnody forged in contexts aimed at the values and felt needs of young people displays little concern for topics that appeal to older saints. Let me offer but one example: death. CWM rarely mentions death, or at least our death.
 
- >We should consider how commercialization has affected our worship songs. The writing, publishing, and selling of congregational songs is far from a new phenomenon.[19] But independent Christian music labels being bought out by major secular music labels is.
+ >We should consider how commercialization has affected our worship songs. The writing, publishing, and selling of congregational songs is far from a new phenomenon. But independent Christian music labels being bought out by major secular music labels is.
 
 >Singing about heaven has always served as a great encouragement to believers who do not (and should not) feel at home in this fallen world. Singing about heaven “right-sizes” a church’s expectations about what believers can anticipate in this life.
 
