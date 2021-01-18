@@ -2,7 +2,7 @@
 layout: post
 title: Pathways » IMB Explainer
 author: Keelan Cook
-season: summer
+season: spring
 tags: IMB missions
 created: 2020-12-15T00:00:00-06:00
 modified: 2021-01-16T20:12:11-06:00
