@@ -10,7 +10,8 @@ created: 2021-01-17
 Wright is correct when he claims the "biblical basis for missions" conversation is often little more than scouring the text for out-of-context proofs for an already determined strategy.[[Wright, Christopher J. H. “Truth with a Mission: Reading All Scripture Missiologically.” *Southern Baptist Journal of Theology* 15.2 (2011): 4–14.::rsn]]  As a correction, Wright proposses his missional hermeneutic. In *The Mission of God's People*, Wright writes,
 >"There should be no theology that does not relate to the mission of the church — either by being generated out of the church's mission or by inspiring and shaping it. And there should be no mission of the church carried on without deep theological roots in the soil of the Bible." [[The Mission of God's People (Wright, 2010)::rsn]]
 
-This is in accordance with the Martin Kahler quote made famous by David Bosch in *Transforming Mission*
+This is in accordance with the Martin Kahler quote made famous by David Bosch in *Transforming Mission*, "Mission is the mother of theology." Indeed, Ott, Strauss, and Tennent in their theology of mission text, *Encountering Theology of Mission*, claim, 
+>"The Bible is from start to finish a missionary book," begins Ott, Strauss, and Tennet's Encountering Theology of Mission.[[[[Ott2010-wg]], loc. 535.::rsn]]
 ## Key Resources
 * Goheen, Michael W. A Light to the Nations: The Missional Church and the Biblical Story. Baker Academic, 2011.
 * Kostenberger, Andreas J., and Peter T. O’Brien. Salvation to the Ends of the Earth: A Biblical Theology of Mission. Leicester, England : Downers Grove, Ill: Apollos / Inter-Varsity Press, 2001.
