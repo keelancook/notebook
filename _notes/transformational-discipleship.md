@@ -15,6 +15,7 @@ modified: 2021-01-17T05:08:08-06:00
 > **Working definition:** At its best, [[Discipleship]] is transformative learning. It's the kind of learning that changes someone's life. Biblical discipleship is being on Christ's mission and taking others with you.
 
 ---
+[[Transformational Discipleship has much in common with habit formation]]. The overall process develops rhythms within a person's life that engages all of the [[Learning Domains]] in an experiential learning process, similar to [[Kolb's Cycle]]. However, if order for this to be transformative in the appropriate sense, it must be grounded on [[Biblical Models of Discipleship]].
 
 ## Biblical Discipleship
 [[*Fill in this section with discussion of Mark 8.*::lmn]]
@@ -30,5 +31,6 @@ In the 1950s, an educational theorist named Benjamin Bloom proposed a significan
 The cognitive domain is probably the one most of us associate with learning, it's all about the head. It's knowledge and facts and concepts. But there were two more that Bloom said were just as important. The affective domain, as he called it, had to do with the heart. It was about emotions or affections. And finally, the behavioral domain was about the hands and feet. People learn by doing, and experimenting, by action.
 
 Transformative learning, the kind that changes a person, happens when all three of these domains are included in the learning process.
+
 
 ---
