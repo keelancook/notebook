@@ -9,8 +9,8 @@ created: 2021-01-17
 ## Outline
 * [[A Whole Bible Theology of Mission]]
 * [[Mission and Missions]]
-* [[The Mission of God]]
-* [[The Mission of God's People]]
+* The [[Mission of God]]
+* The [[Mission of God's People]]
 
 
 ## Key Resources
