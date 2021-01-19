@@ -28,7 +28,7 @@ Another, more recent, trend is the concept of a [digital garden](https://maggiea
 
 ---
 
-## How is Different than a Blog?
+## How is This Different than a Blog?
 There is certainly some overlap between this commonplace book and a traditional blog. Both are means of publishing information, of disseminating content created for a particular purpose. But, there are some important distinctions as well. A blog is linear in nature, with serial posts. These articles are also mostly polished products. With a blog, you don't hit publish until you're thouhts are finished. We need well-articulated, well-edited thoughts in the form of articles. I'm a big believer in the process of working your writing into this type of content for the good of others, and in my case hopefully the good of the church. I have a blog where those articles land. You can find it here: [The Peoples Next Door](https://keelancook.com).
 
 If a blog is the showroom, think of a commonplace book as the workshop. The thoughts stored here are not serial in nature. They are also not linear in format. Instead, this space houses networked thought that is changing all the time. These notes live and grow as my own research and study hopefully forms my thougths. In this space, I can share the worshop with others, so that my thinking happens with scrutiny from others and as a means of spurring others on to think as well.
