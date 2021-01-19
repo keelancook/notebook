@@ -22,15 +22,20 @@ created: 2021-01-19
 ---
 
 ## The Mission of God is Trinitarian in Essence
-Since God is Trinity, it naturally follows that all three persons are equally involvd in each aspect and in like purpose in teh mission of God. 
+As noted by Tennent in [[Invitation to World Mission (Tennent, 2010)]], the term mission was used exclusively by the church to refer to the action of the Trinity until the sixteenth century. At that time, Jesuits bega to use the word to refer to the propagation of the gospel. In recent years, a number of scholars are working to revive a robust Trinitarian missiology. Perhaps the headwaters of this movement within evangelicalism was Lesslie Newbigin's *The Open Secret*, where he proposed proper mission theology could only be reclaimed with a return to a Trinitarian understanding of mission.[[The Open Secret (Newbigin, ??), ??::rsn]] In the last decade, Timothy Tennent provided a Theology of Mission that attempts to recast mission in a robust Trinitarianism. Tennet outlines his entire theology of mission in a Trinitarian framework: the Father is the sender, the incarnate Son is the model embodiment of mission in the world, and the Holy Spirit is the empowering presence of all mission.[[Inivtation to World Missions (Tennent, 2010), 74.::rsn]]
 
-As noted by Tennent in [[Invitation to World Mission (Tennent, 2010)]], the term mission was used exclusively by the church to refer to the action of the Trinity until the sixteenth century. At that time, Jesuits bega to use the word to refer to the propagation of the gospel. In recent years, a number of scholars are working to revive a robust Trinitarian missiology. 
+While this is a welcome development, one must be careful not to divide the work of God in an unhelpful way. Since God is Trinity, it naturally follows that all three persons are equally involved in each aspect and in like purpose in the mission of God. 
 
 
 ---
 
 ## The Mission of God is Cosmic in Scope
+The mission of God is cosmic in its scope, a point that is demonstrated by two significance themes that run throughout the canon. The first is the theme of creation and recreation. The second is the nations theme that deals with all the peoples of the world.
 
+### Recommended Sources:
+* Goheen, *Let the Nations be Glad* speaks of the mission of God with the shorthand of redeeming his image-bearers and restoring his creation.
+* Wright, *The Mission of God* has two chapters dedicated to the nations theme.
+* Ott, Strauss, and Tennent, *Encountering Theology of Mission* also treat the nations theme extensively.
 
 ---
 
