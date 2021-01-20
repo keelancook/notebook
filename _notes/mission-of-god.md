@@ -49,4 +49,8 @@ Gentry and Wellum assert in [[God's Kingdom through God's Covenant (Gentry, 2015
 ---
 
 ## The Mission of God finds its *telos* in Christ
-> it is more biblical to think in terms of a plurality of covenants (e.g., Gal. 4:24; Eph. 2:12; Heb. 8:7–13), which are part of the progressive revelation of the one plan of God, and all of which reach their telos, terminus, and fulfillment in Christ. [[ God's Kingdom through God's Covenant (Gentry & Wellum, 2015), 251.::rsn]]
+> ...it is more biblical to think in terms of a plurality of covenants (e.g., Gal. 4:24; Eph. 2:12; Heb. 8:7–13), which are part of the progressive revelation of the one plan of God, ***and all of which reach their telos, terminus, and fulfillment in Christ.*** [[ God's Kingdom through God's Covenant (Gentry & Wellum, 2015), 251.::rsn]]
+
+
+
+
