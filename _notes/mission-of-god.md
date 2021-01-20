@@ -40,6 +40,11 @@ The mission of God is cosmic in its scope, a point that is demonstrated by two s
 ---
 
 ## The Mission of God Develops through the Covenants
+>contrary to “covenant theology,” which has the tendency to speak of God’s one plan of salvation in terms of the “covenant of grace,” and contrary to “dispensational theology,” which tends to partition history in terms of dispensations, it is more biblical to think in terms of a plurality of covenants (e.g., Gal. 4:24; Eph. 2:12; Heb. 8:7–13), which are part of the progressive revelation of the one plan of God, and all of which reach their telos, terminus, and fulfillment in Christ. [[ God's Kingdom through God's Covenant (Gentry & Wellum, 2015), 251.::rsn]]
+
+>As God acts to redeem, the covenants disclose God’s eternal plan and reveal many truths, such as: who God is, the purpose of our creation, and how we are to live in relationship with God and each other. [[ God's Kingdom through God's Covenant (Gentry & Wellum, 2015), 252.::rsn]]
+
+[[*Need to pull in covenant graphic from Gentry and Wellum and unpack in this section.*::lmn]]
 
 
 ---
