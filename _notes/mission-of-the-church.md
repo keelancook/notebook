@@ -22,7 +22,6 @@ modified: 2021-01-16T20:27:18-06:00
 ## As Witnesses
 
 
-
 ---
 
 ## In Order to Make Disciples

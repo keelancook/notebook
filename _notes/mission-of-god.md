@@ -49,8 +49,8 @@ Gentry and Wellum assert in [[God's Kingdom through God's Covenant (Gentry, 2015
 ---
 
 ## The Mission of God finds its *telos* in Christ
-> ...it is more biblical to think in terms of a plurality of covenants (e.g., Gal. 4:24; Eph. 2:12; Heb. 8:7–13), which are part of the progressive revelation of the one plan of God, ***and all of which reach their telos, terminus, and fulfillment in Christ.*** [[ God's Kingdom through God's Covenant (Gentry & Wellum, 2015), 251.::rsn]]
+>Since all of the biblical covenants are part of the one plan of God, no covenant is unrelated to what preceded it, and no covenant can be understood apart from its fulfillment in Christ, it is right to say that all of the biblical covenants reach their telos in Christ and the new covenant.[[ God's Kingdom through God's Covenant (Gentry & Wellum, 2015), 253.::rsn]]
 
+>What the previous covenants revealed, anticipated, and predicted through various patterns, types, and instruction, is now here, albeit in inaugurated form. That is why our Lord is presented as the new covenant head, who in his person and work is greater than Adam by undoing what Adam did and thus winning for us the new creation; the true seed and offspring of Abraham, who brings blessings to the nations by his cross work; the true Israel, fulfilling all that she failed to be; and David’s greater son, who rules the nations and the entire creation as King of kings and Lord of lords.[[ God's Kingdom through God's Covenant (Gentry & Wellum, 2015), 254.::rsn]]
 
-
-
+This does not mean that the previous covenants have no value. They are for our instruction and spiritual formation. However, Christians are no longer under these covenants, *as covenants*.
