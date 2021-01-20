@@ -17,7 +17,7 @@ created: 2021-01-19
 * In the immediate aftermath of the fall, God enacts a promised plan of redemtpion and salvation. (Gen. 3)
 * This promise plan is then progressively revealed through a series of covenants that God makes with his elected people. The covenants focus attention toward the coming Messiah, the prophet, priest, and king, who will restablish God's reign over all humanity and creation.
 * At the consummation, when history is done. God's reign will be fully restored over humanity (Ps. 96:10-13), over all nations (Isa 2:4, Rev. 19:15), and over all creation (Rom. 8:19-22). His kingdom will be established in full glory.
->The Kingdom of this world has become the kingdom of our Lord and of his Christ, and he will reign for ever and ever.(Rev. 11:15b)
+>The Kingdom of this world has become the kingdom of our Lord and of his Christ, and he will reign for ever and ever(Rev. 11:15b).
 
 ---
 
@@ -40,13 +40,20 @@ The mission of God is cosmic in its scope, a point that is demonstrated by two s
 ---
 
 ## The Mission of God Develops through the Covenants
+>As God acts to redeem, the covenants disclose God’s eternal plan and reveal many truths, such as: who God is, the purpose of our creation, and how we are to live in relationship with God and each other. [[ God's Kingdom through God's Covenant (Gentry & Wellum, 2015), 252.::rsn]]
+
+Gentry and Wellum assert in [[God's Kingdom through God's Covenant (Gentry, 2015)]] that the plurality of covenants found throughout the covenant between God and his people "are part of the progressive revelation of the one place of God."[[Peter Gentry and Stephen Wellum, *God’s Kingdom through God's Covenants: A Concise Biblical Theology* (Wheaton: Crossway, 2015), 25.::rsn]]
+
+
+
+
 >contrary to “covenant theology,” which has the tendency to speak of God’s one plan of salvation in terms of the “covenant of grace,” and contrary to “dispensational theology,” which tends to partition history in terms of dispensations, it is more biblical to think in terms of a plurality of covenants (e.g., Gal. 4:24; Eph. 2:12; Heb. 8:7–13), which are part of the progressive revelation of the one plan of God, and all of which reach their telos, terminus, and fulfillment in Christ. [[ God's Kingdom through God's Covenant (Gentry & Wellum, 2015), 251.::rsn]]
 
->As God acts to redeem, the covenants disclose God’s eternal plan and reveal many truths, such as: who God is, the purpose of our creation, and how we are to live in relationship with God and each other. [[ God's Kingdom through God's Covenant (Gentry & Wellum, 2015), 252.::rsn]]
+
 
 [[*Need to unpack this section.*::lmn]]
 
-![Gentry Covenant Diagram](https://i.imgur.com/xHybBbJ.png)
+![Gentry Covenant Diagram](https://i.imgur.com/xHybBbJ.png)[[Driagram is from *God's Kingdom through God's Covenant* (Gentry, 2015), 259. ]]
 
 ---
 

@@ -24,7 +24,7 @@ Commonplace books have been used by many of the greatest minds. One of the earli
 
 ---
 ## The Digital Garden
-Another, more recent, trend is the concept of a [digital garden](https://maggieappleton.com/garden-history). A digital garden is an online space for public thinking and idea generation. If you're a scholar, researcher, or knowledge worker of any kind, you know what it's like to have a notebook full of half-baked ideas. Those of us who think and write for a living are contantly capturing ideas, and if we're not cafeul, that's as far as the process goes. By placing those notes back out in front of everyone, it creates a level of accountability to continue processing them. It also allows for the free exchange of ideas, which should be the goal of scholarship in the first place. That's when we turn a corner from [note taking to note making](https://nesslabs.com/from-note-taking-to-note-making).
+Another, more recent, trend is the concept of a [digital garden](https://maggieappleton.com/garden-history). A digital garden is an online space for public thinking and idea generation. If you're a scholar, researcher, or knowledge worker of any kind, you know what it's like to have a notebook full of half-baked ideas. Those of us who think and write for a living are constantly capturing ideas, and if we're not cafeul, that's as far as the process goes. By placing those notes back out in front of everyone, it creates a level of accountability to continue processing them. It also allows for the free exchange of ideas, which should be the goal of scholarship in the first place. That's when we turn a corner from [note taking to note making](https://nesslabs.com/from-note-taking-to-note-making).
 
 ---
 
