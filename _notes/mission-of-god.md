@@ -44,8 +44,9 @@ The mission of God is cosmic in its scope, a point that is demonstrated by two s
 
 >As God acts to redeem, the covenants disclose God’s eternal plan and reveal many truths, such as: who God is, the purpose of our creation, and how we are to live in relationship with God and each other. [[ God's Kingdom through God's Covenant (Gentry & Wellum, 2015), 252.::rsn]]
 
-[[*Need to pull in covenant graphic from Gentry and Wellum and unpack in this section.*::lmn]]
+[[*Need to unpack this section.*::lmn]]
 
+![Gentry Covenant Diagram](https://i.imgur.com/xHybBbJ.png)
 
 ---
 
