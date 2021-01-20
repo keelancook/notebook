@@ -42,20 +42,11 @@ The mission of God is cosmic in its scope, a point that is demonstrated by two s
 ## The Mission of God Develops through the Covenants
 >As God acts to redeem, the covenants disclose God’s eternal plan and reveal many truths, such as: who God is, the purpose of our creation, and how we are to live in relationship with God and each other. [[ God's Kingdom through God's Covenant (Gentry & Wellum, 2015), 252.::rsn]]
 
-Gentry and Wellum assert in [[God's Kingdom through God's Covenant (Gentry, 2015)]] that the plurality of covenants found throughout the covenant between God and his people "are part of the progressive revelation of the one place of God."[[Peter Gentry and Stephen Wellum, *God’s Kingdom through God's Covenants: A Concise Biblical Theology* (Wheaton: Crossway, 2015), 25.::rsn]]
-
-
-
-
->contrary to “covenant theology,” which has the tendency to speak of God’s one plan of salvation in terms of the “covenant of grace,” and contrary to “dispensational theology,” which tends to partition history in terms of dispensations, it is more biblical to think in terms of a plurality of covenants (e.g., Gal. 4:24; Eph. 2:12; Heb. 8:7–13), which are part of the progressive revelation of the one plan of God, and all of which reach their telos, terminus, and fulfillment in Christ. [[ God's Kingdom through God's Covenant (Gentry & Wellum, 2015), 251.::rsn]]
-
-
-
-[[*Need to unpack this section.*::lmn]]
+Gentry and Wellum assert in [[God's Kingdom through God's Covenant (Gentry, 2015)]] that the plurality of covenants (e.g., Gal. 4:24; Eph. 2:12; Heb. 8:7–13) found throughout the covenant between God and his people "are part of the progressive revelation of the one plan of God."[[Peter Gentry and Stephen Wellum, *God’s Kingdom through God's Covenants: A Concise Biblical Theology* (Wheaton: Crossway, 2015), 25.::rsn]] God's promise plan throughout Scripture, and his mission to accomplish this plan, unfolds as God makes covenants with his people. As the covenants progress, the plan and it's parameters clarify with each subsequent covenan. In Genesis 3, in the same moments that the curse of sin delivered, God promises a plan, through the seed of the woman, to crush the seed of the serpent. By Gensis 12, this plan is established through the family line of Abraham. Further clarification comes through the Israelite covenant (Exod. 19-24), and by the Davidic Covenant, God singles out the kingly line of David (2 Samuel 7) to produce the Messianic king that would save his people and rule on David's throne forever. The plan centers on the person and work of incarnate Son, Jesus the Christ, whose work established the new covenant. They mystery is finally and fully revealed through the church (Eph. 3:10).
 
 ![Gentry Covenant Diagram](https://i.imgur.com/xHybBbJ.png)[[Driagram is from *God's Kingdom through God's Covenant* (Gentry, 2015), 259. ]]
 
 ---
 
 ## The Mission of God finds its *telos* in Christ
-
+> it is more biblical to think in terms of a plurality of covenants (e.g., Gal. 4:24; Eph. 2:12; Heb. 8:7–13), which are part of the progressive revelation of the one plan of God, and all of which reach their telos, terminus, and fulfillment in Christ. [[ God's Kingdom through God's Covenant (Gentry & Wellum, 2015), 251.::rsn]]
