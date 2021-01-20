@@ -44,5 +44,5 @@ The mission of God is cosmic in its scope, a point that is demonstrated by two s
 
 ---
 
-## The Mission of God finds it's *telos* in Christ
+## The Mission of God finds its *telos* in Christ
 
