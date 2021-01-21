@@ -5,7 +5,9 @@ season: spring
 tags: church missions theology
 created: 2021-01-20
 ---
+
 This mission of God's people is the central way in which they participtate in the [[Mission of God]].
+
 # Mission of God's People
 
 ### The Church as God's New Covenant Community
