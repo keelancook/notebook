@@ -50,7 +50,18 @@ The purpose of Christian mission is to bear witness to the work of God through C
 
 [[*Include here a discussion of representationalism vs. incarnationalism, tying in the chapter from Paradigms in Conflict.*::lmn]]
 
-A sober understanding of sin does not alleviate the ethical component of witness-bearing, it does change its aim from transformation to testimony. The Christian mission requires a testimonial ethic, one that encompasses every facet of life: public, private, family, professional, and leisure. Ambassadors
+A sober understanding of sin does not alleviate the ethical component of witness-bearing, it does change its aim from transformation to testimony. The Christian mission requires a testimonial ethic, one that encompasses every facet of life: public, private, family, professional, and leisure. All of life falls under the Lordship of Christ, and all of life testifies to the transformation that occurs because of the gospel.
+
+Though Scripture is abundantly clear that witness bearing is not a merely, or even primarily, passive activity. Bearing witness requires active proclamation of the gospel message. In fact, Scripture seems to place a priority on the proclamation of the message within the mission of the church. [[How do we see this priority in Scripture? The example of Paul and the examples provided by Luke in the book of Acts place a priority on actively carrying the gospel message to those for whom it is news (*Scripture References*). Paul, in his letters, places a priority on verbally sharing the gospel message with others (*References*). ]]
+
+### 2 Corinthians 5:11-21 as Witness Bearing Explanation
+>Therefore, since we know the fear of the Lord, we ***try to persuade people***...For the love of Christ compels us, since we have reached this conclusion, that one died for all, and therefore all died. And he died for all so that ***those who live should no longer live for themselves, but for the one who died for them*** and was raised. 
+>
+>From now on, then, we do not know anyone from a worldly perspective. Even if we have known Christ from a worldly perspective, yet now we no longer know him in this way. Therefore, if anyone is in Christ, he is a new creation; the old has passed away, and see, the new has come! Everything is from God, who has reconciled us to himself through Christ and ***has given us the ministry of reconciliation***. That is, in Christ, God was reconciling the world to himself, not counting their trespasses against them, and ***he has committed the message of reconciliation to us***. 
+>
+>***Therefore, we are ambassadors for Christ, since God is making his appeal through us***. We plead on Christ’s behalf, “Be reconciled to God.” He made the one who did not know sin to be sin for us, so that in him we might become the righteousness of God (2 Cor. 5:11-21).
+
+
 
 Ephesians 3:10 - through the church, wisdom of God is made known
 
@@ -67,3 +78,8 @@ The Great Commission in some form shows up in all four of the gospels.[[*Support
 ---
 
 ## For His Glory (Revelation 7:9; Philippians 2:10-11; Habbakkuk 2:14)
+The chief motivation for the mission of the church is that God would receive the glory that He is due. 
+
+As noted in the *Foundations* document of the International Mission Board:
+>If the glory of God is our ultimate motivation, this will define both the goal of our task and the manner in which we pursue that task. The goal of our task is that the earth be filled with the knowledge of His glory as the waters cover the sea (Habakkuk 2:14). Our passion is to see Him receive the glory that is due His name from every tribe, tongue, people, and nation (Psalm 96:1–9). Everything we do in missions is a means to that end. [[Foundations, 29.::rsn]]
+
