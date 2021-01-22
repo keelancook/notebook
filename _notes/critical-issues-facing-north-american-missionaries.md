@@ -7,9 +7,7 @@ created: 2020-01-22
 ---
 *This note is the response to one of my PhD [[Comprehensive Exam Questions]].*
 
-
-# Critical Issues Facing North American Missionaries
-
+---
 ## Move Past the Rhetoric of Multiplication
 North American missionaries must find a way to move past the rhetoric of multiplication and facilitate churches shifting from a recruitment paradigm to a development paradigm.
 
