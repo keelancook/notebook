@@ -14,5 +14,31 @@ The following are the questions I was given for my PhD comprehensive exams. I in
 4. State and defend your position on contextualization on the mission field. Your response must include a definition of the term, arguments for and against contextualization, and your acceptable parameters for contextualizing (if indeed you argue that contextualization is permissible). Be certain to support your response with strong sources, including the Bible.
 5. Develop a fully supported and clearly articulated response to the question, “How might the North American local church equip potential missionaries to reach cities for Christ?” Your response should reflect biblical, theological, and practical insights.
 6. State and defend your method of evaluating whether a missionary is effective in his or her work. You may apply this answer to your current place of ministry, but your response must provide clear evidence of your knowledge of the missionary task and related resources.
-7. Describe what you believe are the 3-5 most critical issues facing missionaries seeking to reach North America today. Be certain to support your conclusions with strong research.
+7. Describe what you believe are the 3-5 most [[Critical Issues Facing North American Missionaries]] seeking to reach North America today. Be certain to support your conclusions with strong research.
 8. Choose the two missiologists or writers whose works have been most influential on your approach to missions. Summarize their insights most helpful to you, providing evidence of your knowledge of their works.
+
+
+---
+## Oral Comps Prep
+* Compile oultines into notes in commonplace book
+* Come up with proofs for critical issues
+  * **Shifting paradigms on sending**
+    * We need more planters tweet from Kevin saying the pond is drying up.
+    * 2018 study by Send Institute
+    * 
+  * **Replanting**
+    * 75% are in cities
+  * **Rapid diversification in America**
+    * De-europeanization of American Christianity
+      * Soong Chan Rah and his stat about Boston churches in *The Next Christendom*
+    * Concepts of super-diversity
+    * Diaspora missions as neccessity that can't merely be solved by some vague calls to multi-ethnicity
+  * **The Threat of Cultural Captivity**
+    * 
+* Make sure I'm familiar with Hiebert/ Hesselgrave bios and CV
+* Note the mistake on Sears and Christian Americanization. Need to go back and familiarize myself with this list of books.
+* What are the things I know I got wrong or know I was too light on in my questions?
+  * The work of Christ in the mission of God - affirm a Nicaean postion
+  * What it does mean to be a witness, not just what it doesn't mean
+    * Proclamation and presence
+  * Read over Wright and Goheen on Genesis 12
