@@ -22,19 +22,6 @@ The following are the questions I was given for my PhD comprehensive exams. I in
 ## Oral Comps Prep
 * Compile oultines into notes in commonplace book
 * Come up with proofs for critical issues
-  * **Shifting paradigms on sending**
-    * We need more planters tweet from Kevin saying the pond is drying up.
-    * 2018 study by Send Institute
-    * 
-  * **Replanting**
-    * 75% are in cities
-  * **Rapid diversification in America**
-    * De-europeanization of American Christianity
-      * Soong Chan Rah and his stat about Boston churches in *The Next Christendom*
-    * Concepts of super-diversity
-    * Diaspora missions as neccessity that can't merely be solved by some vague calls to multi-ethnicity
-  * **The Threat of Cultural Captivity**
-    * 
 * Make sure I'm familiar with Hiebert/ Hesselgrave bios and CV
 * Note the mistake on Sears and Christian Americanization. Need to go back and familiarize myself with this list of books.
 * What are the things I know I got wrong or know I was too light on in my questions?

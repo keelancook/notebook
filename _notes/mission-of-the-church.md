@@ -28,18 +28,41 @@ Goheen is helpful with his four-part structure. As noted concerning the [[Missio
 ---
 
 ## To All Nations (Matthew 28:18-20; Acts 1:8)
+While there is question among scholar's concerning the centripetal and centrifugal purposes of the Old Testament people of God, it is abundantly clear that the new covenant people are scattered in order to gather.
 
+[[*Use Goheen again here some here and note that this is debated about the OT people of God, but that it becomes abundantly clear that this is one distinction in the New Covenant purpose of the peoiple of God.*::lmn]]
 
 ---
 
 ## As Witnesses (Acts 1:8)
+
+The word group centered around the term μάρτυς is significant throughout the New Testament, especially in the gospel of John and Acts. It is significant how frequently this is used to describe the role of Christians in Acts and the work that the earliest Christians were doing. That this is the primnary role of the church it's in participation in the mission of God is clear in Acts 1:8, where Christ explicitly tells his church that they will serve as witnesses to the ends of the earth. However, what exactly does it mean for the church to be witnesses?
+
+### When Everyting is Missions...
+There are assuredly dangers in defining this with constraints that are too narrow. In doing so, it is entirely possible to confine this identity as witnesses to only certain quarter's of one's life. In this regard, sacred things are divided from secular, and the call to bear witness has no hold over areas deemed secular.
+
+Of course, dangers exist in the other direction as well. A maximalist definition of witnesse-bearing runs the risk of overloading the concept to the point of losing it's meaning altogther. As Stephen Neill rightly notes, "When everything is mission, nothing is mission."[[*Find the place where Neill said this.*::lmn]] Wright, who states clearly in his introduction that one of his primary goals in writing his theology of mission is to include all of biblical ethics into the mission of God's people, glibly dismisses this warning from Neill. 
+
+What is needed is a *via media* position that avoids the extremes of missional essentialism and maximalism, instead aiming to understand the mission of the church as life-encompassing without attempting to undescore ethics by merely making it a subset of mission. A nuanced approach can follow the warp and woof of Scripture more closely, prioritizing what Scripture priortizes in it's explanation of mission. To this end, witness bearing is crucial to a right understanding of mission, as it is essentially testimonial in nature. 
+
+### A Priority on Proclamation with a Pratice of Faithful Presence
+The purpose of Christian mission is to bear witness to the work of God through Christ and to His kingdom. As the New Covenant community, the church in its local expressions should serve as tangible outposts of the inaugurated kingdom, a preview of what is to come. However, a right understanding of the pervassive and lasting impact of sin cautions aspirations of societal transformation as the purpose of Christian mission. The curse of sin impacts both individuals and all human systems. Its only remedy is found in Christ's atoning work and its complete eradication will only occur upon his return to establish a new heavens and new earth. In that regard, the mission of the church cannot be to change a city or the world in this ultimate sense, that work is reserved for Christ alone. Furthermore, the church must humbly admit that it is still affected by sin's curse and could not replace human society around it with a new perfected order if given the chance. Attempts at this only led to Christendom. However, the church is to bear witness to the one who has accomplished redemption even as we await it's complete application to all of creation.
+
+[[*Include here a discussion of representationalism vs. incarnationalism, tying in the chapter from Paradigms in Conflict.*::lmn]]
+
+A sober understanding of sin does not alleviate the ethical component of witness-bearing, it does change its aim from transformation to testimony. The Christian mission requires a testimonial ethic, one that encompasses every facet of life: public, private, family, professional, and leisure. Ambassadors
 
 Ephesians 3:10 - through the church, wisdom of God is made known
 
 ---
 
 ## In Order to Make Disciples (Matthew 28:18-20)
+If witness-bearing is the role of church, then disciple-making is the means of the work. It is the continual work of the church until the end of the age. 
 
+The Great Commission in some form shows up in all four of the gospels.[[*Support this claim with the verses in each.*::lmn]] The central nature of this task to the mission of the church can be see by its inclusion in all of the narrative recounts of Christ and his work. Furhtermore, that it is the priority of the Christian mission can be noted in the manner in whicd it is introduced. R.T. France notes in his commentary on Matthew that the placement of the passage at the very end of the book serves as a crescendo for the entire narrative. It is, France claims the key to understanding the whole gospel, becauses it serves as the intersection of many of the gospel's most central themes.[[R. T. France, *The Gospel of Matthew*, NICNT (Grand Rapids: Eerdmans, 2007), 1109.::rsn]]
+
+### Teaching them to obey all I've commanded
+[[*This section needs to connect with the discussion on [[Transformative Discipleship]]*::lmn]]
 
 ---
 

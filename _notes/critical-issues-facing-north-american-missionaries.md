@@ -5,7 +5,7 @@ season: spring
 tags: missions
 created: 2020-01-22
 ---
-*This note is the response to one of the questions asked for my PhD [[Comprehensive Exam Questions]].*
+*This note is the response to one of my PhD [[Comprehensive Exam Questions]].*
 
 
 # Critical Issues Facing North American Missionaries
