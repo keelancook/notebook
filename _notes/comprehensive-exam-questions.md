@@ -29,3 +29,4 @@ The following are the questions I was given for my PhD comprehensive exams. I in
   * What it does mean to be a witness, not just what it doesn't mean
     * Proclamation and presence
   * Read over Wright and Goheen on Genesis 12
+* Read Stetzer blog series on missions vs. missional
