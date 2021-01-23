@@ -86,7 +86,8 @@ The Bible explicitly gives warrant for the translation of the gospel (and theolo
 #### The Bible as Example of Contextualization
 * Written in several different languages across a large region of the world by many authors spread out over hundreds of years.
 * Each of gospels and Paul's letters demonstrates contextuality.
-* 
+  
+
 ---
 ## Notes from Critical Contextualization chapter of *Anthropological Reflections on Missiological Issues*
 * Noncontextualization ironically leads to syncretism. When the pieces of worldview are not addressed by the gospel, they merely go underground. Christianity becomes a veneer over an old worldview. Western Protestant culture is passed on, but the underlying worldview remains unchanged. The result is a folk religion. [[Hiebert, Critical Contextualization, 106.::rsn]]
