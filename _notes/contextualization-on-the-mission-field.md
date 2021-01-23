@@ -87,6 +87,11 @@ The Bible explicitly gives warrant for the translation of the gospel (and theolo
 * Each of gospels and Paul's letters demonstrates contextuality.
 
 ## Parameters for Healthy Contextualization
+### Contextualize toward Culture; Transform Worldview
+[[Scott Hildreth delived this concept in a PhD seminar lecture.::rmn]]
+Scott Hildreth develops an important distinction between culture and worldview that is necessary for proper contextualization. This gospel is essentially a worldview claim. In this sense, contextualization does not make the gospel relevant to a given people, the gospel is already relevant. It confronts and challenges all competing worldview claims. 
+
+The goal of contextualization then is to make the gospel understandable and potent within a particular cultural framework. The missionary should contextualizes toward culture, not worldview. Proper contextualization mantains the worldview of the gospel while communicating it in different cultural forms, be they language, ritual, or some other cultural artifact. On the other hand, syncretization occurs when one attempts to contextialize toward the worldview. This requires adapting the actual claims of the gospel to comply with the receptor worldview. Doing so conforms the gospel to the sensibilities of that worldview and it ceases to be the gospel.
 
 ### Hiebert's Four Categories for Contextualization
 [[Hiebert, *The Gospel in Human Contexts*, ??::rmn]]
@@ -102,18 +107,18 @@ The Bible explicitly gives warrant for the translation of the gospel (and theolo
 3. But be clear that theology needs to achieve cultural relevance.
 4. Yield to the priority of Scripture over any and all assumptions and pre-understandings.
 
-### Contextualize toward Culture; Transform Worldview
-[[Scott Hildreth delived this concept in a PhD seminar lecture.::rmn]]
-Scott Hildreth develops an important distinction between culture and worldview that is necessary for proper contextualization. This gospel is essentially a worldview claim. In this sense, contextualization does not make the gospel relevant to a given people, the gospel is already relevant. It confronts and challenges all competing worldview claims. 
-
-The goal of contextualization then is to make the gospel understandable and potent within a particular cultural framework. The missionary should contextualizes toward culture, not worldview. Proper contextualization mantains the worldview of the gospel while communicating it in different cultural forms, be they language, ritual, or some other cultural artifact. On the other hand, syncretization occurs when one attempts to contextialize toward the worldview. This requires adapting the actual claims of the gospel to comply with the receptor worldview. Doing so conforms the gospel to the sensibilities of that worldview and it ceases to be the gospel.
-
-
-
-The goal of contextualization is not t
-
 Clark rightly speaks of one's posture in approaching another culture in order to contextualize theology or communication. He writes,
 >It means willingly viewing all cultures both sympathetically (especially other cultures) and critically (especially one's own). As a methodological commitment, cultural relativism mitigates the tendency to condemn other cultures and coronate one's own.[[Clark2003-ni, 68.::rsn]]
+
+### From Missionary Contextualization to Self-theologizing
+This is a crucial shift that must occur. *Note that both Clark's paramters and Hiebert's model of critical contextualization afford for this.*
+### The C Scale
+[[*Unpack the C Scale here with some explanation of what John Travis was doing with it.*::lmn]]
+
+The International Mission Board policy is that C3 is healthy contextualization with some potential for C4 in certain contexts. The IMB rejects C5 contextualization.[[Foundations, ??.::rsn]] Overall, these are healthy parameters.
+
+
+
 
 
 
