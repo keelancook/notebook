@@ -76,6 +76,7 @@ Concerning contextualization, Keller asserts two truths that must be held in ten
 ### Translatability as a Christian Strength
 Andrew walls notes that the essentially contextual nature of Christianity is one of it's greatest strengths. Unlike other religions that attempt to rigidly transmit cultural forms or deny translation, Christianity is eminently translatable. This truth, along with the providence of God, is one reason for the wide spread of Christianity and it's ability to be relevant in any culture and confront any worldview.[[Walls, Missionary Movement in the History of Christianity, ??::rsn]]
 
+[[*From here down needs to reworked and synthesized.*::lmn]]
 ### The Bible and Contextualization
 The Bible explicitly gives warrant for the translation of the gospel (and theology) across cultures.
 
@@ -86,7 +87,27 @@ The Bible explicitly gives warrant for the translation of the gospel (and theolo
 #### The Bible as Example of Contextualization
 * Written in several different languages across a large region of the world by many authors spread out over hundreds of years.
 * Each of gospels and Paul's letters demonstrates contextuality.
-  
+
+## Parameters for Healthy Contextualization
+
+### Hiebert's Four Categories for Contextualization
+[[Hiebert, *The Gospel in Human Contexts*, ??::rsn]]
+* Minimal Contextualization
+* Uncritical Contextualization
+* Critical Contextualization
+* Divine Revelation Given in Human Contexts
+
+### Clark's Parameters for Contextualization
+[[Clark, *To Know and Love God*, 77.::rsn]]
+1. Recognize that there is cultural influence on all theological interpretation.
+2. Intentionally adopt a self-critical stance toward our own culture and other cultrues.
+3. But be clear that theology needs to achieve cultural relevance.
+4. Yield to the priority of Scripture over any and all assumptions and pre-understandings.
+
+
+
+
+
 
 ---
 ## Notes from Critical Contextualization chapter of *Anthropological Reflections on Missiological Issues*
