@@ -4,7 +4,7 @@ author: Keelan Cook
 season: spring
 tags: missions
 created: 2021-01-22T00:00:00-06:00
-modified: 2021-01-22T19:42:33-06:00
+modified: 2021-01-23T13:58:04-06:00
 ---
 
 *This note is the response to one of my PhD [[Comprehensive Exam Questions]].*
@@ -30,7 +30,7 @@ The following are various evangelical definitions of contextualization.
 >...the process of making God's revelation of his person and plan as revealed in the Old and New Testaments understandable to the people of a given culture with a view to making it possible for them to respond to it in a meaningful way.[[Hesselgrave, "Christian Contextualization and Biblical Theology," 156.::rsn]]
 
 #### Darrell Whiteman of Asbury Seminary
->Contextualization attempts to communicate the Gospel in word and deed and to establish the church in ways that make sense to people within their local context, presenting Christianity in such a way that it meets people's deepest needs and penetrates their worldview, thus allowing them to follow Christ and remain within their own culture(1997, 2).[[Pulled this definition from Payne and Terry's work *Developing a Strategy for Missions*, 137.]]
+>Contextualization attempts to communicate the Gospel in word and deed and to establish the church in ways that make sense to people within their local context, presenting Christianity in such a way that it meets people's deepest needs and penetrates their worldview, thus allowing them to follow Christ and remain within their own culture(1997, 2).[[Pulled this definition from Payne and Terry's work *Developing a Strategy for Missions*, 137.::rsn]]
 
 #### Hiebert's Definition in Gospel in Human Contexts
 >Contextualization seeks to formulate and communicate universal truth (cognitive dimension), love (affective dimension), and holiness (moral dimension) revealed in Scripture in particular human contexts that are diverse and everchanging.[[Hiebert2010-dc, 96.::rsn]]
@@ -56,10 +56,8 @@ The following is a condensed summary of Hiebert's critical contextualization pra
 ---
 
 ## Risks of Contextualization
-
-### Syncretism
-
-### Cultural Relativism vs. Ethical Relativism
+* Syncretism
+* Cultural Relativism vs. Ethical Relativism
 
 
 ## Realities of Contextualization
@@ -71,7 +69,7 @@ Hiebert rightly demonstrates that a critical realist epistemology provides the b
 Both Tim Keller and David Clark concur with Hiebert concerning the inevitablility of contextualization. Clark writes,
 >It is simplistic to think that we are *tabulae rasae* as we interpret the Bible and develop theological convictions. Unquestionably, culture affects theology. The critical question is this: What should theologians do with that cultural influence?[[Clark, To Know and Love God, 76-77.::rsn]]
 
-Concerning contextualization, Keller asserts two truths that must be held in tension: there is only one gospel and there is no one way to express the Christian faith. For someone to preach or teach, they must choose some form in which to do so. This choice necessarily contextualizes the gospel in a particular direction. In fact, not thinking intentionally about contextualization merely leads to deeply contextualizing toward one's own culture.[[Keller, Center Church, 93-96.]] Hiebert agrees, referring to the act of contextualizing toward one's own culture as noncontextualization.[[Hiebert, *Critical Contextualization*, 107.::rsn]]
+Concerning contextualization, Keller asserts two truths that must be held in tension: there is only one gospel and there is no one way to express the Christian faith. For someone to preach or teach, they must choose some form in which to do so. This choice necessarily contextualizes the gospel in a particular direction. In fact, not thinking intentionally about contextualization merely leads to deeply contextualizing toward one's own culture.[[Keller, Center Church, 93-96.::rsn]] Hiebert agrees, referring to the act of contextualizing toward one's own culture as noncontextualization.[[Hiebert, *Critical Contextualization*, 107.::rsn]]
 
 ### Translatability as a Christian Strength
 Andrew walls notes that the essentially contextual nature of Christianity is one of it's greatest strengths. Unlike other religions that attempt to rigidly transmit cultural forms or deny translation, Christianity is eminently translatable. This truth, along with the providence of God, is one reason for the wide spread of Christianity and it's ability to be relevant in any culture and confront any worldview.[[Walls, Missionary Movement in the History of Christianity, ??::rsn]]
@@ -91,14 +89,14 @@ The Bible explicitly gives warrant for the translation of the gospel (and theolo
 ## Parameters for Healthy Contextualization
 
 ### Hiebert's Four Categories for Contextualization
-[[Hiebert, *The Gospel in Human Contexts*, ??::rsn]]
+[[Hiebert, *The Gospel in Human Contexts*, ??::rmn]]
 * Minimal Contextualization
 * Uncritical Contextualization
 * Critical Contextualization
 * Divine Revelation Given in Human Contexts
 
 ### Clark's Parameters for Contextualization
-[[Clark, *To Know and Love God*, 77.::rsn]]
+[[Clark, *To Know and Love God*, 77.::rmn]]
 1. Recognize that there is cultural influence on all theological interpretation.
 2. Intentionally adopt a self-critical stance toward our own culture and other cultrues.
 3. But be clear that theology needs to achieve cultural relevance.
