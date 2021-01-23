@@ -3,8 +3,10 @@ title: Mission of God
 author: Keelan Cook
 season: spring
 tags: missions theology
-created: 2021-01-19
+created: 2021-01-19T00:00:00-06:00
+modified: 2021-01-22T20:51:09-06:00
 ---
+
 **Summary:**
 >The Bible tells the story of the Triune God who has a cosmic mission for his ultimate glory that is accomplished first through the creation of a place and (more importantly) a people and subsequently through the redemption and recreation of that people and place. The *mission dei* is Trinitarian in essence, cosmic in scope, and developed through God's covenants, which all find their *telos* in the person and work of Christ.
 
@@ -56,3 +58,5 @@ The biblical metanarrative progressively unfolds in such a way as to resolve its
 >What the previous covenants revealed, anticipated, and predicted through various patterns, types, and instruction, is now here, albeit in inaugurated form. That is why our Lord is presented as the new covenant head, who in his person and work is greater than Adam by undoing what Adam did and thus winning for us the new creation; the true seed and offspring of Abraham, who brings blessings to the nations by his cross work; the true Israel, fulfilling all that she failed to be; and David’s greater son, who rules the nations and the entire creation as King of kings and Lord of lords.[[ God's Kingdom through God's Covenant (Gentry & Wellum, 2015), 254.::rsn]]
 
 Christ is the new Adam. Christ is the true Israel. And Christ is the son of David who's kingdom will have no end. Through Him, all of God's promises are fulfilled and all of God's mission is ultimately accomplished.
+
+It is essential to understand the person and worth of Christ. Christ was no mere example, or movement leader. Jesus is the incarnate Son of God who's perfect life made him the perfect sacrifice and the necessary atonement for sin. He is the first fruit of the coming resurrection, he currently sits at the right hand of the father interceding for his church. He will one day come again to judge the living and the dead,consummating his kingdom.[[Language from the Nicene Creed.::rmn]]
