@@ -14,7 +14,7 @@ This is in accordance with the Martin Kahler quote made famous by David Bosch in
 >"The Bible is from start to finish a missionary book," begins Ott, Strauss, and Tennet's Encountering Theology of Mission.[[Encountering Theology of Mission (Ott), loc. 535.::rsn]]
 
 ## Adopting a Central Themes Approach
-[[*Unpack this section on considering the *missio deo* as one of the most sifnificant central themes in Scripture.*::lmn]]
+[[*Unpack this section considering the missio dei as one of the most sifnificant central themes in Scripture.*::lmn]]
 
 While Wright is a healthy correction to anemic attempts at biblical proof testing to support missions, it is best to think of mission not as the biblical center of the Scriptures but as one of several central themes that run throughout the canon. 
 
