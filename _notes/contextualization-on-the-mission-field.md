@@ -10,8 +10,45 @@ modified: 2021-01-22T19:42:33-06:00
 *This note is the response to one of my PhD [[Comprehensive Exam Questions]].*
 
 ---
-
 [[*Grab outline and notes from TW for this answer.*::lmn]]
+## History of Contextualization
+In 1972, the term "contextualization" was coined by the co-directors of the Theological Education Fund for the World Council of Churches.[[Nicholls1979-jt, 21.::rsn]] The person usually attributed with the term was Shoki Coe.[[Keller2012-ln, 91.::rsn]]
+
+### The Ecumenical Version
+In it's initial uses, the ecumenical version of contextualization often equated the context with Scripture in determining theology, even to the point of promoting it over the Scriptures in some versions.[[Payne2013-hp, 136.::rsn]] The dialectic between the two resulted in fronting culture to the extent that theologies for each location became acceptable, and even preferred. As Hiebert notes in "Critical Contextualization," the underlying philosophy of cultures held that they were incommensurable and mutual understanding was not possible.[[Hiebert, "Critical Contextualization", 108.::rsn]] Therefore, any attempt at a metacultural framework or robust understanding of orthodoxy was seen as impossible. In this sense, culture instead of Scripture took the driver's seat in forming theology.
+
+Given this ecumenical understanding of contextualization, the inerrant authority of Scripture is sacrificed to cultural influence, and the result is not a contextual theology of the Scriptures, but what amounts to a new religion entirely. This approach must be rejected outright.
+
+### The Evangelical Version
+However, following the initial ecumenical usage of the term, evangelicals began to redefine contextualization to gain the crucial insights about culture while maintaining a confessional standard concerning the authority of the Holy Scriptures.[[Payne2013-hp, 137.::rsn]] Hesselgrave and Rommen speak of a "supracultural message of the gospel" that must be communicated with cultural relevance. This is the ultimate goal of the missionary in communciation.[[Hesselgrave1989-ze, 1.::rsn]] Defined in this manner, there is no choice but to accept the validity of contextualiation considering the insights gained into culture and worldview. The question in cross-cultural missions is less about whether or not contextualization does or should occur, but how well it is happening.
+
+## Definitions of Contextualization
+The following are various evangelical definitions of contextualization.
+
+### Hesselgrave
+>...the process of making God's revelation of his person and plan as revealed in the Old and New Testaments understandable to the people of a given culture with a view to making it possible for them to respond to it in a meaningful way.[[Hesselgrave, "Christian Contextualization and Biblical Theology," 156.::rsn]]
+
+### Darrell Whiteman of Asbury Seminary
+>Contextualization attempts to communicate the Gospel in word and deed and to establish the church in ways that make sense to people within their local context, presenting Christianity in such a way that it meets people's deepest needs and penetrates their worldview, thus allowing them to follow Christ and remain within their own culture(1997, 2).[[Pulled this definition from Payne and Terry's work *Developing a Strategy for Missions*, 137.]]
+
+### Hiebert's Definition in Gospel in Human Contexts
+>Contextualization seeks to formulate and communicate universal truth (cognitive dimension), love (affective dimension), and holiness (moral dimension) revealed in Scripture in particular human contexts that are diverse and everchanging.[[Hiebert2010-dc, 96.::rsn]]
+
+## Critical Contextualization
+In 1987, Paul Hiebert wrote an article titled "Critical Contextualization" in which he outlined a brief history of Protestant contextualization practices during the modern missions movement and provided his own parameters for healthy contextualization.
+
+The following is a condensed summary of Hiebert's critical contextualization practice:[[This summary appeared in Terry and Payne's *Developing a Strategy for Missions*, 137.::rmn]]
+>The late Paul Hiebert served for many years as a professor of missionary anthropology at Trinity Evangelical Divinity School. He advocated an approach to contextualization that he called "Critical Contextualization." This approach involves four steps that lead to an appropriately contextualized expression of Christians (1994, 88—91).
+>
+>**First Step**—Hiebert maintained that missionaries and the leaders of the local churches should study the customs and traditions of the culture. This should be an uncritical gathering of cultural data.
+>
+>**Second Step**—The local pastor or missionary then leads the believers to study the Scriptures that pertain to the cultural practices. That is, the missionary assists the believers by exposing them to the biblical texts that address their cultural practices.
+>
+>**Third Step**—Local Christians meet to evaluate their traditional customs in light of scriptural teaching. It is necessary for the local believers to do this for themselves. They understand their customs, and especially the religious overtones, better than the missionary ever can. It is also important for them to go through the process, owning it, so to speak. This will provide them with a pattern of biblically informed decision making that they can apply in other situations. Their decisions will be guided by their cultural understanding, the Bible's teachings, and the guidance of the Holy Spirit, as they pray for wisdom.
+>
+>**Fourth Step**—The last step involves implementing the decisions made by the body of believers. Many customs will be retained, while others will be modified or rejected.
+>
+>Hiebert believed that his approach would enable the missionary and national churches to avoid syncretism. His belief was based on four reasons: (1) Critical contextualization acknowledges the Bible as the "rule for faith and life." (2) This approach recognizes the role of the Holy Spirit in guiding the new churches. (3) In this approach the church functions as a "hermeneutical community," interpreting the Scriptures as the body of Christ. And (4) the conclusions drawn by these new churches can inform believers and theologians in other cultural contexts.
 
 
 ## Notes from Critical Contextualization chapter of *Anthropological Reflections on Missiological Issues*
@@ -19,3 +56,15 @@ modified: 2021-01-22T19:42:33-06:00
 * On Critical Realism
 ** We see through a glass darkly, but we do see. (109)
 * It's a process that spirals inward toward precision.
+
+
+---
+
+## Resources
+* Clark, David K. *To Know and Love God: Method for Theology* Wheaton, Ill.: Crossway Books, 2003.
+* Flemming, Dean. *Contextualization in the New Testament: Patterns for Theology and Mission*. Downers Grove: InterVarsity Press, 2009.
+* Hesselgrave, David J., and Edward Rommen. *Contextualization: Meanings, Methods, and Models*. Grand Rapids: Baker, 1989.
+* Hiebert, Paul. “The Gospel in Human Contexts: Changing Perceptions of Contextualization.” Pages 82–102 in *MissionShift: Global Mission Issues in the Third Millennium*. Edited by David Hesselgrave and Ed Stetzer. Nashville, Tenn: B&H Academic, 2010.
+* Hiebert, Paul G. “Critical Contextualization.” *International Bulletin of Missionary Research* 11.3 (1987): 104–12.
+* Keller, Timothy. *Center Church: Doing Balanced, Gospel-Centered Ministry in Your City*. Zondervan, 2012.
+* Payne, J. D., and John Mark Terry. *Developing a Strategy for Missions: A Biblical, Historical, and Cultural Introduction* Encountering Mission. Grand Rapids: Baker Academic, 2013.
