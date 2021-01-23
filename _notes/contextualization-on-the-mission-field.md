@@ -61,6 +61,32 @@ The following is a condensed summary of Hiebert's critical contextualization pra
 
 ### Cultural Relativism vs. Ethical Relativism
 
+
+## Realities of Contextualization
+Despite the real risks involved with contextualization in cross-cultural missions, one must come to grips with the realities of contextualization.
+
+### All theology is, in fact, contextual theology.
+Hiebert rightly demonstrates that a critical realist epistemology provides the best grounding for a healthy evangelical approach to Scripture and the world. A critical realist distinguishes between the divine revelation of Scripture as the inpsired, inerrant Word of God given to man, and the theology that Christians derive from that revelation. Theology is human understanding of Scripture. In that regard, it is unavoidably cultural and contextual in nature.[[Hiebert, Anthropological Reflections on Missiological Issues, 30.::rsn]] This does not mean, however, that theology cannot be accurate, but that it is always contextual and approximate.
+
+Both Tim Keller and David Clark concur with Hiebert concerning the inevitablility of contextualization. Clark writes,
+>It is simplistic to think that we are *tabulae rasae* as we interpret the Bible and develop theological convictions. Unquestionably, culture affects theology. The critical question is this: What should theologians do with that cultural influence?[[Clark, To Know and Love God, 76-77.::rsn]]
+
+Concerning contextualization, Keller asserts two truths that must be held in tension: there is only one gospel and there is no one way to express the Christian faith. For someone to preach or teach, they must choose some form in which to do so. This choice necessarily contextualizes the gospel in a particular direction. In fact, not thinking intentionally about contextualization merely leads to deeply contextualizing toward one's own culture.[[Keller, Center Church, 93-96.]] Hiebert agrees, referring to the act of contextualizing toward one's own culture as noncontextualization.[[Hiebert, *Critical Contextualization*, 107.::rsn]]
+
+### Translatability as a Christian Strength
+Andrew walls notes that the essentially contextual nature of Christianity is one of it's greatest strengths. Unlike other religions that attempt to rigidly transmit cultural forms or deny translation, Christianity is eminently translatable. This truth, along with the providence of God, is one reason for the wide spread of Christianity and it's ability to be relevant in any culture and confront any worldview.[[Walls, Missionary Movement in the History of Christianity, ??::rsn]]
+
+### The Bible and Contextualization
+The Bible explicitly gives warrant for the translation of the gospel (and theology) across cultures.
+
+#### Relevant Texts:
+* Acts 15 - The Jerusalem Council
+* Acts 17 - Paul at Mars Hill
+
+#### The Bible as Example of Contextualization
+* Written in several different languages across a large region of the world by many authors spread out over hundreds of years.
+* Each of gospels and Paul's letters demonstrates contextuality.
+* 
 ---
 ## Notes from Critical Contextualization chapter of *Anthropological Reflections on Missiological Issues*
 * Noncontextualization ironically leads to syncretism. When the pieces of worldview are not addressed by the gospel, they merely go underground. Christianity becomes a veneer over an old worldview. Western Protestant culture is passed on, but the underlying worldview remains unchanged. The result is a folk religion. [[Hiebert, Critical Contextualization, 106.::rsn]]
