@@ -4,7 +4,7 @@ author: Keelan Cook
 season: spring
 tags: missions
 created: 2021-01-22T00:00:00-06:00
-modified: 2021-01-23T13:58:04-06:00
+modified: 2021-01-23T14:00:00-06:00
 ---
 
 *This note is the response to one of my PhD [[Comprehensive Exam Questions]].*
@@ -74,7 +74,7 @@ Concerning contextualization, Keller asserts two truths that must be held in ten
 ### Translatability as a Christian Strength
 Andrew walls notes that the essentially contextual nature of Christianity is one of it's greatest strengths. Unlike other religions that attempt to rigidly transmit cultural forms or deny translation, Christianity is eminently translatable. This truth, along with the providence of God, is one reason for the wide spread of Christianity and it's ability to be relevant in any culture and confront any worldview.[[Walls, Missionary Movement in the History of Christianity, ??::rsn]]
 
-[[*From here down needs to reworked and synthesized.*::lmn]]
+[[*From here down needs reworked and synthesized.*::lmn]]
 ### The Bible and Contextualization
 The Bible explicitly gives warrant for the translation of the gospel (and theology) across cultures.
 
