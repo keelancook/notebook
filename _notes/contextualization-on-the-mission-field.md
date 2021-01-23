@@ -22,17 +22,21 @@ Given this ecumenical understanding of contextualization, the inerrant authority
 ### The Evangelical Version
 However, following the initial ecumenical usage of the term, evangelicals began to redefine contextualization to gain the crucial insights about culture while maintaining a confessional standard concerning the authority of the Holy Scriptures.[[Payne2013-hp, 137.::rsn]] Hesselgrave and Rommen speak of a "supracultural message of the gospel" that must be communicated with cultural relevance. This is the ultimate goal of the missionary in communciation.[[Hesselgrave1989-ze, 1.::rsn]] Defined in this manner, there is no choice but to accept the validity of contextualiation considering the insights gained into culture and worldview. The question in cross-cultural missions is less about whether or not contextualization does or should occur, but how well it is happening.
 
+---
+
 ## Definitions of Contextualization
 The following are various evangelical definitions of contextualization.
 
-### Hesselgrave
+#### Hesselgrave
 >...the process of making God's revelation of his person and plan as revealed in the Old and New Testaments understandable to the people of a given culture with a view to making it possible for them to respond to it in a meaningful way.[[Hesselgrave, "Christian Contextualization and Biblical Theology," 156.::rsn]]
 
-### Darrell Whiteman of Asbury Seminary
+#### Darrell Whiteman of Asbury Seminary
 >Contextualization attempts to communicate the Gospel in word and deed and to establish the church in ways that make sense to people within their local context, presenting Christianity in such a way that it meets people's deepest needs and penetrates their worldview, thus allowing them to follow Christ and remain within their own culture(1997, 2).[[Pulled this definition from Payne and Terry's work *Developing a Strategy for Missions*, 137.]]
 
-### Hiebert's Definition in Gospel in Human Contexts
+#### Hiebert's Definition in Gospel in Human Contexts
 >Contextualization seeks to formulate and communicate universal truth (cognitive dimension), love (affective dimension), and holiness (moral dimension) revealed in Scripture in particular human contexts that are diverse and everchanging.[[Hiebert2010-dc, 96.::rsn]]
+
+---
 
 ## Critical Contextualization
 In 1987, Paul Hiebert wrote an article titled "Critical Contextualization" in which he outlined a brief history of Protestant contextualization practices during the modern missions movement and provided his own parameters for healthy contextualization.
@@ -50,6 +54,7 @@ The following is a condensed summary of Hiebert's critical contextualization pra
 >
 >Hiebert believed that his approach would enable the missionary and national churches to avoid syncretism. His belief was based on four reasons: (1) Critical contextualization acknowledges the Bible as the "rule for faith and life." (2) This approach recognizes the role of the Holy Spirit in guiding the new churches. (3) In this approach the church functions as a "hermeneutical community," interpreting the Scriptures as the body of Christ. And (4) the conclusions drawn by these new churches can inform believers and theologians in other cultural contexts.
 
+---
 
 ## Notes from Critical Contextualization chapter of *Anthropological Reflections on Missiological Issues*
 * Noncontextualization ironically leads to syncretism. When the pieces of worldview are not addressed by the gospel, they merely go underground. Christianity becomes a veneer over an old worldview. Western Protestant culture is passed on, but the underlying worldview remains unchanged. The result is a folk religion. [[Hiebert, Critical Contextualization, 106.::rsn]]
