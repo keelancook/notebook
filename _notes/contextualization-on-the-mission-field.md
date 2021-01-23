@@ -61,7 +61,6 @@ The following is a condensed summary of Hiebert's critical contextualization pra
 
 ### Cultural Relativism vs. Ethical Relativism
 
-
 ---
 ## Notes from Critical Contextualization chapter of *Anthropological Reflections on Missiological Issues*
 * Noncontextualization ironically leads to syncretism. When the pieces of worldview are not addressed by the gospel, they merely go underground. Christianity becomes a veneer over an old worldview. Western Protestant culture is passed on, but the underlying worldview remains unchanged. The result is a folk religion. [[Hiebert, Critical Contextualization, 106.::rsn]]
@@ -69,7 +68,8 @@ The following is a condensed summary of Hiebert's critical contextualization pra
 ** We see through a glass darkly, but we do see. (109)
 * It's a process that spirals inward toward precision.
 
-
+[[anthropological-reflections-on-missiological-issues-hiebert-1994.md]]
+## Notes from *The Gospel in Human Contexts*
 ---
 
 ## Resources
