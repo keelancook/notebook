@@ -10,7 +10,6 @@ modified: 2021-01-22T19:42:33-06:00
 *This note is the response to one of my PhD [[Comprehensive Exam Questions]].*
 
 ---
-[[*Grab outline and notes from TW for this answer.*::lmn]]
 ## History of Contextualization
 In 1972, the term "contextualization" was coined by the co-directors of the Theological Education Fund for the World Council of Churches.[[Nicholls1979-jt, 21.::rsn]] The person usually attributed with the term was Shoki Coe.[[Keller2012-ln, 91.::rsn]]
 
@@ -56,6 +55,14 @@ The following is a condensed summary of Hiebert's critical contextualization pra
 
 ---
 
+## Risks of Contextualization
+
+### Syncretism
+
+### Cultural Relativism vs. Ethical Relativism
+
+
+---
 ## Notes from Critical Contextualization chapter of *Anthropological Reflections on Missiological Issues*
 * Noncontextualization ironically leads to syncretism. When the pieces of worldview are not addressed by the gospel, they merely go underground. Christianity becomes a veneer over an old worldview. Western Protestant culture is passed on, but the underlying worldview remains unchanged. The result is a folk religion. [[Hiebert, Critical Contextualization, 106.::rsn]]
 * On Critical Realism
