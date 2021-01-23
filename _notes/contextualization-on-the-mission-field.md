@@ -4,14 +4,14 @@ author: Keelan Cook
 season: spring
 tags: missions
 created: 2021-01-22T00:00:00-06:00
-modified: 2021-01-22T19:41:31-06:00
+modified: 2021-01-22T19:42:33-06:00
 ---
 
 *This note is the response to one of my PhD [[Comprehensive Exam Questions]].*
 
 ---
 
-[[*Grab outline and notes from TW for this answer.*]]
+[[*Grab outline and notes from TW for this answer.*::lmn]]
 
 
 ## Notes from Critical Contextualization chapter of *Anthropological Reflections on Missiological Issues*
