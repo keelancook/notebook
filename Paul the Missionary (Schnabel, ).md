@@ -3,7 +3,7 @@ title: Paul the Missionary (Schnabel, 2008)
 author: Keelan Cook
 season: autumn
 created: 2021-01-24T13:31:48-06:00
-modified: 2021-01-24T14:20:32-06:00
+modified: 2021-01-24T17:12:52-06:00
 ---
 
 ## Notes
@@ -20,4 +20,6 @@ Schnabel's Threefold Realities of Missions Work:
 1. Missionaries communicate the news of Jesus the Messiah and Savior to people who have not heard or accepted this news.
 2. Missionaries communicate a new way of life that replaces,at least partially, the social norms and the behavioral pattern of the society in which the new believers have been converted.
 3.Missionaries integrate the new believers into a new community.
+
+did not Sync
 
