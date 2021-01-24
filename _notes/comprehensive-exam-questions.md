@@ -4,8 +4,10 @@ author: Keelan Cook
 season: spring
 tags: missions PhD
 created: 2021-01-16T20:03:57-06:00
-modified: 2021-01-16T20:07:40-06:00
+modified: 2021-01-24T05:39:29-06:00
+type: Journal
 ---
+
 The following are the questions I was given for my PhD comprehensive exams. I include them here, because I believe they are some very fine questions that pull together several concepts that I plan to critically engage in this space. You can click through on any of the questions to see my notes.
 
 1. Discuss the [[Biblical and Theological Basis for Missions]]. Include in your response relevant biblical texts and key resources that address this topic well.
