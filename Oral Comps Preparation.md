@@ -8,7 +8,7 @@ modified: 2021-01-23T14:45:30-06:00
 - [ ] Compile outlines into notes in commonplace book
 - [ ] Read Schnabel's intro to Paul book
 - [ ] Read Schnabel's review of Goheen
+- [ ] Read Stetzer articles on mission vs. missional
 - [ ] Find proofs for critical issues
 - [ ] Familiarize yourself with Hiebert and Hesselgrave bios and CV
-- [ ] Read Stetzer articles on mission vs. missional
 - [ ] Review things I got wrong
