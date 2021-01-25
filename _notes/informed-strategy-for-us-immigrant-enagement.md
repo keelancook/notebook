@@ -6,6 +6,9 @@ tags: diaspora missions ministry
 created: 2021-01-23
 
 ---
+*This note is the response to one of my PhD [[Comprehensive Exam Questions]].*
+
+---
 
 ## New Immigration as Missionary Occasion
 The city is making a comeback. After a long period of decentralization that began in the 1920s with the birth of the automobile and the development of mass-produced housing, cities began to grow again in the United States. This presents churches in North America with a rare opporunity to engage in cross-cultural missions to the diaspora like never before. For churches to see the full potential of this missionary occassion, they must first understand these tectonic shifts in the U.S. population that are leading a very different mission field outside their own front door.
@@ -26,12 +29,35 @@ Contrary to the assumption that diversity and immigrant populations are a "big c
 This phenomenon can be witnessed across the country, from Columbus, Ohio to Houston and everywhere in between.
 
 ### Super-Diversity is the New Normal
-The radical diversity now found in these urban centers outstrips conventional language and terms. In 2007, Stephen Vertovec coined the term "super-diversity" to refer to the phenomenon he was observing in London.[[Vertovec, Steven. “Super-Diversity and Its Implications.” Ethn. Racial Stud. 30.6 (2007): 1024–54.::rsn]] 
+The radical diversity now found in these urban centers outstrips conventional language and terms. In 2007, Steven Vertovec coined the term "super-diversity" to refer to the phenomenon he was observing in London.[[Vertovec, Steven. “Super-Diversity and Its Implications.” Ethn. Racial Stud. 30.6 (2007): 1024–54.::rsn]] According to this concept of super-diversity, cultural diversity does not lead toward a minimizing of cultures or differenes, but toward the generation of even more cultures. Cities are collections of radically diverse groups that continue to increaes in complexity. Super-diversity is the stacking of cultures. worldviews, languages, and religions in the same space in such a way that it creates even more cultural groupings. 
 
+While globalization does force cultural groups in the same geography to interact. the claim that globalization leads to assimiliation is dubious. Boundaries between cultures are porous, and the transmission of ideas does occur. Furthermore, subsequent generations occupy liminal spaces between multiple cultures. However, instead of homogenization, this actually leads to hybridization. Where there were two cultures, there are now three not one and a half. Paul Hiebert writes,
+>One thing is increasingly clear: the world is not moving toward a greater homogenization. On the other hand, ethnographies reveal increasing growth of ethnic, national, and tribal identities in many parts of the world. On the other hand, locals are increasingly participating in global agendas.[[Hiebert, *Transformaing Worldviews*, 342.::rsn]]
+Hibert points to twin forces at play concerning this phenomenon: globalization and localization. while globalization receives much attention, Hiebert notes the presence of a balancing force that fights for cultural permanences. In this sense, cultures are permeable but resilient, and that leads to the generation of additional cultural groups when they are placed on top of one another. 
+
+Super-diversity, therefore, means that attempting some universal multicultural expression for mission within a city is woefully insufficient. While multiculturalism is a needed piece of the puzzle, any single solution strategy concerning contextual manifestations of the gospel in diverse North Amerian cities will fail to produce anything approaching gospel saturation. Instead, it will create new hidden peoples inside our cities.
+
+### Ethnic Enclaves and Ethnoburbs
+Cultural resilience, and the need for unique cultural manifestations of the gospel in cities, is best demonstrated by the existence of ethnic enclaves. Many of these enclaves have a longstanding history in the United States and date back over a hundred years to previous waves of immigrgation. Think of Little Italy or Chinatown in cities like New York and San Francisco.[[Fonner, *From Ellis Island to JFK*, 40, provides thorough descriptions of these historic enclaves in New York city.::rsn]] Over a century later, and these enclaves still allow for cultural resiliance and transmission for certain social norms. 
+
+Ethnic enclaves are not a relic of previous immigration. New enclaves are still forming today, and many of the newest ones ecplipse historic ones in size and influence. Today's enclaves often emerge on the edges of urbdan centers. Howard Duncan calls these suburban enclaves "ethnoburbs." Duncan writes,
+>The formation of ethnic enclaves is a natural development when minority populations reach a sufficient size, and they have become a feature of many of our cities … The rise of the ‘ethnoburb’ in North America is one example of how contemporary enclaves can become institutionally complete, middle class, able to offer not only comforting neighbourhoods but full services and amenities, not only jobs, but lucrative professional careers, in general an environment that can compete with the mainstream in its appeal.[[Duncan, "Some Modern Challenges to Social Inclusion in Highly Diverse Cities", 137.::rsn]]
+Prime examples of these are located in Dearborn for Arabic peoples, Clarkston for a wide range of refugee communities, Little Kurdistan in Nashville's Nolensville Pile corridor, Mohatma Ghandi Square in Houston, and Little Ethiopia in Washington DC.
+
+Growing up alongside gentryifying neighborhoods, these ethnoburbs and enclaves are far from ghettos and are destinations of choice for foreign born residents who seek to maintain cultural identity and social ties. They are voluntary, and hold a high level of influence both here in the States and back home overseas. During the 2020 presidential campaign, the president of India held a rally with Donald Trump in Houston for the large and influential South Asian community in Houston. The event was called "Howdy, Modi!" and filled a stadium with 50,000 attenders for the more than 300,000 South Asian diaspora members who live in Houston and Dallas.[[['Howdy, Modi!': Thousands, plus Trump, rally in Texas for India's leader](https://www.reuters.com/article/us-usa-india/howdy-modi-thousands-plus-trump-rally-in-texas-for-indias-leader-idUSKBN1W70B2), *Reuters*, Septermber 22, 2019.::rsn]]
+
+Cultures within these enclaves are permeable--transferring ideas, symbols, and artifacts--but they are resilient. Distinct cultural and language groups remain. Any urban mission strategy attend this context with propular contextualization. A methodology that can first assess and discover these groupings and then develop unique disciple-making strategies, confronting worldview in a culturally appropriate manner.
 
 ---
 
 ## The Core Missionary Task as Framework for Cross-cultural Missions
+New immigration requires a strategy that takes the occasion seriously and remains biblical but contextual to the realities of the situatio. Considering the central role of the church as the agent and fruit of God’s mission, local churches are positioned best for diaspora ministry in their own context. However, placing traditional churches, mostly from a majority American context, at the center of such a strategy requires training. 
+
+Churches cast a vision for members to participate in this mission, asking them to prayerfully consider involvement. As members are identified, a process of equipping them as a mission team within the church can begin. Ideally lay teams can be set up in churches that partner with other churches and parachurch organizations to share the gospel and plant churches among diaspora peoples in their context. Equipping requires a shift from primarily monocultural ministry philosphy and methods toward a cross-cultural understanding of the missionary task. In this way, local church equipping for diaspora missions should consider insihts from missionary practice overseas while allowing for the flexibility necessary to work in a North American setting.
+
+Any equipping must encourage lay members that they can engage in effective cross-cultural missions.
+
+
 
 
 ---

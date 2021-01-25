@@ -5,6 +5,7 @@ season: spring
 tags: missions Bible theology
 created: 2021-01-17
 ---
+*This note is the response to one of my PhD [[Comprehensive Exam Questions]].*
 
 ## Outline
 * [[A Whole Bible Theology of Mission]]
