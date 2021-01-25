@@ -22,10 +22,11 @@ This remarkable shift in immigrant share can be attributed to a key piece of leg
 ### Not Just for the Big Cities
 Contrary to the assumption that diversity and immigrant populations are a "big city" phenomenon, the current wave of immigration is so pronounced it also affects small and mid-size urban centers as well. Towns like Dearborn, Michigan and Calrkston, Georgia are becoming bustling hubs for immigrant communities. In many smaller urban centers, ethnic enclaves are developing that serve as the largest collection of their respective people group in the world outside of their home country. Nashville, for instance, has the largest Kurdish population in the world outside of the Middle East.[[Monica Campbell, “[Visiting a Kurdish Capital in the US](http://www.bbc.com/news/magazine-28891241),” BBC News (August 29, 2014).::rsn]] A 2015 Charlotte Observer article notes,
 >In just 20 years, from 1990 to 2010, the percentage of Charlotte’s population that is foreign-born quintupled from about 3 percent to about 15 percent. Close to 114,000 immigrants, legal and not, call the city home. That’s about one in seven residents, a higher proportion than in Philadelphia, Milwaukee or Detroit.[[Robert Lahser, “[A New Era Needs a New Approach](http://www.charlotteobserver.com/opinion/editorials/article16121978.html),” Charlotte Observer (March 23, 2015).::rsn]]
+
 This phenomenon can be witnessed across the country, from Columbus, Ohio to Houston and everywhere in between.
 
 ### Super-Diversity is the New Normal
-
+The radical diversity now found in these urban centers outstrips conventional language and terms. In 2007, Stephen Vertovec coined the term "super-diversity" to refer to the phenomenon he was observing in London.[[Vertovec, Steven. “Super-Diversity and Its Implications.” Ethn. Racial Stud. 30.6 (2007): 1024–54.::rsn]] 
 
 
 ---
