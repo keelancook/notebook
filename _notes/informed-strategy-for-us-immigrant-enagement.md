@@ -94,5 +94,14 @@ Training modules for discovery in local churches should focus on both aspects of
 
 #### Illustration: "Go and Tell" ESL
 
+#### Begin Bible studies with Church Planting in Mind
+
+#### Raise up leaders from within to continue the work of missio
+
+
 ### Partner
+[[*This section needs to be expanded significantly.*::lmn]]
+Three levels of partnership must be considered by churches engaging in immigrant missions. The first is cooperation with other majority culture churches in their area. The second is those churches that may have been planted as the result of their efforts in diaspora missions. Finally, the fastest growing church movements in America are currently among foreign born populations that come here as Christians. Existing churches must learn to fellowship and cooperate with these new churches.
+
+
 
