@@ -4,7 +4,7 @@ title: Oral Comps Preparation
 type: Checklist
 modified: 2021-01-24T17:11:00-06:00
 ---
-
+## Things to do
 - [x] Read Schnabel's intro to Paul book
 - [x] Read Schnabel's review of Goheen
 - [x] Read Stetzer articles on mission vs. missional
@@ -12,3 +12,6 @@ modified: 2021-01-24T17:11:00-06:00
 - [ ] Find proofs for critical issues
 - [ ] Familiarize yourself with Hiebert and Hesselgrave bios and CV
 - [ ] Review things I got wrong
+
+## Things I got wrong
+
