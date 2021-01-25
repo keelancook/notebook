@@ -14,4 +14,6 @@ modified: 2021-01-24T17:11:00-06:00
 - [ ] Review things I got wrong
 
 ## Things I got wrong
+Adding more things to this list. Why is it not working?
+
 
