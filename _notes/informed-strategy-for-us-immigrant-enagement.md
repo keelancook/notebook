@@ -66,11 +66,33 @@ The CMT includes six basic components central to the missionary task. These comp
 ---
 
 ## Adapting the CMT to Local Church Diaspora Missions
-Since the CMT is a general framework for particular missionary methods, it is easily adapted to use in the North American context by churches equipping members for a cross-cultural missions strategy.
-
+Since the CMT is a general framework for particular missionary methods, it is easily adapted to use in the North American context by churches equipping members for a cross-cultural missions strategy. One potential example is the Peoples Next Door (PND) project, which equips churches to do this kind of ministry. The PND project breaks diaspora missions engagment down into three broad phases: discovery, engagement, and partnership.These three phases account for all components of the CMT and adapt them to use in unique settings.
 ### Discover
+The first phase of a local church strategy should involve people group discovery. Discovery concerns both the *where* and the *who* of a particualr group of people. Discovery first seeks to understand the geogrpahic location and social circles of a given group. This involves finding a geographic cetner within an urban center if the group has one. It also involves locating points of interest where intersection with people from these groups can naturally occur. However, discovery does not stop at geographic information. It presses toward cultural acquisition as well. This involves culture, language, and worldview infromation tied to this particular grou of people in their location. Broad academic research about a group, such as South Asian Indians, is helpful but insufficient. Understanding background is only one step of cultural aquisition in a diaspora context. Since these groups are themselves in a new context, they will be contextually different from those within their home culture and worldview. These twin concerns of greography and group narrative drive the discovery process.
+
+#### Discovery results in a map of the people group network
+Discovery results in a map. This part of the process often feels daunting for lay members in churches, but it need not be complicated. Caleb Crider points to the significance of mapping for missions in *Tradecraft* and provides helpful guidance for local churches. Crider speaks of mapping in three layers: geographic, social, and spiritual. [[Crider, *Tradecraft*, 51.::rsn]] By identifying and cataloging points of interest, a local church can quickly and effectively develop a map that outlines both the social connectedness of a particular people and key spiritual categories of their worldview. A point of interest is any brick and mortar location—such as a business, market, restaurant, fabric store, or temple—that can be positively connected to a particular socio-cultural group. In this regard, lay teams seek to discover the West African hair braiding salons and the Halal meat markets that cater specifically to a given people. By cataloging these points of interest, the social and spiritual life of a group begin to take shape. Furthermore, these locations become points of entry into the community.
+
+#### Discovery requires being a participant observer
+Enoch Wan and Casey Anthony speak of the importance of being a participant observer in diaspora missions. They write,
+>This insider’s approach allows for exploration of culture and worldview issues and often raises many new questions that need to be answered. Additionally, participant observation allows for the building of deep relationships during the research process … Along the way, the researcher will learn valuable vocabulary, idioms, habits, community gatekeepers and leaders, degree of people group networking and connectedness, and places of residence that will be essential for the church planting process in the future.[[Wan, *Church Planting among Immigrants in US Urban Centers*, 64.::rsn]]
+
+Contrary to purely objective observation, participant observers enter into the story they are viewing. This is significant for the discovery process. It allows for an intimate look at culturel norms and key tenets of wordvliew necessary for proper contextualization. Furthermore, by taking the posture of the participant observer, relations for engagement are alreaduy formed in the discovery phase. Once a point of interest is entered, it can become a point of engagement and gospel ministry. Soon, shop owners and visitors become familiar faces, and the dialogue with questions of cultural acquisition forms the basis of relationships and conversation about the gospel.
+
+Training modules for discovery in local churches should focus on both aspects of discovery. To this end, traning is necessary for members to know how to easily collect and catalogue information in order to develop a map. In addition, simple traning should be given on how to accomplish culture acquisition through participant observation. [[Examples of potential training components for discovery would include a simple understanding of culture based on the 5 Fs (food, finances, family, faith, and festivals) as well as key worldview questions to engage in dialogue. Finally, teaching people to use Google sheets and maps to easily plot out people group networks is a basic but helpful approach to information gathering.::rmn]]
+
+>### Example of Discovery
+>One local church in Raleigh, NC decided to encourage their congregation to begin people group discovery. In order to do so, they canvassed an area within a 10 minute drive of their facilities to collect points of interest for West Africans. Their results found over 30 places, markets and restaurants, that were connected to this diaspora group. At the conclusion of a worship service, a map was placed on the screen and an appeal was made to the congregation to take the next week and list out the things they are already doing in their life that could be done at one of these places, such as purchasing rice or other goods. Each church member was given a list of these locations as they left the service. Within a couple of months, numerous families within the church had developed personal relationships with West African families in the area, some having regular dinner invitiations.
 
 ### Engage
+
+#### Diachronic and Synchronic Gospel Proclamation is important
+
+#### The strategy must turn from personal evangelism to group Bible studies
+
+#### The imporance of orality
+
+#### Illustration: "Go and Tell" ESL
 
 ### Partner
 
