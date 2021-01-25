@@ -53,14 +53,24 @@ Cultures within these enclaves are permeable--transferring ideas, symbols, and a
 ## The Core Missionary Task as Framework for Cross-cultural Missions
 New immigration requires a strategy that takes the occasion seriously and remains biblical but contextual to the realities of the situatio. Considering the central role of the church as the agent and fruit of God’s mission, local churches are positioned best for diaspora ministry in their own context. However, placing traditional churches, mostly from a majority American context, at the center of such a strategy requires training. 
 
+Any equipping must encourage lay members that they can engage in effective cross-cultural missions. Too often, the idea of international missions being reserved for professionals with extensive training pervades the common ethos of churches. When confronted with people groups in their own cities, church members can be paralyzed by the conviction that some expertise is necessary to engage with these newcomers. Instead, equipping must demonstrate that cultural expertise is not the standard for faithful ministry and that simple methods of cultural acquisition allow for a discovery process to begin.
+
 Churches cast a vision for members to participate in this mission, asking them to prayerfully consider involvement. As members are identified, a process of equipping them as a mission team within the church can begin. Ideally lay teams can be set up in churches that partner with other churches and parachurch organizations to share the gospel and plant churches among diaspora peoples in their context. Equipping requires a shift from primarily monocultural ministry philosphy and methods toward a cross-cultural understanding of the missionary task. In this way, local church equipping for diaspora missions should consider insihts from missionary practice overseas while allowing for the flexibility necessary to work in a North American setting.
 
-Any equipping must encourage lay members that they can engage in effective cross-cultural missions.
+One such framework is the Core Missionary Task (CMT) promoted by the International Mission Board (IMB) in its *Foundations* document. *Foundations* provides the theological and missiological grounding for the IMBs strategy formation and practices overseas. It is not a universal strategy but a framework that serves as the foundation for their missionary methods across the globe. In this manner, the (CMT) is a helpul guide for developing diaspora missions strategy at the local church level in North America.
 
+The CMT includes six basic components central to the missionary task. These components are not strictly linear, but often follow the listed trajectory. These components include: entry, evangelism, discipleship, healthy church formation, leadership formation, and exit/partnership.[[*Foundations*, 75.::rsn]]
 
-
+![Core Missionary Task Diagram](https://i.imgur.com/GfS51fH.png)
 
 ---
 
-## Peoples Next Door as CMT Adaptation to Diaspora
+## Adapting the CMT to Local Church Diaspora Missions
+Since the CMT is a general framework for particular missionary methods, it is easily adapted to use in the North American context by churches equipping members for a cross-cultural missions strategy.
+
+### Discover
+
+### Engage
+
+### Partner
 
