@@ -30,7 +30,7 @@ Missionaries must meet the rapid diversification of North America with a healthy
 
 ### Proofs:
 * De-europeanization of American Christianity
-  * Soong Chan Rah and his stat about Boston churches in *The Next Christendom*
+  * Soong Chan Rah and his stat about Boston churches in *The Next Evgelicalism*
   * 60% of those coming self-report as Christians
   * Anecdotally - we're planting twice as many Hispanic churches in Houston as we are majority culture. Many of our replants make sense to transition toward Spanish speaking.
 * Concepts of super-diversity
