@@ -22,14 +22,4 @@ The following are the questions I was given for my PhD comprehensive exams. I in
 ---
 ## Oral Comps Prep
 * Compile oultines into notes in commonplace book
-* Read Schnabel's intro to Paul book
-  * Reread his review of Light to the Nations
 * Come up with proofs for critical issues
-* Make sure I'm familiar with Hiebert/ Hesselgrave bios and CV
-* Note the mistake on Sears and Christian Americanization. Need to go back and familiarize myself with this list of books.
-* What are the things I know I got wrong or know I was too light on in my questions?
-  * The work of Christ in the mission of God - affirm a Nicaean postion
-  * What it does mean to be a witness, not just what it doesn't mean
-    * Proclamation and presence
-  * Read over Wright and Goheen on Genesis 12
-* Read Stetzer blog series on missions vs. missional

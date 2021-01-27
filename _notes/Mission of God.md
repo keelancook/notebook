@@ -60,5 +60,3 @@ The biblical metanarrative progressively unfolds in such a way as to resolve its
 Christ is the new Adam. Christ is the true Israel. And Christ is the son of David who's kingdom will have no end. Through Him, all of God's promises are fulfilled and all of God's mission is ultimately accomplished.
 
 It is essential to understand the person and work of Christ. Christ was no mere example or movement leader. Jesus is the incarnate Son of God who's perfect life made him the perfect sacrifice and the necessary atonement for sin. He is the first fruit of the coming resurrection, he currently sits at the right hand of the father interceding for his church. He will one day come again to judge the living and the dead, consummating his kingdom.[[Language from the Nicene Creed.::rmn]]
-
-[[Contextualization on the Mission Field]] 
