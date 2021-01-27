@@ -20,6 +20,11 @@ The following are the questions I was given for my PhD comprehensive exams. I in
 
 
 ---
-## Oral Comps Prep
+## Gardening to be done
 * Compile oultines into notes in commonplace book
+  * Include historial analysis question
+  * Include two missiologists question with biopics
+  * Include missionary evaluation question
+  * Finish filling outlines
+  * Divide outlines into atomic, linked notes
 * Come up with proofs for critical issues
