@@ -4,7 +4,8 @@ author: Keelan Cook
 season: spring
 tags: missions PhD
 created: 2021-01-16T20:03:57-06:00
-modified: 2021-01-24T06:27:17-06:00
+modified: 2021-01-27T07:00:10-06:00
+type: Journal
 ---
 
 The following are the questions I was given for my PhD comprehensive exams. I include them here, because I believe they are some very fine questions that pull together several concepts that I plan to critically engage in this space. You can click through on any of the questions to see my notes.
