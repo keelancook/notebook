@@ -1,7 +1,7 @@
 ---
 title: Test File Doopy Doop
 author: Keelan Cook
-season: Summer
+season: summer
 
 ---
 
