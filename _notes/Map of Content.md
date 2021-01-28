@@ -11,9 +11,9 @@ The map of content serves as a natural starting place for someone wanting to int
 
 **This is your map.**
 
-The map can be navigated in two different ways: synchronic and diachronic. 
+The map can be navigated in two different ways: diachronic and synchronic. 
 
-A *diachronic (or narrative) approach* starts at a particular location, say a burning question, and follows the breadcrumbs through the notes watching an answer unfold. I have listed several questions I am trying to answer with these notes below. You can pick up the beginning of the thread with any of those. Navigating the notes this way is like taking a stroll though the city.
+A *diachronic (or narrative) approach* starts at a particular location, say a burning question, and follows the breadcrumbs through the notes watching an answer unfold. I have listed several questions I am trying to answer with these notes below. You can pick up the beginning of the thread with any of those. Navigating the notes this way is like taking a stroll through the city.
 
 A *synchronic (or thematic) approach* to the notes will start with a broad topic in mind. Think of these like neighborhoods or regions on the map. Listed below are a number of high level topics that can be considered regions of this notescape. Navigating the notes this way is like canvasing a neighborhood.
 
