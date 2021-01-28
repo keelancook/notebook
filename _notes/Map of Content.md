@@ -51,6 +51,7 @@ These are a sampling of general categories that give shape to the network of not
 ### Church Ministry
 * Local Church Strategy for Diaspora Missions
 * Preparing a Church to Equip for Sending
+* [[Transformational Discipleship]]
 
 ### Notetaking
 * Taking Smart Notes
