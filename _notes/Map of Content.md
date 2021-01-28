@@ -11,13 +11,29 @@ The map of content serves as a natural starting place for someone wanting to int
 
 **This is your map.**
 
-The map can be navigated in two different ways: synchronic and diachronic. A synchronic (or thematic) approach to the notes will stop with a broad topic in mind. Thing of these like neighborhoods or regions on the map. Listed below are a number of high level topics that can be considered regions of this notescape. 
+The map can be navigated in two different ways: synchronic and diachronic. 
 
-A diachronic (or narrative) approach starts at a particular location, say a burning question, and follows the breadcrumbs through the notes watching an answer unfold. I have listed several questions I am trying to answer with these notes below. You can pick up the beginning of the thread with any of those.
+A *diachronic (or narrative) approach* starts at a particular location, say a burning question, and follows the breadcrumbs through the notes watching an answer unfold. I have listed several questions I am trying to answer with these notes below. You can pick up the beginning of the thread with any of those.
+
+A *synchronic (or thematic) approach* to the notes will stop with a broad topic in mind. Thing of these like neighborhoods or regions on the map. Listed below are a number of high level topics that can be considered regions of this notescape. 
+
+
+## Imporant Questions I'm Trying to Answer
+1. What is my understanding of the [[Biblical Theology of Mission]]? 
+2. How can a deep understanding of immigration and missions to immigrants in the past help us do better ministry today? 
+3. Develop an [[Informed Strategy for US Immigrant Engagement]]in the 21st century.
+4. What is my position on [[Contextualization on the Mission Field]], and how would I teach others to do it well?
+5. How might the local church [[Equip Potential North American Missionaries]] to reach cities for Christ?
+6. How can we effectively evaluate missionaries and ones sents for Great Commission ministry?
+7. What are the [[Critical Issues Facing North American Missionaries]] today?
+
+
+---
 
 ## Regions of the Notescape
 
----
+These are a sampling of general categories that give shape to the network of notes. You can find a particular theme or subject of interest here.
+
 
 ### Theology of Mission
 * [[Biblical Theology of Mission]]
@@ -33,9 +49,6 @@ A diachronic (or narrative) approach starts at a particular location, say a burn
 * Local Church Strategy for Diaspora Missions
 * Preparing a Church to Equip for Sending
 
-
----
-
 ### Notetaking
 * Taking Smart Notes
 * Digital Gardens
@@ -45,12 +58,3 @@ A diachronic (or narrative) approach starts at a particular location, say a burn
 * [[Experiential Learning]]
 
 ---
-
-## Imporant Questions I'm Trying to Answer
-1. What is my understanding of the [[Biblical Theology of Mission]]? 
-2. How can a deep understanding of immigration and missions to immigrants in the past help us do better ministry today? 
-3. Develop an [[Informed Strategy for US Immigrant Engagement]]in the 21st century.
-4. What is my position on [[Contextualization on the Mission Field]], and how would I teach others to do it well?
-5. How might the local church [[Equip Potential North American Missionaries]] to reach cities for Christ?
-6. How can we effectively evaluate missionaries and ones sents for Great Commission ministry?
-7. What are the [[Critical Issues Facing North American Missionaries]] today?
