@@ -9,7 +9,7 @@ modified: 2021-01-28T06:46:53-06:00
 
 The map of content serves as a natural starting place for someone wanting to interact with networked notes. Since these notes do not run in a straight line, it's best to think of them as a web of interrelated ideas. This web works more like a landscape (a notescape perhaps) than a traditional outline. There is no central thesis for these notes, and they are more a space to be explored than an argument to be traced. Like any other landscape, those unfamiliar with the terrain likely need a map to find their way. 
 
-This is your map.
+**This is your map.**
 
 The map can be navigated in two different ways: synchronic and diachronic. A synchronic (or thematic) approach to the notes will stop with a broad topic in mind. Thing of these like neighborhoods or regions on the map. Listed below are a number of high level topics that can be considered regions of this notescape. 
 
