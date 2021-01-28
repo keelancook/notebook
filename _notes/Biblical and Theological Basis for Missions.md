@@ -1,10 +1,12 @@
 ---
-title: Biblical and Theological Basis for Missions
+title: Biblical Theological of Mission
 author: Keelan Cook
 season: spring
 tags: missions Bible theology
-created: 2021-01-17
+created: 2021-01-17T00:00:00-06:00
+modified: 2021-01-27T22:20:11-06:00
 ---
+
 *This note is the response to one of my PhD [[Comprehensive Exam Questions]].*
 
 ## Outline
