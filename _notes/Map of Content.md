@@ -17,8 +17,9 @@ A *diachronic (or narrative) approach* starts at a particular location, say a bu
 
 A *synchronic (or thematic) approach* to the notes will start with a broad topic in mind. Think of these like neighborhoods or regions on the map. Listed below are a number of high level topics that can be considered regions of this notescape. Navigating the notes this way is like canvasing a neighborhood.
 
+---
 
-## Imporant Questions I'm Trying to Answer
+## Important Questions I'm Trying to Answer
 1. What is my understanding of the [[Biblical Theology of Mission]]? 
 2. How can a deep understanding of immigration and missions to immigrants in the past help us do better ministry today? 
 3. Develop an [[Informed Strategy for US Immigrant Engagement]]in the 21st century.
