@@ -1,5 +1,5 @@
 ---
-title: Informed Strategy for US Immigrant Enagement
+title: Informed Strategy for US Immigrant Engagement
 author: Keelan Cook
 season: spring
 tags: diaspora missions ministry 

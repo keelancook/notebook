@@ -47,3 +47,10 @@ A diachronic (or narrative) approach starts at a particular location, say a burn
 ---
 
 ## Imporant Questions I'm Trying to Answer
+1. What is my understanding of the [[Biblical Theology of Mission]]? 
+2. How can a deep understanding of immigration and missions to immigrants in the past help us do better ministry today? 
+3. Develop an [[Informed Strategy for US Immigrant Engagement]]in the 21st century.
+4. What is my position on [[Contextualization on the Mission Field]], and how would I teach others to do it well?
+5. How might the local church [[Equip Potential North American Missionaries]] to reach cities for Christ?
+6. How can we effectively evaluate missionaries and ones sents for Great Commission ministry?
+7. What are the [[Critical Issues Facing North American Missionaries]] today?
