@@ -1,5 +1,5 @@
 ---
-title: Comprehensive Exam Questions
+title: Important Questions I'm Trying to Answer
 author: Keelan Cook
 season: spring
 tags: missions PhD
@@ -8,7 +8,7 @@ modified: 2021-01-27T22:21:15-06:00
 type: Journal
 ---
 
-The following are the questions I was given for my PhD comprehensive exams. I include them here, because I believe they are some very fine questions that pull together several concepts that I plan to critically engage in this space. You can click through on any of the questions to see my notes.
+The following are the questions are a good representation of the major areas of my study. All fall within theolgy and applied theology categories, and all of the are very important for the sake of the gospel and the glory of God. 
 
 1. Discuss the [[Biblical Theology of Mission]]. Include in your response relevant biblical texts and key resources that address this topic well.
 2. Trace an historical analysis of American Protestant home missions methods toward immigrants during the first two decades of the 20th century (1900-1920). Provide clear evidence of knowledge of sources, events, and analysis.

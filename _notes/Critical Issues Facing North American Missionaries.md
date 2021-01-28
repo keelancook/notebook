@@ -5,7 +5,7 @@ season: spring
 tags: missions
 created: 2020-01-22
 ---
-*This note is the response to one of my PhD [[Comprehensive Exam Questions]].*
+*This note is on my list of [[Important Questions to Answer]].*
 
 ---
 ## Move Past the Rhetoric of Multiplication

@@ -6,7 +6,7 @@ tags: missions ministry
 create: 2021-01-25
 
 ---
-
+*This note is on my list of [[Important Questions to Answer]].*
 ## What is meant by "reaching a city"?
 The term *reach* has a broad definition in Christian mission and ministry today. At the maximalist end is the aspiration to "redeem culture" and transform social and cultural norms, affecting a lasting and holistic change on the city that presses it closer to the kingdom of God. At the other end of the spectrum, a common minimalist definition is the distribution of gospel literature on someone's doorknob.[[For an example of the maximalist definition, see *To Transform a City* by Eric Swanson. For a minimalist definition see [Saturate USA](https://www.saturateusa.org/what-is-saturate-usa/).::rmn]]
 

@@ -7,7 +7,7 @@ created: 2021-01-22T00:00:00-06:00
 modified: 2021-01-23T14:00:00-06:00
 ---
 
-*This note is the response to one of my PhD [[Comprehensive Exam Questions]].*
+*This note is on my list of [[Important Questions to Answer]].*
 
 ---
 ## History of Contextualization

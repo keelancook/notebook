@@ -6,7 +6,7 @@ tags: diaspora missions ministry
 created: 2021-01-23
 
 ---
-*This note is the response to one of my PhD [[Comprehensive Exam Questions]].*
+*This note is on my list of [[Important Questions to Answer]].*
 
 ---
 
