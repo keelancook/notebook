@@ -10,6 +10,8 @@ You have stumbled into the little corner of the internet where I do my public th
 
 Primarily, the notes in this commonplace book will deal with topics or theology and ministry. My hope is that by thinking in public, instead of keeping these notes closed up, my thoughts here will benefit others. And perhaps, these thoughts will be sharpened that was as well.
 
+Since the notes are non-linear in nature, it's a little overwhelming at first. If you're looking for a starting place in my notes, you can start at the [[Map of Content]] in order toget a high level view of the topics covered. If you're interested in learning a little more about the commonplace book approach, just keep reading here.
+
 ---
 
 ## The Commonplace Book.
