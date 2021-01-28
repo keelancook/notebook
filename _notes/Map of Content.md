@@ -3,13 +3,13 @@ title: Map of Content
 author: Keelan Cook
 season: summer
 created: 2021-01-27T21:31:05-06:00
-modified: 2021-01-27T21:56:04-06:00
+modified: 2021-01-27T22:24:09-06:00
 ---
 
 ## Ministry
 
 ### Theology of Mission
-* Biblical Theology of Mission
+* [[Biblical Theology of Mission]]
 * [[Mission of God]]
 * [[Mission of God's People]]
 
