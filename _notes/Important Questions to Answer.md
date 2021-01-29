@@ -1,5 +1,5 @@
 ---
-title: Important Questions I'm Trying to Answer
+title: Important Questions to Answer
 author: Keelan Cook
 season: spring
 tags: missions PhD
