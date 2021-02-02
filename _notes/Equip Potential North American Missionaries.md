@@ -4,7 +4,7 @@ author: Keelan Cook
 season: spring
 tags: missions ministry
 create: 2021-01-25
-modified: 2021-02-01T20:20:26-06:00
+modified: 2021-02-01T20:23:27-06:00
 ---
 
 *This note is on my list of [[Important Questions to Answer]].*
@@ -18,7 +18,7 @@ North American cities today make gospel saturation a challenging goal. North Ame
 ---
 
 ## Move Past the Rhetoric of Multiplication.
-Gospel saturation at the level of diversity presented by North American urban centers requires real multiplication that bridges across cultural barriers. Multiplication and sending are popular words in the North American missions lexicon. Organizations like Exponential, the Send Institute, and the Send Network all claim it as their goal. A quick seasrch of books on the topic of "sending church" on Amazon reveals dozens of related popular-level resources that call for multiplication. Unfortunately talk of multiplication is merely rhetoric unless the underlying systems are adjusted to provide for real change. In 2018, the Send Institute, a North American Missions think tank, executed an extensive research project into denominational and network sending processes in North America. Their findings revealed that langauge of sending and multiplication may be an at all time high, but that real changes in methods and processes were rare.[[[Send Institute Study](https://www.sendinstitute.org/church-planting-networks-focusing-multiplying-churches/), 2018.::rsn]] 
+Gospel saturation at the level of diversity presented by North American urban centers requires real multiplication that bridges across cultural barriers. Multiplication and sending are popular words in the North American missions lexicon. Organizations like Exponential, the Send Institute, and the Send Network all claim it as their goal. A quick search of books on the topic of "sending church" on Amazon reveals dozens of related popular-level resources that call for multiplication. Unfortunately talk of multiplication is merely rhetoric unless the underlying systems are adjusted to provide for real change. In 2018, the Send Institute, a North American Missions think tank, executed an extensive research project into denominational and network sending processes in North America. Their findings revealed that langauge of sending and multiplication may be an at all time high, but that real changes in methods and processes were rare.[[[Send Institute Study](https://www.sendinstitute.org/church-planting-networks-focusing-multiplying-churches/), 2018.::rsn]] 
 
 A paradigm shift must occur at the local church level that allows for gospel saturation to occur. At current, most churches and denominational agencies exist in a recruitment paradigm for church planting and missions. A recuitment paradigm for sending says the resources to fulfill the Great Commmission are *out there*. Recruitment fundamentally operates on a scarcity mindset that says sending needs to occur by finding pontential sent ones outside the local church. They may come from a seminary, a state convention, or perhaps another church. Recruitment in sending, however, is zero sum. In order to recruit a sent one from somewhere else to plant a church, a church removes them from their initially intended location.
 
