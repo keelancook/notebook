@@ -6,6 +6,7 @@ content-type: eg
 modified: 2021-01-28T15:50:11-06:00
 ---
 
+![Commonplace Banner Image](https://i.imgur.com/BzZOtqw.png)
 
 You have stumbled into the little corner of the internet where I do my public thinking. By trade, I'm an evangelical missiologist and theologian. My family and I live in Houston where I serve [a network of roughly 340 Baptist churches](https://ubahouston.org) here in the city as  strategist. I'm also on faculty as an instructor of North American missiology for [Southeastern Baptist Theological Seminary](https://sebts.edu).
 
