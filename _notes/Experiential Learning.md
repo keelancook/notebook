@@ -2,7 +2,7 @@
 title: Experiential Learning
 author: Keelan Cook
 season: winter
-tags: peadagogy discipleship
+tags: paedagogy discipleship metacognition
 created: 2021-02-01T19:26:26-06:00
 modified: 2021-02-01T20:10:18-06:00
 ---
