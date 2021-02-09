@@ -11,7 +11,7 @@ created: 2021-02-09
 
 In general, people emphasize their cicumstances as the determiner of their emotional state. What happens to us (or what fails to happen to us) is most often seen as the source of our joy or contentment. This undersanding is pervasive and accords with an internal [[Locus of Control]]. However, it does not accord with brain science.
 
-In her book [*Rapt*], Winifred Gallagher claims contentment is less the product of one's circumstances than the object of their attention. She writes:
+In her book [*Rapt*](https://amzn.to/3aQxMSF), Winifred Gallagher claims contentment is less the product of one's circumstances than the object of their attention. She writes:
 
 >Who you are, what you think, feel, and do, what you love is the sum of what you focus on. [[Winifred Gallagher, [*Rapt*](https://amzn.to/3cUH9n0).::rsn]]
 
