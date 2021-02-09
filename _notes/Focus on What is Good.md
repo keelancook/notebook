@@ -13,7 +13,7 @@ In general, people emphasize their cicumstances as the determiner of their emoti
 
 In her book [*Rapt*], Winifred Gallagher claims contentment is less the product of one's circumstances than the object of their attention. She writes:
 
->Who you are, what you think, feel, and do, what you love is the sum of what you focus on. [[Winifred Gallagher, [*Rapt*](https://amzn.to/3cUH9n0).::lsn]]
+>Who you are, what you think, feel, and do, what you love is the sum of what you focus on. [[Winifred Gallagher, [*Rapt*](https://amzn.to/3cUH9n0).::rsn]]
 
 [[Get *Rapt* and work out her notes on this topic.::lmn]]
 
@@ -35,11 +35,10 @@ Peter makes the same claim in his first epistle. He writes:
 
 >Therefore, with your minds ready for action, be sober-minded and set your hope completely on the grace to be brought to you at the revelation of Jesus Christ. As obedient children, do not be conformed to the desires of your former ignorance. But as the one who called you is holy, you also are to be holy in all your conduct; for it is written, Be holy, because I am holy. (1 Peter 1:13-16)
 
-Peter's exhortation addresses the affective domain of worldview tranformation by noting the connection between ones attention and their desires. In fact, all three domains come into play, as the result here is transformed living.
-[[See [[Learning Domains]] and [[Worldview Transformation]].::rsn]]
+Peter's exhortation addresses the affective domain of worldview tranformation by noting the connection between ones attention and their desires. In fact, all three domains come into play, as the result here is transformed living. *See [[Learning Domains]] and [[Worldview Transformation]].*
 
 [[I need to fill this section with substance. Exegete relevant passages.::lmn]]
 
 ## We are What we Worship
 Since worship is about affection toward a particular person or thing, it necessarily invovles attention. Those things about which we think the  most, the ones that captivate our minds also captivate our hearts. We essentially become what we focus on the most.
-[[Connect this concept to the idea of Beale's book.::]]
+[[Connect this concept to the idea of Beale's book.::lmn]]
