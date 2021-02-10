@@ -7,7 +7,8 @@ created: 2021-02-09
 ---
 
 ## Attention plays an outsized role in determining the quality of our life.
-[[In his book [*Deep Work*](https://amzn.to/3rFUKmf), Cal Newport engages the relatioship between the object of our focus and our contentment. For Newport's thesis, he is concerned with the difference between focusing on deep, meaningful work and shallow work or distraction. Ultimately, focusing on deep work as opposed to mindless distraction actually makes someone happier. This runs counter to the widespread assumption that distraction and unstructured leisure where one does not have to thing provides one with happiness when they are emotinally weary. While this is certainly true, a fuller understanding relates to the idols of the heart.::rmn]]
+In his book [*Deep Work*](https://amzn.to/3rFUKmf), Cal Newport engages the relatioship between the object of our focus and our contentment. For Newport's thesis, he is concerned with the difference between focusing on deep, meaningful work and shallow work or distraction. Ultimately, focusing on deep work as opposed to mindless distraction actually makes someone happier. Newport relies heavily on the work of Mihaly Csikszentmihalyi in his book [*Flow*](https://amzn.to/3cRWEwa). This runs counter to the widespread assumption that distraction and unstructured leisure where one does not have to thing provides one with happiness when they are emotinally weary. While this is certainly true, a fuller understanding relates to the idols of the heart.
+[[I need to tease out both *Deep Work* and *Flow* in further notes.::lmn]]
 
 In general, people emphasize their cicumstances as the determiner of their emotional state. What happens to us (or what fails to happen to us) is most often seen as the source of our joy or contentment. This undersanding is pervasive and accords with an internal [[Locus of Control]]. However, it does not accord with brain science.
 

@@ -58,6 +58,8 @@ These are a sampling of general categories that give shape to the network of not
 * Taking Smart Notes
 * Digital Gardens
 
-### Paedogogy
+### Metacognition
 * [[Learning Domains]]
 * [[Experiential Learning]]
+* [[Locus of Control]]
+* [[Focus on the Good]]
