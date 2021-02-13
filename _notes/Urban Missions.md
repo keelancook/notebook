@@ -6,4 +6,4 @@ tags: urban missions
 
 ---
 
-*This is a topic note that compiles all the notes that relate to urban missions. Look below to see all of the notes that reference this topic.*
+*This is a topic note that compiles all the notes that relate to urban missions. Look below to see all of the notes linked to this topic. Below the linked notes is a list of more broadly related notes.*
