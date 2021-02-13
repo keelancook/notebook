@@ -47,6 +47,7 @@ These are a sampling of general categories that give shape to the network of not
 * [[Contextualization on the Mission Field]]
 * Critical Issues in North American Missions
 * Gospel Conversion as Worldview Transformation
+* [[Urban Missions]]
 
 ### Church Ministry
 * Local Church Strategy for Diaspora Missions
