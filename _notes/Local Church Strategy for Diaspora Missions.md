@@ -12,7 +12,8 @@ created: 2021-01-23
 
 North American cities are currently experiencing one of the largest international migration movements in world history. It is changing the very fabric of the U.S. city, and it is an opportunity for the growth of the gospel. [[New Immigration is a Missionary Occasion]], and the church must rise to meet the opportunity. A framework for culturally relevant and biblically faithful gospel ministry toward the increasing diaspora populations in North American cities is a necessity.
 
-Such a framework will require considertation of: super-diviersity, ethnic enclaves and ethnoburbs.
+
+Such a framework will require consideration of: super-diviersity, ethnic enclaves and ethnoburbs.
 
 ### Super-Diversity is the New Normal
 [[This needs to be it's own note that is referenced in this one.::lmn]]
