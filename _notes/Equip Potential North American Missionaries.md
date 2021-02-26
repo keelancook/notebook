@@ -4,7 +4,8 @@ author: Keelan Cook
 season: spring
 tags: missions ministry
 create: 2021-01-25
-modified: 2021-02-01T20:23:27-06:00
+modified: 2021-02-24T18:31:05-06:00
+type: Checklist
 ---
 
 *This note is on my list of [[Important Questions to Answer]].*
