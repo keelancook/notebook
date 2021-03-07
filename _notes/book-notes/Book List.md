@@ -23,7 +23,7 @@ Main Idea:
 
 ## Digital Minimalism
 
-<a href="https://www.amazon.com/Digital-Minimalism-Choosing-Focused-Noisy-ebook/dp/B07DBRBP7G?dchild=1&keywords=digital+minimalism&qid=1615128876&sr=8-1&linkCode=li2&tag=keelancook-20&linkId=c88077dbd2d742f63cb0afff7c22eb5d&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07DBRBP7G&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=keelancook-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=keelancook-20&language=en_US&l=li2&o=1&a=B07DBRBP7G" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.com/Digital-Minimalism-Choosing-Focused-Noisy-ebook/dp/B07DBRBP7G?dchild=1&keywords=digital+minimalism&qid=1615128876&sr=8-1&linkCode=li3&tag=keelancook-20&linkId=cb84e9a6eb9e18621c741ee81d72f5b7&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07DBRBP7G&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=keelancook-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=keelancook-20&language=en_US&l=li3&o=1&a=B07DBRBP7G" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 Year Read: 2020
 
@@ -43,4 +43,4 @@ Year Read: 2020
 
 ##  Deep Work
 
-<a href="https://www.amazon.com/Deep-Work-Focused-Success-Distracted-ebook/dp/B00X47ZVXM?dchild=1&keywords=Deep+Work&qid=1615126746&sr=8-1&linkCode=li2&tag=keelancook-20&linkId=445453c03b14facdd778e2c52c0c7ecd&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00X47ZVXM&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=keelancook-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=keelancook-20&language=en_US&l=li2&o=1&a=B00X47ZVXM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.com/Deep-Work-Focused-Success-Distracted-ebook/dp/B00X47ZVXM?dchild=1&keywords=deep+work&qid=1615129251&sr=8-1&linkCode=li3&tag=keelancook-20&linkId=9c063a0bb6bce967e8a97b2873be5e8a&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00X47ZVXM&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=keelancook-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=keelancook-20&language=en_US&l=li3&o=1&a=B00X47ZVXM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
