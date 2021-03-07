@@ -23,7 +23,7 @@ Main Idea:
 
 ## Digital Minimalism
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=keelancook-20&language=en_US&marketplace=amazon&region=US&placement=B07DBRBP7G&asins=B07DBRBP7G&linkId=b45c1c76d0c5d24ff8c91f00aff4e6bf&show_border=false&link_opens_in_new_window=true"></iframe>
+<a href="https://www.amazon.com/Digital-Minimalism-Choosing-Focused-Noisy-ebook/dp/B07DBRBP7G?dchild=1&keywords=digital+minimalism&qid=1615128876&sr=8-1&linkCode=li2&tag=keelancook-20&linkId=c88077dbd2d742f63cb0afff7c22eb5d&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07DBRBP7G&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=keelancook-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=keelancook-20&language=en_US&l=li2&o=1&a=B07DBRBP7G" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 Year Read: 2020
 
@@ -41,4 +41,6 @@ Year Read: 2020
 
 ---
 
-## 
+##  Deep Work
+
+<a href="https://www.amazon.com/Deep-Work-Focused-Success-Distracted-ebook/dp/B00X47ZVXM?dchild=1&keywords=Deep+Work&qid=1615126746&sr=8-1&linkCode=li2&tag=keelancook-20&linkId=445453c03b14facdd778e2c52c0c7ecd&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00X47ZVXM&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=keelancook-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=keelancook-20&language=en_US&l=li2&o=1&a=B00X47ZVXM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
