@@ -19,6 +19,8 @@ Year Read: 2020
 
 Main Idea: 
 
+[[My Book Notes|Power of Habit]] | [Link to Book](https://amzn.to/38iDT1N)
+
 ---
 
 ## Digital Minimalism
@@ -26,6 +28,10 @@ Main Idea:
 <a href="https://www.amazon.com/Digital-Minimalism-Choosing-Focused-Noisy-ebook/dp/B07DBRBP7G?dchild=1&keywords=digital+minimalism&qid=1615128876&sr=8-1&linkCode=li3&tag=keelancook-20&linkId=cb84e9a6eb9e18621c741ee81d72f5b7&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07DBRBP7G&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=keelancook-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=keelancook-20&language=en_US&l=li3&o=1&a=B07DBRBP7G" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 Year Read: 2020
+
+Takeaway: 
+
+[[My Book Notes|Digital Minimalism]] | [Link to BooK](https://amzn.to/3cdROaq)
 
 ---
 
@@ -39,8 +45,21 @@ Year Read: 2020
 
 <a href="https://www.amazon.com/Gentle-Lowly-Christ-Sinners-Sufferers-ebook/dp/B086GWZ6CY?dchild=1&keywords=Gentle+and+Lowly&qid=1615125950&sr=8-1&linkCode=li3&tag=keelancook-20&linkId=0e74090288ca1f48df2f9c2e230bdc7b&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B086GWZ6CY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=keelancook-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=keelancook-20&language=en_US&l=li3&o=1&a=B086GWZ6CY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
+Year Read: 2020
+
+Takeway:
+
+[[My Book Notes|Gentle and Lowly]] | [Link to Book](https://amzn.to/3qoVqLS)
+
+
 ---
 
 ##  Deep Work
 
 <a href="https://www.amazon.com/Deep-Work-Focused-Success-Distracted-ebook/dp/B00X47ZVXM?dchild=1&keywords=deep+work&qid=1615129251&sr=8-1&linkCode=li3&tag=keelancook-20&linkId=9c063a0bb6bce967e8a97b2873be5e8a&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00X47ZVXM&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=keelancook-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=keelancook-20&language=en_US&l=li3&o=1&a=B00X47ZVXM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+Year Read: 2020
+
+Takeaway:
+
+[[My Book Notes|Deep Work]] | [Link to Book](https://amzn.to/3bkJzu6)
