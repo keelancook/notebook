@@ -17,7 +17,7 @@ These are all of the books I've read with links to any notes or reviews of those
 
 Year Read: 2020
 
-Main Idea: 
+Takeaway: 
 
 [[My Book Notes|Power of Habit]] | [Link to Book](https://amzn.to/38iDT1N)
 
