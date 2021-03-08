@@ -9,6 +9,8 @@ created: 2021-03-07
 
 These are all of the books I've read with links to any notes or reviews of those books. This list is not exhaustive of every book I've read. I've selected certain books to add to the list, if I felt there was value in doing so. Here, you should find a concise assessment of each work and some essential information to locate the book for yourself, if you want to read it as well.
 
+[[Need to fill in takeaways on each of these books and finish adding books to the list. Also consider whether or not to use "year read" as a category. How will I sort these as this list gets longer?::lmn]]
+
 ---
 
 ## The Power of Habit
@@ -19,7 +21,7 @@ These are all of the books I've read with links to any notes or reviews of those
 Takeaway: 
 
 * Year Read: 2020
-* [[My Book Notes|Power of Habit]] 
+* [[My Book Notes::Power of Habit]] 
 * [Link to Book](https://amzn.to/38iDT1N)
 
 ---
@@ -31,7 +33,7 @@ Takeaway:
 Takeaway:
 
 * Year Read: 2020
-* [[My Book Notes|Family Worship]]
+* [[My Book Notes::Family Worship]]
 * [Link to Book](https://amzn.to/3rCxiHj)
 ---
 
@@ -42,7 +44,7 @@ Takeaway:
 Takeway:
 
 * Year Read: 2020
-* [[My Book Notes|Gentle and Lowly]]
+* [[My Book Notes::Gentle and Lowly]]
 * [Link to Book](https://amzn.to/3qoVqLS)
 
 
@@ -55,7 +57,7 @@ Takeway:
 Takeaway:
 
 * Year Read: 2020
-* [[My Book Notes|Deep Work]]
+* [[My Book Notes::Deep Work]]
 * [Link to Book](https://amzn.to/3bkJzu6)
 
 ## Digital Minimalism
@@ -65,7 +67,7 @@ Takeaway:
 Takeaway: 
 
 * Year Read: 2020
-* [[My Book Notes|Digital Minimalism]]
+* [[My Book Notes::Digital Minimalism]]
 * [Link to BooK](https://amzn.to/3cdROaq)
 
 ---
