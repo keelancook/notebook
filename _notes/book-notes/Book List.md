@@ -35,6 +35,7 @@ Takeaway:
 * Year Read: 2020
 * [[My Book Notes::Family Worship]]
 * [Link to Book](https://amzn.to/3rCxiHj)
+  
 ---
 
 ## Gentle and Lowly
