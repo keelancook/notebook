@@ -13,7 +13,7 @@ Scripture does not provide an exhaustive or systematic list of these disciplines
 ## In the West, our understanding of the disciplines is too narrow.
 The Western understanding is essentially individualistic and does not include very important communal practices and disciplines. Thus, both the discipline of corporate worship (done with other believers) and the discipline of evangelism (done with those who are not believers) are often left off a list of disciplines altogether in favor of practices that can be accomplished in isolation.
 
-To this end, I appreciate the approach of David Mathis in his work, [Habits of Grace](https://amzn.to/3qEXhw6). Matthis deal primarily with three means: the word, prayer, and community. I appreciate that he includes biblical community as a major category of discipline. In addition, he considers the communal aspect of both Word and prayer.
+To this end, I appreciate the approach of David Mathis in his work, [Habits of Grace](https://amzn.to/3qEXhw6). Matthis deals primarily with three means: the word, prayer, and community. I appreciate that he includes biblical community as a major category of discipline. In addition, he considers the communal aspect of both Word and prayer.
 
 ## Personal Disciplines that are Most Edifying
 Of course, this list changes periodically in different seasons of life. However, this is the present snapshot of disciplines that are particularly helpful for me.
