@@ -21,7 +21,7 @@ These are all of the books I've read with links to any notes or reviews of those
 Takeaway: 
 
 * Year Read: 2020
-* [[My Book Notes::Power of Habit]] 
+* My Book Notes: [[Power of Habit]] 
 * [Link to Book](https://amzn.to/38iDT1N)
 
 ---
@@ -33,7 +33,7 @@ Takeaway:
 Takeaway:
 
 * Year Read: 2020
-* [[My Book Notes::Family Worship]]
+* My Book Notes: [[Family Worship]]
 * [Link to Book](https://amzn.to/3rCxiHj)
   
 ---
@@ -45,7 +45,7 @@ Takeaway:
 Takeway:
 
 * Year Read: 2020
-* [[My Book Notes::Gentle and Lowly]]
+* My Book Notes: [[Gentle and Lowly]]
 * [Link to Book](https://amzn.to/3qoVqLS)
 
 
@@ -58,7 +58,7 @@ Takeway:
 Takeaway:
 
 * Year Read: 2020
-* [[My Book Notes::Deep Work]]
+* My Book Notes: [[Deep Work (Newport, 2016)]]
 * [Link to Book](https://amzn.to/3bkJzu6)
 
 ---

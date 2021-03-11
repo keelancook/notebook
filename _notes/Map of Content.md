@@ -63,4 +63,4 @@ These are a sampling of general categories that give shape to the network of not
 * [[Learning Domains]]
 * [[Experiential Learning]]
 * [[Locus of Control]]
-* [[Focus on the Good]]
+* [[Focus on What is Good]]
