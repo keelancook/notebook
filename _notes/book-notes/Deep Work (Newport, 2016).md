@@ -11,6 +11,8 @@ Newport's book is an excellent read on the current state of knowledge work, and 
 
 This book is one I would quickly recommend to anyone whose work requires thoughtful prodcution of content. This is true for pastors, academics, ministry strategists, and even the growing number of knowledge workers in our church pews.
 
+[[[This is a good article](https://www.flowcircus.com/post/3-takeaways-from-deep-work) to consider when processing this book.::lmn]]
+
 ## Key Subjects Worth Exploring
 * [[Deliberate Practice]]
 * Solitude and Mindfulness
