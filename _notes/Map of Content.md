@@ -53,6 +53,7 @@ These are a sampling of general categories that give shape to the network of not
 * Local Church Strategy for Diaspora Missions
 * Preparing a Church to Equip for Sending
 * [[Transformational Discipleship]]
+* [[Spritual Disciplines]]
 * Church Renewal
 
 ### Notetaking
