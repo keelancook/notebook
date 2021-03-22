@@ -2,11 +2,11 @@
 title: Spiritual Disciplines
 author: Keelan Cook
 season: winter
-created: 2021-03-11
-
+created: 2021-03-11T00:00:00-06:00
+modified: 2021-03-11T14:34:51-06:00
 ---
 
-Spiritual disciplines are a type of [[Deliberate Practice]] which serve as the primary means of grace through which the Spirit sancitifies the believer and are essential to [[Tranformational Discipleship]]. A number of these practices can be found throughout Scripture and include things such as: the regular study and memorization of the Scriptures, prayer, fasting, evangelism, corporate worship and fellowship, confession, and accountability.
+Spiritual disciplines are a type of [[Deliberate Practice]] which serve as the primary means of grace through which the Spirit sancitifies the believer and are essential to [[Transformational Discipleship]]. A number of these practices can be found throughout Scripture and include things such as: the regular study and memorization of the Scriptures, prayer, fasting, evangelism, corporate worship and fellowship, confession, and accountability.
 
 Scripture does not provide an exhaustive or systematic list of these disciplines, so it is best to think of them as an unbounded set which includes any healthy deliberate practice that effectively forms the believer spiritually. For some, this may inlude a practice like journalling; whereas, for others, it may be walks of solitude. However, not all disciplines are given the same weight within Scripture, which clearly places priority on the Word as God's revelation to man, as well as prayer, fasting, and corporate worship and fellowship with a local body of Christ.
 
