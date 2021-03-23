@@ -1,9 +1,9 @@
 ---
-title: Transformational Discipleship has Much in Common with Habit Formation.
+title: Transformational Discipleship has Much in Common with Habit Formation
 author: Keelan Cook
 season: winter
 created: 2021-03-11T00:00:00-06:00
-modified: 2021-03-23T13:07:49-05:00
+modified: 2021-03-23T13:12:51-05:00
 type: Journal
 ---
 
