@@ -43,6 +43,7 @@ Second, many pastors today assume that most of their time should be spent in the
 
 Too much time in the study assumes that your 45 minutes in front of the congregation is your best teaching to them. It overlooks the incalculable value of sitting with someone in conversation, of taking someone with you on errands, of living life in front of and alongside those you pastor. [A shepherd should smell like his sheep.](https://keelancook.com/2012/10/08/a-consequence-of-ministry-dealing-with-sheep/) The best pastors prioritize time lived with their congregation over time preparing to speak at their congregation.
 
+---
 
 ## How do you coordinate healthy boundaries in your ministry schedule?
 In many ways, my work requires the same kind of tension as that of a pastor. Pastors are "on call" in order to minister to their congregation as needs arise. The work of associational leadership requires the same posture toward pastors. We have over 350 churches in our association, which results in constant needs arising across an array of ministry issues. It's easy to get overwhelmed by requests and a good desire to serve churches in their unique needs. Given the three priniciples states above, the following are practical steps I use to maintain (as best as possible) boundaries within my own ministry. 
