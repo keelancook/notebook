@@ -3,7 +3,8 @@ title: Transformational Discipleship has Much in Common with Habit Formation.
 author: Keelan Cook
 season: winter
 created: 2021-03-11T00:00:00-06:00
-modified: 2021-03-23T13:06:13-05:00
+modified: 2021-03-23T13:07:49-05:00
+type: Journal
 ---
 
 The concept of [[Transformational Discipleship]] essentially pushes against an [anemic understanding of discipleship](https://keelancook.com/2016/08/05/is-our-understanding-of-discipleship-anemic/) with a focus on all three [[Learning Domains]]. This requires, at minimum, a transformation not only in thinking but in behaviors as well. In that way, true discipleship has much in common with habit formation.
