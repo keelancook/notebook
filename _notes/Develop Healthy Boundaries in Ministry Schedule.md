@@ -3,7 +3,7 @@ title: Develop Healthy Boundaries in Ministry Schedule
 author: Keelan Cook
 season: winter
 created: 2021-03-22T00:00:00-05:00
-modified: 2021-03-23T12:51:23-05:00
+modified: 2021-03-23T13:09:49-05:00
 ---
 
 ## Principles to consider in setting ministry boundaries
@@ -48,7 +48,7 @@ Too much time in the study assumes that your 45 minutes in front of the congrega
 ## How do you coordinate healthy boundaries in your ministry schedule?
 In many ways, my work requires the same kind of tension as that of a pastor. Pastors are "on call" in order to minister to their congregation as needs arise. The work of associational leadership requires the same posture toward pastors. We have over 350 churches in our association, which results in constant needs arising across an array of ministry issues. It's easy to get overwhelmed by requests and a good desire to serve churches in their unique needs. 
 
-It is essential to develop practices that maintain health and provide avenues to serve others well. These practices are, in fact, a part of our discipleship, since [[Transformational Discipleship Has Much in Common with Habit Formation]]. Given the three priniciples states above, the following are practical steps I use to maintain (as best as possible) boundaries within my own ministry. 
+It is essential to develop practices that maintain health and provide avenues to serve others well. These practices are, in fact, a part of our discipleship, since [[Transformational Discipleship has Much in Common with Habit Formation]]. Given the three priniciples states above, the following are practical steps I use to maintain (as best as possible) boundaries within my own ministry. 
 
 ### Count the cost in your schedule
 Be diligent in your scheduling. Signing on to a post in ministry means you give up the right to thoughtless time. You are, after all, a steward of the time you've been given. Your days are a gift from the Lord to steward. Do so with thoughtfullness. In order to do this, I use a timeblocking method in my online calendar. I try to account for most of the hours of my day with block of time dedicated to particaular tasks: personal, family, and work related. I block time for spiritual formation. I block time for family. I block time for people and meetings, and I block time for administrative tasks. Doing so also requires me to regularly tend my calendar. I schedule several times throughout the week to assess and adjust as needs arise.
