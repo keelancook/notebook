@@ -19,7 +19,7 @@ Do not mistake sermon preparation or academic study for sufficient replacements 
 
 ### Pastor your family first.
 
-[[Brian Croft provides a helpful resource titled [The Pastor's Family](https://amzn.to/3sgE8lM) on navigating pastoral ministry with your family in a healthy way.::rsn]]
+[[Brian Croft provides a helpful resource titled [The Pastor's Family](https://amzn.to/3sgE8lM) on navigating pastoral ministry with your family in a healthy way.::rmn]]
 
 Pauls'words concerning the qualifications for elders ring true:
 >He must manage his own household competently and have his children under control with all dignity. (If anyone does not know how to manage his own household, how will he take care of God’s church?) (1 Timothy 3:4-5)
@@ -35,7 +35,7 @@ In practical terms, this means they get your first and best ministry time. Your 
 
 ### But, a shepherd should smell like his sheep.
 
-[[I find Thabiti Anyabwile's writing compelling on pastoral ministry. It was from Thabiti that I first heard the phrase, "A shepherd should smell like his sheep." He provides a helpful resource in [Finding Faithful Elders and Deacons](https://amzn.to/39axgz7)::rsn]]
+[[I find Thabiti Anyabwile's writing compelling on pastoral ministry. It was from Thabiti that I first heard the phrase, "A shepherd should smell like his sheep." He provides a helpful resource in [Finding Faithful Elders and Deacons](https://amzn.to/39axgz7)::rmn]]
 
 Finally, pastoral ministry is intensely interpersonal. A few errors are common here. First, as an overreaction to ministry philosophies that sacrificed family or spiritual formation, many young pastors today are frankly not giving enough with their time. A tension does exist, and it is unavoidable, between creating the appropriate space for personal and family health and giving as much as possible to your congregation. Gutters exist on either side of this road, and the wise pastor constantly evaluates to make sure their course is straight.
 
