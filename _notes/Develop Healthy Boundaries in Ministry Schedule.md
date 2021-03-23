@@ -3,7 +3,7 @@ title: Develop Healthy Boundaries in Ministry Schedule
 author: Keelan Cook
 season: winter
 created: 2021-03-22T00:00:00-05:00
-modified: 2021-03-23T13:09:49-05:00
+modified: 2021-03-23T13:10:54-05:00
 ---
 
 ## Principles to consider in setting ministry boundaries
@@ -21,7 +21,7 @@ Do not mistake sermon preparation or academic study for sufficient replacements 
 
 [[Brian Croft provides a helpful resource titled [The Pastor's Family](https://amzn.to/3sgE8lM) on navigating pastoral ministry with your family in a healthy way.::rmn]]
 
-Pauls'words concerning the qualifications for elders ring true:
+Pauls' words concerning the qualifications for elders ring true:
 >He must manage his own household competently and have his children under control with all dignity. (If anyone does not know how to manage his own household, how will he take care of God’s church?) (1 Timothy 3:4-5)
 
 If one cannot first manage his own household, how can he pastor a church? Notice the priority given in this question. And lest one reduce manage to maintaining a heavy authority over the home, heed Paul's counsel elsehwere. Manageing a home requires sacrificial love and affection for those who are part of the family, especially ones wife.
