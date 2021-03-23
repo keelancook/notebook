@@ -15,21 +15,21 @@ A pastor shepherds his people out of the spiritual overflow of his own life. A r
 Take as first importance the words of Christ in John 15:4-5:
 >Remain in me, and I in you. Just as a branch is unable to produce fruit by itself unless it remains on the vine, neither can you unless you remain in me. I am the vine; you are the branches. The one who remains in me and I in him produces much fruit, because you can do nothing without me. (John 15:4-5)
 
-Do not mistake sermon preparation or academic study for sufficient replacements for pratices that lead to abiding in Christ. Certainly, sermon preparation should be edifying. If the text does not first master the preacher, how can it master the hearer? However, it is a pale replacement for spiritual formation, and pastors do well to understand the need for both.
+Do not mistake sermon preparation or academic study for sufficient replacements for practices that lead to abiding in Christ. Certainly, sermon preparation should be edifying. If the text does not first master the preacher, how can it master the hearer? However, it is a pale replacement for spiritual formation, and pastors do well to understand the need for both.
 
 ### Pastor your family first.
 
 [[Brian Croft provides a helpful resource titled [The Pastor's Family](https://amzn.to/3sgE8lM) on navigating pastoral ministry with your family in a healthy way.::rmn]]
 
-Pauls' words concerning the qualifications for elders ring true:
+Paul's words concerning the qualifications for elders ring true:
 >He must manage his own household competently and have his children under control with all dignity. (If anyone does not know how to manage his own household, how will he take care of God’s church?) (1 Timothy 3:4-5)
 
-If one cannot first manage his own household, how can he pastor a church? Notice the priority given in this question. And lest one reduce manage to maintaining a heavy authority over the home, heed Paul's counsel elsehwere. Manageing a home requires sacrificial love and affection for those who are part of the family, especially ones wife.
+If one cannot first manage his own household, how can he pastor a church? Notice the priority given in this question. And lest one reduce manage to maintaining a heavy authority over the home, heed Paul's counsel elsewhere. Managing a home requires sacrificial love and affection for those who are part of the family, especially one's wife.
 
 Consider also Paul's admonition to husbands in Ephesians 5:
 >Husbands, love your wives, just as Christ loved the church and gave himself for her to make her holy, cleansing her with the washing of water by the word. (Ephesians 5:25-26)
 
-Paul uses the proper relationship between a husband and wife as an analogy to explain Christ and his church. However, it's important to see that this text also demonstrates that proper human relationship as well. Husbands give themselves up for their wives.
+Paul uses the proper relationship between a husband and wife as an analogy to explain Christ and his church. However, it's important to see that this text also demonstrates the proper human relationship as well. Husbands give themselves up for their wives.
 
 In practical terms, this means they get your first and best ministry time. Your wife and children are not a distraction from pastoral ministry, they are your first priority in pastoral ministry. Do not forget that your family are also church members and you will most certainly give an account for how you shepherd them.
 
