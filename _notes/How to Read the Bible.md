@@ -1,5 +1,5 @@
 ---
-title: How to Study the Bible
+title: How to Read the Bible
 author: Keelan Cook
 season: spring
 tags: Bible hermeneutics
@@ -7,8 +7,9 @@ created: 2021-05-25
 modified: 
 ---
 
-The following is a condensed crash course in the basics of biblical interpretation for personal study and teaching others in small groups. Each topic discussed is oversimplified, but the purpose is to provide a fly-over of each to facilitate further conversation that considers each point in depth. Consider this a primer on the basics of Bible study.
+*The following is a condensed crash course in the basics of biblical interpretation for personal study and teaching others in small groups. Each topic discussed is oversimplified, but the purpose is to provide a fly-over of each to facilitate further conversation that considers each point in depth. Consider this a primer on the basics of Bible study.*
 
+[[*I initially wrote the material while living in Africa as a missionary. Though I've refreshed the content since then, many of the illustrations relate to my time in Africa. I left those in the primer for color.*::lmn]]
 ## What happened to delighting in the Law of the Lord?
 
 There is a saying that, “Familiarity breeds contempt.” While I feel this may not be completely true, I do feel familiarity often breeds apathy. Is it simply part of the human condition that we tend to overlook the things we see every day, that our eyes become blinded to what is right in front of us? Why is it those things most familiar to us, over time, lose their efficacy, despite how powerful they may be? The breathtaking vistas that we pass on the daily commute eventually command less and less awe as they blend into our expected environment.
@@ -27,6 +28,7 @@ That being said, it appears that we who should know it and cherish it best seem 
 
 Over the next several weeks, my intention is to continue this topic in my posts. As I prepare my discussion with these students, I will hopefully take any of you interested along with me. My prayer is that as my students and I learn together about this gift of God’s words to man, you as well will be able to revisit the Bible’s significance in your own life.
 
+>>>
 > Blessed is the man
 > who walks not in the counsel of the wicked,
 > nor stands in the way of sinners,
@@ -48,7 +50,7 @@ Over the next several weeks, my intention is to continue this topic in my posts.
 > for the LORD knows the way of the righteous,
 > but the way of the wicked will perish.
 > (Psalms 1)
-
+>>>
 ## Part 1 – Revelation
 How do you know God? For that matter, how do you know anything about God? Maybe it was your parents that first introduced you to this idea that there was some big something out there in charge of everything. Maybe it was a Sunday School teacher or Saturday morning cartoons for that matter. Can you think back to a time when you did not believe God was out there? I cannot. And for those of you who currently do not believe there is a god, I imagine you did when you were a child and your opinion has changed somewhere along the way. I have never met a little kid that does not believe in God to some capacity. A from-birth atheist may exist, but I have not been introduced to one at present. Feel free to peruse this issue if you’d like. You can start here for a “scientific” perspective on this one.
 
