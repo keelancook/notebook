@@ -28,29 +28,28 @@ That being said, it appears that we who should know it and cherish it best seem 
 
 Over the next several weeks, my intention is to continue this topic in my posts. As I prepare my discussion with these students, I will hopefully take any of you interested along with me. My prayer is that as my students and I learn together about this gift of God’s words to man, you as well will be able to revisit the Bible’s significance in your own life.
 
->>>
 > Blessed is the man
 > who walks not in the counsel of the wicked,
 > nor stands in the way of sinners,
 > nor sits in the seat of scoffers;
 > but his delight is in the law of the LORD,
 > and on his law he meditates day and night.
-> 
+>  
 > He is like a tree
 > planted by streams of water
 > that yields its fruit in its season,
 > and its leaf does not wither.
-> 
+>  
 > In all that he does, he prospers.
 > The wicked are not so,
 > but are like chaff that the wind drives away.
-> 
+>  
 > Therefore the wicked will not stand in the judgment,
 > nor sinners in the congregation of the righteous;
 > for the LORD knows the way of the righteous,
 > but the way of the wicked will perish.
 > (Psalms 1)
->>>
+
 ## Part 1 – Revelation
 How do you know God? For that matter, how do you know anything about God? Maybe it was your parents that first introduced you to this idea that there was some big something out there in charge of everything. Maybe it was a Sunday School teacher or Saturday morning cartoons for that matter. Can you think back to a time when you did not believe God was out there? I cannot. And for those of you who currently do not believe there is a god, I imagine you did when you were a child and your opinion has changed somewhere along the way. I have never met a little kid that does not believe in God to some capacity. A from-birth atheist may exist, but I have not been introduced to one at present. Feel free to peruse this issue if you’d like. You can start here for a “scientific” perspective on this one.
 
