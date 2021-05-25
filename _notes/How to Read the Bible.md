@@ -1,4 +1,4 @@
---
+---
 title: How to Study the Bible
 author: Keelan Cook
 season: spring
