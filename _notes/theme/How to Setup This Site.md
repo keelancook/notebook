@@ -1,7 +1,8 @@
 ---
 title: How to setup this site
-tags: Theme
-season : summer
+tags: theme
+season: autumn
+modified: 2021-01-16T18:28:12-06:00
 ---
 
 This is going to be a super simple post about how to setup and use this theme for your own website.
@@ -67,7 +68,7 @@ $ bundle exec jekyll serve
 
 Then, open up [[http://localhost:4000::http://localhost:4000]] in your browser.
 
-If everything’s done correctly, you should now see the home page of your Personal Jekyll Website with notenote.link Theme. 🎉
+If everything’s done correctly, you should now see the home page of your Personal Jekyll Website with notenote.link Theme. :tada:
 
 Keep in mind that this site is only available locally (notice the `localhost` part of the URL), so if we want it to be available on the Internet for everyone to enjoy, we need to deploy it to the Internet: we’ll use Netlify for that in the next step.
 
@@ -102,7 +103,6 @@ $ git commit -m 'Update content'
 $ git push origin master
 ```
 
-If that command succeeds and the rest of the tutorial was done correctly, in a couple of minutes, you should see your changes live on your Netlify website. 🚀
+If that command succeeds and the rest of the tutorial was done correctly, in a couple of minutes, you should see your changes live on your Netlify website. :rocket:
 
 And we’re done! You now have your own notenote.link based Personal Website .
-

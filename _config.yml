@@ -1,12 +1,12 @@
-title: notenote.link
-name: My linked notebook
-user_description: notenote.link
-notes_url: "https://notenote.link.netlify.app"
-profile_pic: /assets/img/profile.png
-favicon: /assets/img/favicon.png
+title: Keelan Cook
+name: My Commonplace Book
+user_description: Thinking in progress. Notes under construction. Expect typos and clarifying positions.
+notes_url: "https://commonplace.ml"
+profile_pic: /assets/img/seal.png
+favicon: /assets/img/favicon.ico
 copyright_name: MIT
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://notenote.link.netlify.app/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://commonplace.ml" # the base hostname & protocol for your site, e.g. http://example.com
 encoding: utf-8
 
 # Build settings

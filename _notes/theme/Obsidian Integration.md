@@ -1,7 +1,8 @@
 ---
 title: Obsidian integration
-season: summer
-tags: CMS
+season: autumn
+tags: theme
+modified: 2021-01-16T18:28:57-06:00
 ---
 
 The main purpose of this fork, other than cosmetic changes, is to create a web representation of an [[Obsidian::https://obsidian.md]] vault, using the [[Simply-Jekyll::https://github.com/raghuveerdotnet/simply-jekyll]] template.
@@ -73,5 +74,3 @@ Images are the tricky part :
 - You can drag/drop/paste images in Obsidian, which will create a link such as : `[​[​../assets/img/Pasted image.png]]`
 
 A quick hack in the last case is just to change the brackets : `![](../assets/img/Pasted image.png)`
-
-
