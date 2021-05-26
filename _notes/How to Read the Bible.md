@@ -52,7 +52,7 @@ Just as I prepared for my discussion with those students, I will hopefully take 
 > (Psalms 1)
 
 ## Part 1 – Revelation
-How do you know God? For that matter, how do you know anything about God? Maybe it was your parents that first introduced you to this idea that there was some Big Someone out there in charge of everything. Maybe it was a Sunday School teacher or Saturday morning cartoons for that matter. Can you think back to a time when you did not believe God was out there? I cannot. And for those of you who currently do not believe there is a god, I imagine you did when you were a child and your opinion has changed somewhere along the way. I have never met a little kid that does not believe in God to some capacity, though as self-announced athiests and agnostics begin raising children, we might start meeting some. A from-birth atheist may exist, but I have not been introduced to one at present. Feel free to peruse this issue if you’d like.[[See [this article by the American Pscyological Association](https://www.apa.org/monitor/2010/12/believe) and this article by Deborah Keleman, ["Are Children 'Intuitive Theists'?"](https://www.bu.edu/cdl/files/2013/08/2004_Kelemen_IntuitiveTheist.pdf)::rsn]]
+How do you know God? For that matter, how do you know anything about God? Maybe it was your parents that first introduced you to this idea that there was some Big Someone out there in charge of everything. Maybe it was a Sunday School teacher or Saturday morning cartoons for that matter. Can you think back to a time when you did not believe a god of some kind was out there? I cannot. And for those of you who currently do not believe there is a god, I imagine you did when you were a child and your opinion has changed somewhere along the way. Of course, believing in a God is not the same as understanding and accepting the gospel of Christ. Nevertheless, I have never met a little kid that does not believe in God to some capacity. Perhaps as self-announced athiests and agnostics begin raising children, we might start meeting some. Feel free to peruse this issue if you’d like.[[See [this article by the American Pscyological Association](https://www.apa.org/monitor/2010/12/believe) and this article by Deborah Keleman, ["Are Children 'Intuitive Theists'?"](https://www.bu.edu/cdl/files/2013/08/2004_Kelemen_IntuitiveTheist.pdf)::rsn]]
 
 Let me draw the lens out a little further. Historically, I have never heard mention of a “religionless” people group. I know of no ancient (or modern for that matter) tribe tucked off in the far reaches of the globe that were (are) intrinsically atheistic. It appears, at its core, the very idea of worshipping something is hard-wired into our skull. But from where did these wires come?
 
@@ -131,6 +131,8 @@ However, if you think this is too simple, if instead you prefer to overcomplicat
 
 ## Part 5 – Technique
 I have a confession. Pulling water is not one of my spiritual gifts. For those of you too pampered to have ever experienced this, “pulling water” is the euphemism applied to dragging buckets of water up a rope and out of a 50ft-deep well.
+
+![African well](https://i.imgur.com/HJ01gaF.jpg)
 
 Pulling water, that sounds easy. At least I thought so when I first heard this would be part of my daily routine in the village. That was one of many stupid assumptions I would make adjusting to life in the bush.
 
