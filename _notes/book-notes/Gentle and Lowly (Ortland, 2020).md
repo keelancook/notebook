@@ -16,5 +16,3 @@ This book didn't just teach me something new about God, it increased my affectio
 ## Topics
 - [[Transformational Discipleship]]
 - [[Spiritual Disciplines]]
-
-Adding another note down here, just to see if this is still updating correctly. Was I able to push with Github desktop on Linux?
