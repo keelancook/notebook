@@ -45,7 +45,7 @@ Takeaway:
 Takeway:
 
 * Year Read: 2020
-* My Book Notes: [[Gentle and Lowly]]
+* My Book Notes: [[Gentle and Lowly (Ortland, 2020)]]
 * [Link to Book](https://amzn.to/3qoVqLS)
 
 

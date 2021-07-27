@@ -9,7 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/book-notes/Gentle and Lowly.md",
+            "file": "_notes/book-notes/Book List.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "5818c0b7b34194aa",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_notes/book-notes/Gentle and Lowly (Ortland, 2020).md",
             "mode": "source"
           }
         }
@@ -68,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/book-notes/Gentle and Lowly.md",
+                "file": "_notes/book-notes/Gentle and Lowly (Ortland, 2020).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/book-notes/Gentle and Lowly.md"
+                "file": "_notes/book-notes/Gentle and Lowly (Ortland, 2020).md"
               }
             }
           }
@@ -95,17 +106,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "e2fc6a0ea56735cb",
+  "active": "5818c0b7b34194aa",
   "lastOpenFiles": [
     "_notes/book-notes/Gentle and Lowly.md",
-    "_notes/book-notes/Deep Work (Newport, 2016).md",
-    "_notes/book-notes/anthropological-reflections-on-missiological-issues-hiebert-1994.md",
-    "_notes/book-notes/Paul the Missionary (Schnabel, ).md",
     "_notes/book-notes/Book List.md",
+    "_notes/book-notes/Deep Work (Newport, 2016).md",
+    "_notes/book-notes/Wright2006-uz.md",
+    "_notes/book-notes/Paul the Missionary (Schnabel, ).md",
+    "_notes/book-notes/anthropological-reflections-on-missiological-issues-hiebert-1994.md",
     "_notes/Transformational Discipleship.md",
     "_notes/Biblical Models of Discipleship.md",
     "_notes/Biblical Theology of Mission.md",
-    "_notes/A Whole Bible Theology of Mission.md",
-    "_notes/Christianize and Civilize.md"
+    "_notes/A Whole Bible Theology of Mission.md"
   ]
 }
