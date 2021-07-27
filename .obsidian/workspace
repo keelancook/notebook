@@ -78,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_notes/book-notes/Gentle and Lowly (Ortland, 2020).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +94,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_notes/book-notes/Gentle and Lowly (Ortland, 2020).md"
+              }
             }
           }
         ]
@@ -103,7 +106,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0e69d1975844c8ca",
+  "active": "5818c0b7b34194aa",
   "lastOpenFiles": [
     "_notes/book-notes/Gentle and Lowly (Ortland, 2020).md",
     "The Golden Rule is not Karma.md",
