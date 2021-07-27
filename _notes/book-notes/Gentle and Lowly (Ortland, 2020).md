@@ -12,4 +12,7 @@ Ortland's work is both educational and devotional, wedding a slow-motion look at
 
 This book didn't just teach me something new about God, it increased my affections for him.
 
-
+---
+## Topics
+- [[Transformational Discipleship]]
+- [[Spiritual Disciplines]]

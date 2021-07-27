@@ -1,6 +1,6 @@
 {
   "newFileLocation": "current",
-  "newLinkFormat": "relative",
+  "newLinkFormat": "shortest",
   "attachmentFolderPath": "assets/img",
   "foldHeading": true,
   "alwaysUpdateLinks": false
