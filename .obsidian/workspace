@@ -6,27 +6,13 @@
       {
         "id": "e2fc6a0ea56735cb",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Christianize and Civilize.md",
+            "file": "_notes/book-notes/Gentle and Lowly.md",
             "mode": "source"
           }
-        },
-        "group": "484df91bb7722120"
-      },
-      {
-        "id": "9ed1c3c241df37a0",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "_notes/Christianize and Civilize.md",
-            "mode": "preview"
-          }
-        },
-        "group": "484df91bb7722120"
+        }
       }
     ],
     "direction": "vertical"
@@ -53,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"need to compile a separate note on the difference between importance\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 436
   },
   "right": {
     "id": "5b4fd4bb24a3ff94",
@@ -83,12 +68,24 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Christianize and Civilize.md",
+                "file": "_notes/book-notes/Gentle and Lowly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "44a5b386e2ad94c1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_notes/book-notes/Gentle and Lowly.md"
               }
             }
           }
@@ -96,11 +93,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
+  "active": "e2fc6a0ea56735cb",
   "lastOpenFiles": [
-    "_notes/Christianize and Civilize.md",
-    "Untitled.md"
+    "_notes/book-notes/Gentle and Lowly.md",
+    "_notes/book-notes/Deep Work (Newport, 2016).md",
+    "_notes/book-notes/anthropological-reflections-on-missiological-issues-hiebert-1994.md",
+    "_notes/book-notes/Paul the Missionary (Schnabel, ).md",
+    "_notes/book-notes/Book List.md",
+    "_notes/Transformational Discipleship.md",
+    "_notes/Biblical Models of Discipleship.md",
+    "_notes/Biblical Theology of Mission.md",
+    "_notes/A Whole Bible Theology of Mission.md",
+    "_notes/Christianize and Civilize.md"
   ]
 }

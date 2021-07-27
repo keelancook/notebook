@@ -134,7 +134,7 @@ The International Mission Board policy is that C3 is healthy contextualization w
 ** We see through a glass darkly, but we do see. (109)
 * It's a process that spirals inward toward precision.
 
-[[anthropological-reflections-on-missiological-issues-hiebert-1994.md]]
+[[_notes/book-notes/Anthropological Reflections on Missiological Issues (Hiebert, 1994)]]
 ## Notes from *The Gospel in Human Contexts*
 ---
 
