@@ -8,7 +8,7 @@ modified: 2021-01-24T05:16:24-06:00
 ---
 
 **Summary:**
->The Bible tells the story of the Triune God who has a cosmic mission for his ultimate glory that is accomplished first through the creation of a place and (more importantly) a people and subsequently through the redemption and recreation of that people and place. The *mission dei* is Trinitarian in essence, cosmic in scope, and developed through God's covenants, which all find their *telos* in the person and work of Christ.
+>The Bible tells the story of the Triune God who has a cosmic mission for his ultimate glory that is accomplished first through the creation of a place and (more importantly) a people and subsequently through the redemption and recreation of that people and place. The *missio dei* is Trinitarian in essence, cosmic in scope, and developed through God's covenants, which all find their *telos* in the person and work of Christ.
 
 ---
 
