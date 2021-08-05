@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/book-notes/Missions Bibliography.md",
+            "file": "_notes/book-notes/missions bibliography.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/book-notes/Missions Bibliography.md",
+                "file": "_notes/book-notes/missions bibliography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/book-notes/Missions Bibliography.md"
+                "file": "_notes/book-notes/missions bibliography.md"
               }
             }
           }
