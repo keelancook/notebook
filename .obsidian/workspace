@@ -7,8 +7,11 @@
         "id": "fabd0f84777ff96a",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "_notes/book-notes/Missions Bibliography.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_notes/book-notes/Missions Bibliography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,7 +84,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_notes/book-notes/Missions Bibliography.md"
+              }
             }
           }
         ]
@@ -92,6 +98,7 @@
   },
   "active": "fabd0f84777ff96a",
   "lastOpenFiles": [
+    "_notes/book-notes/Missions Bibliography.md",
     "_notes/Testimonial Ethic.md",
     "_notes/The Golden Rule is not Karma.md",
     "_notes/New Immigration is a Missionary Occasion.md",
@@ -100,7 +107,6 @@
     "_notes/A Whole Bible Theology of Mission.md",
     "_notes/The United States is the Most Diverse Country in the World.md",
     "_notes/Develop Healthy Boundaries in Ministry Schedule.md",
-    "_notes/Deliberate Practice.md",
-    "_notes/Critical Issues Facing North American Missionaries.md"
+    "_notes/Deliberate Practice.md"
   ]
 }
