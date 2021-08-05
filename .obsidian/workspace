@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9f8867d1715a8fcf",
+        "id": "fabd0f84777ff96a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "_notes/Testimonial Ethic.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Testimonial Ethic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,18 +80,17 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_notes/Testimonial Ethic.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "9f8867d1715a8fcf",
+  "active": "fabd0f84777ff96a",
   "lastOpenFiles": [
     "_notes/Testimonial Ethic.md",
     "_notes/The Golden Rule is not Karma.md",
