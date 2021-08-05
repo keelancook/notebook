@@ -1,6 +1,6 @@
 ---
 author: Keelan Cook
-date: 2021-08-5
+created: 2021-08-05
 season: spring
 tags: book-notes missions
 
