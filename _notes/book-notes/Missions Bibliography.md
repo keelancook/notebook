@@ -1,7 +1,7 @@
 ---
 author: Keelan Cook
 created: 2021-08-05
-season: spring
+season: winter
 tags: book-notes missions
 
 ---
