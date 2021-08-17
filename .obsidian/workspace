@@ -9,10 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/book-notes/missions bibliography.md",
+            "file": "_notes/Christian Podcasts.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "2e9dee7ec5879842"
+      },
+      {
+        "id": "154894dcd66a887e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_notes/Christian Podcasts.md",
+            "mode": "preview"
+          }
+        },
+        "group": "2e9dee7ec5879842"
       }
     ],
     "direction": "vertical"
@@ -52,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0fccead5ac0483f1",
@@ -68,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/book-notes/missions bibliography.md",
+                "file": "_notes/Christian Podcasts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/book-notes/missions bibliography.md"
+                "file": "_notes/Christian Podcasts.md"
               }
             }
           }
@@ -98,15 +112,15 @@
   },
   "active": "fabd0f84777ff96a",
   "lastOpenFiles": [
+    "_notes/Christian Podcasts.md",
+    "_notes/List of Christian Podcasts.md",
+    "_notes/Untitled.md",
+    "_notes/the church is a community of practice.md",
+    "_notes/book-notes/missions bibliography.md",
     "_notes/book-notes/Missions Bibliography.md",
     "_notes/Testimonial Ethic.md",
     "_notes/The Golden Rule is not Karma.md",
     "_notes/New Immigration is a Missionary Occasion.md",
-    "_notes/Mission of God.md",
-    "_notes/Mission and Missions.md",
-    "_notes/A Whole Bible Theology of Mission.md",
-    "_notes/The United States is the Most Diverse Country in the World.md",
-    "_notes/Develop Healthy Boundaries in Ministry Schedule.md",
-    "_notes/Deliberate Practice.md"
+    "_notes/Mission of God.md"
   ]
 }
