@@ -1,5 +1,5 @@
 ---
-title: Things Not to Do on Your Personal Website
+title: Things not to do on your personal website
 author: Keelan Cook
 created: 2021-08-23
 season: winter

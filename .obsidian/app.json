@@ -1,7 +1,8 @@
 {
-  "newFileLocation": "current",
+  "newFileLocation": "folder",
   "newLinkFormat": "shortest",
   "attachmentFolderPath": "assets/img",
   "foldHeading": true,
-  "alwaysUpdateLinks": false
+  "alwaysUpdateLinks": false,
+  "newFileFolderPath": "_notes"
 }
