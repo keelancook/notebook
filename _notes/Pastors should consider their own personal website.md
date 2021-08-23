@@ -1,0 +1,1 @@
+## Pastors should consider their own personal website
