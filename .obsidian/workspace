@@ -13,30 +13,6 @@
             "mode": "source"
           }
         }
-      },
-      {
-        "id": "6c2985c10936a8ec",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "_notes/Academics should have their own personal website.md",
-            "mode": "source"
-          }
-        },
-        "group": "ce6c12b33c74179c"
-      },
-      {
-        "id": "2dd7c66eed89f0b8",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "_notes/Academics should have their own personal website.md",
-            "mode": "preview"
-          }
-        },
-        "group": "ce6c12b33c74179c"
       }
     ],
     "direction": "vertical"
@@ -92,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Academics should have their own personal website.md",
+                "file": "_notes/Starting a Personal Website.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Academics should have their own personal website.md"
+                "file": "_notes/Starting a Personal Website.md"
               }
             }
           }
@@ -120,11 +96,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6c2985c10936a8ec",
+  "active": "d114bd093177a193",
   "lastOpenFiles": [
+    "_notes/Starting a Personal Website.md",
     "_notes/Academics should have their own personal website.md",
     "_notes/Things not to do on your personal website.md",
-    "_notes/Starting a Personal Website.md",
     "_notes/Pastors and missionaries should consider their own personal website.md",
     "_notes/Students should have their own personal website.md",
     "about.md",
