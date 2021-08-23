@@ -5,7 +5,9 @@ created: 2021-08-23
 season: winter
 ---
 
-As someone who works in the academy, I'm a big believer in academics having their own space on the web that provides context on their work and research and gives easy access to their growing body of scholarship. I'm also a proponent of [thinking in public](/about), and if anyone should be doing this, it's those of us who get paid to do research for a living. A personal website allows academics to do all of this and more.
+As someone who works in the academy, I'm a big believer in academics having their own space on the web that provides context on their work and research and gives easy access to their growing body of scholarship. Academics should be [[Starting a Personal Website]].
+
+I'm also a proponent of [thinking in public](/about), and if anyone should be doing this, it's those of us who get paid to do research for a living. A personal website allows academics to do all of this and more.
 
 For the academic, a personal website provides a dedicated space where they're body of scholarship can take on it's own life. Often, I speak with professors and scholars who rebuff the idea of a personal website based on the assumption that any attempt to showcase your work must equate to self-promotion. While I realy resonate with the desire to avoid any appearance of shameless self-promotion (and I do believe there are several [[Things not to do on your personal website]]), the entire purpose of scholarship is adding to the knowledge of others. A personal website is an excellent way to do just that.
 
