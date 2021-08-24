@@ -12,7 +12,7 @@ season: winter
  One such tool is the personal website.
 
 ## Reasons for a pastor to have a personal website
-[[See also: [[Academics should have their own personal website]]::rmn]]
+[[See also: [Academics should have their own personal website](Academics-should-have-their-own-personal-website)::rmn]]
 - Teaching is at the heart of pastoral ministry. It is by no means all there is to pastoral  ministry, but it's core to it.
 - Today, a personal website is a natural complement to pastoral ministry, as it allows him to shepherd through teaching in an online space. Pastors already compete with social media for the discipleship of their people, and having edifying content accesible to them in this medium creates opportunities to "win back" this space for spiritual formation.
 
