@@ -4,5 +4,6 @@
   "attachmentFolderPath": "assets/img",
   "foldHeading": true,
   "alwaysUpdateLinks": false,
-  "newFileFolderPath": "_notes"
+  "newFileFolderPath": "_notes",
+  "foldIndent": true
 }

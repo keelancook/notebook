@@ -55,10 +55,12 @@ These are a sampling of general categories that give shape to the network of not
 * [[Transformational Discipleship]]
 * [[Spiritual Disciplines]]
 * Church Renewal
+* A list of [[Christian Podcasts]]
 
 ### Notetaking
 * Taking Smart Notes
 * Digital Gardens
+* [[Starting a Personal Website]]
 
 ### Metacognition
 * [[Learning Domains]]
