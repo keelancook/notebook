@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Students should have their own personal website.md",
+            "file": "_notes/Learning Domains.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "bloom's taxonomy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -68,14 +69,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Students should have their own personal website.md",
+                "file": "_notes/Learning Domains.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -85,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Students should have their own personal website.md"
+                "file": "_notes/Learning Domains.md"
               }
             }
           }
@@ -93,11 +94,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "532f3ff56d41878d",
   "lastOpenFiles": [
+    "_notes/Learning Domains.md",
     "_notes/Students should have their own personal website.md",
     "_notes/Pastors and missionaries should consider their own personal website.md",
     "_notes/Starting a Personal Website.md",
@@ -106,7 +107,6 @@
     "_notes/Christian Podcasts.md",
     "_notes/Things not to do on your personal website.md",
     "about.md",
-    "_notes/Untitled.md",
-    "_notes/List of Christian Podcasts.md"
+    "_notes/Untitled.md"
   ]
 }
