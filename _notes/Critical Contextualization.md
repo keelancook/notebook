@@ -7,6 +7,6 @@ created: 2022-03-29
 modified: 2022-03-29
 ---
 
-[Critical Contextualization](https://commonplace.ml/assets/files/hiebert87.pdf)
+[Critical Contextualization](/assets/files/hiebert87.pdf)
 
 
