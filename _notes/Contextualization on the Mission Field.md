@@ -14,12 +14,12 @@ modified: 2021-01-23T14:00:00-06:00
 In 1972, the term "contextualization" was coined by the co-directors of the Theological Education Fund for the World Council of Churches.[[Nicholls1979-jt, 21.::rsn]] The person usually attributed with the term was Shoki Coe.[[Keller2012-ln, 91.::rsn]]
 
 ### The Ecumenical Version
-In it's initial uses, the ecumenical version of contextualization often equated the context with Scripture in determining theology, even to the point of promoting it over the Scriptures in some versions.[[Payne2013-hp, 136.::rsn]] The dialectic between the two resulted in fronting culture to the extent that theologies for each location became acceptable, and even preferred. As Hiebert notes in "Critical Contextualization," the underlying philosophy of cultures held that they were incommensurable and mutual understanding was not possible.[[Hiebert, "Critical Contextualization", 108.::rsn]] Therefore, any attempt at a metacultural framework or robust understanding of orthodoxy was seen as impossible. In this sense, culture instead of Scripture took the driver's seat in forming theology.
+In its initial uses, the ecumenical version of contextualization often equated the context with Scripture in determining theology, even to the point of promoting it over the Scriptures in some versions.[[Payne2013-hp, 136.::rsn]] The dialectic between the two resulted in fronting culture to the extent that theologies for each location became acceptable, and even preferred. As Hiebert notes in "Critical Contextualization," the underlying philosophy of cultures held that they were incommensurable and mutual understanding was not possible.[[Hiebert, "Critical Contextualization", 108.::rsn]] Therefore, any attempt at a meta cultural framework or robust understanding of orthodoxy was seen as impossible. In this sense, culture instead of Scripture took the driver's seat in forming theology.
 
 Given this ecumenical understanding of contextualization, the inerrant authority of Scripture is sacrificed to cultural influence, and the result is not a contextual theology of the Scriptures, but what amounts to a new religion entirely. This approach must be rejected outright.
 
 ### The Evangelical Version
-However, following the initial ecumenical usage of the term, evangelicals began to redefine contextualization to gain the crucial insights about culture while maintaining a confessional standard concerning the authority of the Holy Scriptures.[[Payne2013-hp, 137.::rsn]] Hesselgrave and Rommen speak of a "supracultural message of the gospel" that must be communicated with cultural relevance. This is the ultimate goal of the missionary in communciation.[[Hesselgrave1989-ze, 1.::rsn]] Defined in this manner, there is no choice but to accept the validity of contextualiation considering the insights gained into culture and worldview. The question in cross-cultural missions is less about whether or not contextualization does or should occur, but how well it is happening. This work was pushed forward considerably by [[Hiebert on Contextualization]].
+However, following the initial ecumenical usage of the term, evangelicals began to redefine contextualization to gain crucial insights about culture while maintaining a confessional standard concerning the authority of the Holy Scriptures.[[Payne2013-hp, 137.::rsn]] Hesselgrave and Rommen speak of a "supracultural message of the gospel" that must be communicated with cultural relevance. This is the ultimate goal of the missionary in communication.[[Hesselgrave1989-ze, 1.::rsn]] Defined in this manner, there is no choice but to accept the validity of contextualization considering the insights gained into culture and worldview. The question in cross-cultural missions is less about whether or not contextualization does or should occur, but how well it is happening. This work was pushed forward considerably by [[Hiebert on Contextualization]].
 
 ---
 
@@ -47,7 +47,7 @@ The following is a condensed summary of Hiebert's critical contextualization pra
 >
 >**Second Step**—The local pastor or missionary then leads the believers to study the Scriptures that pertain to the cultural practices. That is, the missionary assists the believers by exposing them to the biblical texts that address their cultural practices.
 >
->**Third Step**—Local Christians meet to evaluate their traditional customs in light of scriptural teaching. It is necessary for the local believers to do this for themselves. They understand their customs, and especially the religious overtones, better than the missionary ever can. It is also important for them to go through the process, owning it, so to speak. This will provide them with a pattern of biblically informed decision making that they can apply in other situations. Their decisions will be guided by their cultural understanding, the Bible's teachings, and the guidance of the Holy Spirit, as they pray for wisdom.
+>**Third Step**—Local Christians meet to evaluate their traditional customs in light of scriptural teaching. It is necessary for the local believers to do this for themselves. They understand their customs, and especially the religious overtones, better than the missionary ever can. It is also important for them to go through the process, owning it, so to speak. This will provide them with a pattern of biblically informed decision-making that they can apply in other situations. Their decisions will be guided by their cultural understanding, the Bible's teachings, and the guidance of the Holy Spirit, as they pray for wisdom.
 >
 >**Fourth Step**—The last step involves implementing the decisions made by the body of believers. Many customs will be retained, while others will be modified or rejected.
 >
@@ -64,19 +64,19 @@ The following is a condensed summary of Hiebert's critical contextualization pra
 Despite the real risks involved with contextualization in cross-cultural missions, one must come to grips with the realities of contextualization.
 
 ### All theology is, in fact, contextual theology.
-Hiebert rightly demonstrates that a critical realist epistemology provides the best grounding for a healthy evangelical approach to Scripture and the world. A critical realist distinguishes between the divine revelation of Scripture as the inpsired, inerrant Word of God given to man, and the theology that Christians derive from that revelation. Theology is human understanding of Scripture. In that regard, it is unavoidably cultural and contextual in nature.[[Hiebert, Anthropological Reflections on Missiological Issues, 30.::rsn]] This does not mean, however, that theology cannot be accurate, but that it is always contextual and approximate.
+Hiebert rightly demonstrates that a critical realist epistemology provides the best grounding for a healthy evangelical approach to Scripture and the world. A critical realist distinguishes between the divine revelation of Scripture as the inspired, inerrant Word of God given to man, and the theology that Christians derive from that revelation. Theology is the human understanding of Scripture. In that regard, it is unavoidably cultural and contextual in nature.[[Hiebert, Anthropological Reflections on Missiological Issues, 30.::rsn]] This does not mean, however, that theology cannot be accurate, but that it is always contextual and approximate.
 
-Both Tim Keller and David Clark concur with Hiebert concerning the inevitablility of contextualization. Clark writes,
+Both Tim Keller and David Clark concur with Hiebert concerning the inevitability of contextualization. Clark writes,
 >It is simplistic to think that we are *tabulae rasae* as we interpret the Bible and develop theological convictions. Unquestionably, culture affects theology. The critical question is this: What should theologians do with that cultural influence?[[Clark, To Know and Love God, 76-77.::rsn]]
 
 Concerning contextualization, Keller asserts two truths that must be held in tension: there is only one gospel and there is no one way to express the Christian faith. For someone to preach or teach, they must choose some form in which to do so. This choice necessarily contextualizes the gospel in a particular direction. In fact, not thinking intentionally about contextualization merely leads to deeply contextualizing toward one's own culture.[[Keller, Center Church, 93-96.::rsn]] Hiebert agrees, referring to the act of contextualizing toward one's own culture as noncontextualization.[[Hiebert, *Critical Contextualization*, 107.::rsn]]
 
 ### Translatability as a Christian Strength
-Andrew walls notes that the essentially contextual nature of Christianity is one of it's greatest strengths. Unlike other religions that attempt to rigidly transmit cultural forms or deny translation, Christianity is eminently translatable. This truth, along with the providence of God, is one reason for the wide spread of Christianity and it's ability to be relevant in any culture and confront any worldview.[[Walls, Missionary Movement in the History of Christianity, ??::rsn]]
+Andrew Walls notes that the essentially contextual nature of Christianity is one of its greatest strengths. Unlike other religions that attempt to rigidly transmit cultural forms or deny translation, Christianity is eminently translatable. This truth, along with the providence of God, is one reason for the widespread of Christianity and its ability to be relevant in any culture and confront any worldview.[[Walls, Missionary Movement in the History of Christianity, ??::rsn]]
 
-[[*From here down needs reworked and synthesized.*::lmn]]
+[[*From here down needs to be reworked and synthesized.*::lmn]]
 ### The Bible and Contextualization
-The Bible explicitly gives warrant for the translation of the gospel (and theology) across cultures.
+The Bible explicitly gives a warrant for the translation of the gospel (and theology) across cultures.
 
 #### Relevant Texts:
 * Acts 15 - The Jerusalem Council
@@ -84,14 +84,14 @@ The Bible explicitly gives warrant for the translation of the gospel (and theolo
 
 #### The Bible as Example of Contextualization
 * Written in several different languages across a large region of the world by many authors spread out over hundreds of years.
-* Each of gospels and Paul's letters demonstrates contextuality.
+* Each of the gospels and Paul's letters demonstrate contextuality.
 
 ## Parameters for Healthy Contextualization
 ### Contextualize toward Culture; Transform Worldview
-[[Scott Hildreth delived this concept in a PhD seminar lecture.::rmn]]
+[[Scott Hildreth delivered this concept in a Ph.D. seminar lecture.::rmn]]
 Scott Hildreth develops an important distinction between culture and worldview that is necessary for proper contextualization. This gospel is essentially a worldview claim. In this sense, contextualization does not make the gospel relevant to a given people, the gospel is already relevant. It confronts and challenges all competing worldview claims. 
 
-The goal of contextualization then is to make the gospel understandable and potent within a particular cultural framework. The missionary should contextualizes toward culture, not worldview. Proper contextualization mantains the worldview of the gospel while communicating it in different cultural forms, be they language, ritual, or some other cultural artifact. On the other hand, syncretization occurs when one attempts to contextialize toward the worldview. This requires adapting the actual claims of the gospel to comply with the receptor worldview. Doing so conforms the gospel to the sensibilities of that worldview and it ceases to be the gospel.
+The goal of contextualization then is to make the gospel understandable and potent within a particular cultural framework. The missionary should contextualize toward culture, not worldview. Proper contextualization maintains the worldview of the gospel while communicating it in different cultural forms, be they language, ritual, or some other cultural artifact. On the other hand, syncretization occurs when one attempts to contextualize toward the worldview. This requires adapting the actual claims of the gospel to comply with the receptor worldview. Doing so conforms the gospel to the sensibilities of that worldview and it ceases to be the gospel.
 
 ### Hiebert's Four Categories for Contextualization
 [[Hiebert, *The Gospel in Human Contexts*, ??::rmn]]
@@ -102,8 +102,8 @@ The goal of contextualization then is to make the gospel understandable and pote
 
 ### Clark's Parameters for Contextualization
 [[Clark, *To Know and Love God*, 77.::rmn]]
-1. Recognize that there is cultural influence on all theological interpretation.
-2. Intentionally adopt a self-critical stance toward our own culture and other cultrues.
+1. Recognize that there is a cultural influence on all theological interpretations.
+2. Intentionally adopt a self-critical stance toward our own culture and other cultures.
 3. But be clear that theology needs to achieve cultural relevance.
 4. Yield to the priority of Scripture over any and all assumptions and pre-understandings.
 
@@ -111,7 +111,7 @@ Clark rightly speaks of one's posture in approaching another culture in order to
 >It means willingly viewing all cultures both sympathetically (especially other cultures) and critically (especially one's own). As a methodological commitment, cultural relativism mitigates the tendency to condemn other cultures and coronate one's own.[[Clark2003-ni, 68.::rsn]]
 
 ### From Missionary Contextualization to Self-theologizing
-This is a crucial shift that must occur. *Note that both Clark's paramters and Hiebert's model of critical contextualization afford for this.*
+This is a crucial shift that must occur. *Note that both Clark's parameters and Hiebert's model of critical contextualization afford for this.*
 ### The C Scale
 [[*Unpack the C Scale here with some explanation of what John Travis was doing with it.*::lmn]]
 
