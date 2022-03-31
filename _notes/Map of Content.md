@@ -1,6 +1,7 @@
 ---
 author: Keelan Cook
 title: START HERE --> Map of Content
+season: summer
 ---
 
 ![Jerusalem Map](https://i.imgur.com/lW8qQbk.jpg)
