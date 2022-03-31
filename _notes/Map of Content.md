@@ -1,5 +1,6 @@
 ---
 author: Keelan Cook
+title: Map of Content
 ---
 
 ![Jerusalem Map](https://i.imgur.com/lW8qQbk.jpg)
