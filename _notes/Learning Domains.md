@@ -5,6 +5,8 @@ season: winter
 tags: paedagogy discipleship
 created: 2021-01-18
 ---
+This is me testing Dillnger as an easy way for Tate to access github repos, do Markdown, and get it uploaded.
+
  In the 1950s, an educational theorist named Benjamin Bloom proposed a significant concept that completely changed the way we think about education and learning. If you're an educator, you may be familiar with Bloom's Taxonomy. As part of his theory, Bloom suggested that learning happens across three different but interconnected domains. 
 
 ![Learning Domains](https://i.imgur.com/Ft2l6cy.png)
