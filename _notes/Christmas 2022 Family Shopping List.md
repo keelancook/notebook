@@ -9,15 +9,18 @@ created: 2022-10-16
 Shopping list for the whole family for Christmas 2022. We're not asking anyone to get all of this, but we know family is going to ask. This seemed like the easiest way to put it together.
 
 # Ezra
-- 
+
+
 ---
 
 # Nora
-- 
+
+
 ---
 
 # Meredith
-- 
+
+ 
 ---
 
 # Keelan
