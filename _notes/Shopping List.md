@@ -1,5 +1,5 @@
 ---
-title: Christmas 2022 Family Shopping List
+title: Shopping List
 author: Keelan Cook
 season: winter
 tags: shopping Amazon wishlist
