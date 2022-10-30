@@ -1,7 +1,7 @@
 ---
 title: Shopping List
 author: Keelan Cook
-season: winter
+season: spring
 tags: shopping Amazon wishlist
 created: 2022-10-16
 
@@ -9,17 +9,21 @@ created: 2022-10-16
 Shopping list for the whole family for Christmas 2022. We're not asking anyone to get all of this, but we know family is going to ask. This seemed like the easiest way to put it together.
 
 # Ezra
-
-
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=keelancook-20&language=en_US&marketplace=amazon&region=US&placement=B08XC5CDKQ&asins=B08XC5CDKQ&linkId=b00b6153140db1a7f9ae816fe0dbc860&show_border=true&link_opens_in_new_window=true"></iframe>
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=keelancook-20&language=en_US&marketplace=amazon&region=US&placement=B007GE75HY&asins=B007GE75HY&linkId=21aa20eed3d6fff38e193aa3e432122b&show_border=true&link_opens_in_new_window=true"></iframe>
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=keelancook-20&language=en_US&marketplace=amazon&region=US&placement=B094MWFMDB&asins=B094MWFMDB&linkId=7bd4f43e0548daae1976f5a4ce697536&show_border=true&link_opens_in_new_window=true"></iframe>
 ---
 
 # Nora
-
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=keelancook-20&language=en_US&marketplace=amazon&region=US&placement=B07HCX7SVX&asins=B07HCX7SVX&linkId=4922093d7d78b95da4acbadcdec0a38e&show_border=true&link_opens_in_new_window=true"></iframe>
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=keelancook-20&language=en_US&marketplace=amazon&region=US&placement=B00BYD5JMG&asins=B00BYD5JMG&linkId=4f2956a460feac4d2a50018286c20c66&show_border=true&link_opens_in_new_window=true"></iframe>
 
 ---
 
 # Meredith
-
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=keelancook-20&language=en_US&marketplace=amazon&region=US&placement=B00GJAVQM6&asins=B00GJAVQM6&linkId=14b92450f57d4d306223788b33cf83c9&show_border=true&link_opens_in_new_window=true"></iframe>
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=keelancook-20&language=en_US&marketplace=amazon&region=US&placement=B06XFHS59J&asins=B06XFHS59J&linkId=9c4dff757e1ca357ae06b363b441d18b&show_border=true&link_opens_in_new_window=true"></iframe>
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=keelancook-20&language=en_US&marketplace=amazon&region=US&placement=B09HN13FN4&asins=B09HN13FN4&linkId=64ea944a830cf92c7e425fef56a4a226&show_border=true&link_opens_in_new_window=true"></iframe>
  
 ---
 
@@ -35,10 +39,8 @@ Shopping list for the whole family for Christmas 2022. We're not asking anyone t
  <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=keelancook-20&language=en_US&marketplace=amazon&region=US&placement=B09B32CSVR&asins=B09B32CSVR&linkId=1254c93acc2a24167ed763416636f289&show_border=true&link_opens_in_new_window=true"></iframe>
  <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=keelancook-20&language=en_US&marketplace=amazon&region=US&placement=B099LT2YN1&asins=B099LT2YN1&linkId=79f5a2dc535ac87f30d695ec380e8b9f&show_border=true&link_opens_in_new_window=true"></iframe>
  <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=keelancook-20&language=en_US&marketplace=amazon&region=US&placement=B07NXCWDC8&asins=B07NXCWDC8&linkId=046917a40b070fbcd8a6cd3102acb0e4&show_border=true&link_opens_in_new_window=true"></iframe>
- <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=keelancook-20&language=en_US&marketplace=amazon&region=US&placement=B0836MXLVZ&asins=B0836MXLVZ&linkId=9b1b7f4b8dab4b446221742c649316ab&show_border=true&link_opens_in_new_window=true"></iframe>
- <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=keelancook-20&language=en_US&marketplace=amazon&region=US&placement=B07VHHW1SM&asins=B07VHHW1SM&linkId=a2635fafdd2b0797f319178a292a02d0&show_border=true&link_opens_in_new_window=true"></iframe>
- <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=keelancook-20&language=en_US&marketplace=amazon&region=US&placement=B09PFG31BX&asins=B09PFG31BX&linkId=fbf5e89c8afc13251c1b49678812f676&show_border=true&link_opens_in_new_window=true"></iframe>
-  <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=keelancook-20&language=en_US&marketplace=amazon&region=US&placement=B089529YTG&asins=B089529YTG&linkId=254d5180874cc7b1e7fcb5a818b1ec02&show_border=true&link_opens_in_new_window=true"></iframe>
+
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=keelancook-20&language=en_US&marketplace=amazon&region=US&placement=B089529YTG&asins=B089529YTG&linkId=254d5180874cc7b1e7fcb5a818b1ec02&show_border=true&link_opens_in_new_window=true"></iframe>
 
 
 
