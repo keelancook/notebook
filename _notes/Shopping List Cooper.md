@@ -31,14 +31,20 @@ Shopping list for the whole family for Christmas 2022. We're not asking anyone t
 
 ## Clothing
 
+###  Walmart Online
+- [Chaps Men's Performance Golf Quarter Zip - Rain Forest Green (L)](https://goto.walmart.com/c/3760102/1328573/9383?prodsku=1914010389&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FChaps-Men-s-Performance-Golf-Quarter-Zip-Knit-Sizes-S-up-to-3XL%2F1914010389&intsrc=PUI2_9965)
+- [Chaps Men's Performance Golf Quarter Zip - Royal Blue (L)](https://goto.walmart.com/c/3760102/1285464/9383?prodsku=1875401601&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FChaps-Men-s-Performance-Golf-Quarter-Zip-Knit-Sizes-S-up-to-3XL%2F1875401601&intsrc=PUI2_9784)
+- [Men's Poplin Long Sleeve - Blue (L)](https://goto.walmart.com/c/3760102/1285464/9383?prodsku=773058533&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FGeorge-Men-s-Poplin-Shirt-with-Long-Sleeves%2F773058533&intsrc=PUI2_9784)
+- [Men's Poplin Long Sleeve - White (L)](https://goto.walmart.com/c/3760102/1328573/9383?prodsku=172044659&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FGeorge-Men-s-Poplin-Shirt-with-Long-Sleeves%2F172044659&intsrc=PUI2_9965)
 
- <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=keelancook-20&language=en_US&marketplace=amazon&region=US&placement=B08M17ZNJJ&asins=B08M17ZNJJ&linkId=180e5ed9277d2ab733fcfe71670054f1&show_border=true&link_opens_in_new_window=true"></iframe>
+### Amazon Online
+- [Haggar Men's Smart Wash Performance Blazer & Jackets - Medium Heather Grey (44-46)](https://amzn.to/3Oz4pYQ)
+- [Haggar Men's Iron Free Premium Khaki Slim-Straight Fit Flat Front Flex Waist Casual Pant - Heather Grey (36x30)](https://amzn.to/3AHL8yC)
+- [WHITIN Men's Max Cushioned Running Shoes - s6 Dark Blue (11)](https://amzn.to/3VgOdxg)
+
+
  <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=keelancook-20&language=en_US&marketplace=amazon&region=US&placement=B09B32CSVR&asins=B09B32CSVR&linkId=1254c93acc2a24167ed763416636f289&show_border=true&link_opens_in_new_window=true"></iframe>
- <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=keelancook-20&language=en_US&marketplace=amazon&region=US&placement=B099LT2YN1&asins=B099LT2YN1&linkId=79f5a2dc535ac87f30d695ec380e8b9f&show_border=true&link_opens_in_new_window=true"></iframe>
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=keelancook-20&language=en_US&marketplace=amazon&region=US&placement=B07NX8H89B&asins=B07NX8H89B&linkId=e008fe0a70905521753ab760e1969426&show_border=true&link_opens_in_new_window=true"></iframe>
 
-
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=keelancook-20&language=en_US&marketplace=amazon&region=US&placement=B089529YTG&asins=B089529YTG&linkId=254d5180874cc7b1e7fcb5a818b1ec02&show_border=true&link_opens_in_new_window=true"></iframe>
 
 
 
