@@ -1,5 +1,5 @@
 ---
-title: Shopping List
+title: Wish List
 author: Keelan Cook
 season: spring
 tags: shopping Amazon wishlist
