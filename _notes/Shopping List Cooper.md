@@ -41,6 +41,8 @@ Shopping list for the whole family for Christmas 2022. We're not asking anyone t
 - [Haggar Men's Smart Wash Performance Blazer & Jackets - Medium Heather Grey (44-46)](https://amzn.to/3Oz4pYQ)
 - [Haggar Men's Iron Free Premium Khaki Slim-Straight Fit Flat Front Flex Waist Casual Pant - Heather Grey (36x30)](https://amzn.to/3AHL8yC)
 - [WHITIN Men's Max Cushioned Running Shoes - s6 Dark Blue (11)](https://amzn.to/3VgOdxg)
+- [Haggar Men's Smart Wash Suit Separate Jacket (46)](https://amzn.to/3OusAYi)
+- [Haggar Men's Smart Wash Repreve Suit Separate Pant Slim Fit (36x30)](https://amzn.to/3Xrtl8m)
 
 
 
