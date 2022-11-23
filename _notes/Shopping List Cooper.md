@@ -43,13 +43,10 @@ Shopping list for the whole family for Christmas 2022. We're not asking anyone t
 - [WHITIN Men's Max Cushioned Running Shoes - s6 Dark Blue (11)](https://amzn.to/3VgOdxg)
 
 
- <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=keelancook-20&language=en_US&marketplace=amazon&region=US&placement=B09B32CSVR&asins=B09B32CSVR&linkId=1254c93acc2a24167ed763416636f289&show_border=true&link_opens_in_new_window=true"></iframe>
-
-
-
 
 ## Tech
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=keelancook-20&language=en_US&marketplace=amazon&region=US&placement=B0B1J8DRTR&asins=B0B1J8DRTR&linkId=3e7a32eb8da9f8b0d9a1bb66994a4a00&show_border=true&link_opens_in_new_window=true"></iframe>
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=keelancook-20&language=en_US&marketplace=amazon&region=US&placement=B09Z6CVRH5&asins=B09Z6CVRH5&linkId=4101feaf026acb91944cc69d2aabdd2f&show_border=true&link_opens_in_new_window=true"></iframe>
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=keelancook-20&language=en_US&marketplace=amazon&region=US&placement=B08MJ3CSW7&asins=B08MJ3CSW7&linkId=175326ee3fe6bd48a867957757e18d30&show_border=true&link_opens_in_new_window=true"></iframe>
+- [Amazfit Band 7 - Beige Band](https://amzn.to/3tVJzJn)
+- [Five Pack Replacement Bands for Amazfit Band 7 - Orange, Blue, Black, Red, Green](https://amzn.to/3AHmqhA)
+- [Argon ONE M.2 Aluminum Case for Raspberry Pi 4](https://amzn.to/3EzrntX)
+- [Timetec 2TB SSD (M.2 SATA)](https://amzn.to/3EXJ0Fm)
 
