@@ -1,7 +1,7 @@
 ---
 title: Wish List
 author: Keelan Cook
-season: spring
+season: automn
 tags: shopping Amazon wishlist
 created: 2022-10-16
 
