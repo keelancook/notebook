@@ -29,26 +29,10 @@ Shopping list for the whole family for Christmas 2022. We're not asking anyone t
 
 # Keelan
 
-## Clothing
-
 ###  Walmart Online
 - [Chaps Men's Performance Golf Quarter Zip - Rain Forest Green (L)](https://goto.walmart.com/c/3760102/1328573/9383?prodsku=1914010389&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FChaps-Men-s-Performance-Golf-Quarter-Zip-Knit-Sizes-S-up-to-3XL%2F1914010389&intsrc=PUI2_9965)
-- [Chaps Men's Performance Golf Quarter Zip - Royal Blue (L)](https://goto.walmart.com/c/3760102/1285464/9383?prodsku=1875401601&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FChaps-Men-s-Performance-Golf-Quarter-Zip-Knit-Sizes-S-up-to-3XL%2F1875401601&intsrc=PUI2_9784)
-- [Men's Poplin Long Sleeve - Blue (L)](https://goto.walmart.com/c/3760102/1285464/9383?prodsku=773058533&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FGeorge-Men-s-Poplin-Shirt-with-Long-Sleeves%2F773058533&intsrc=PUI2_9784)
 - [Men's Poplin Long Sleeve - White (L)](https://goto.walmart.com/c/3760102/1328573/9383?prodsku=172044659&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FGeorge-Men-s-Poplin-Shirt-with-Long-Sleeves%2F172044659&intsrc=PUI2_9965)
 
 ### Amazon Online
-- [Haggar Men's Smart Wash Performance Blazer & Jackets - Medium Heather Grey (44-46)](https://amzn.to/3Oz4pYQ)
-- [Haggar Men's Iron Free Premium Khaki Slim-Straight Fit Flat Front Flex Waist Casual Pant - Heather Grey (36x30)](https://amzn.to/3AHL8yC)
 - [WHITIN Men's Max Cushioned Running Shoes - s6 Dark Blue (11)](https://amzn.to/3VgOdxg)
-- [Haggar Men's Smart Wash Suit Separate Jacket (46)](https://amzn.to/3OusAYi)
-- [Haggar Men's Smart Wash Repreve Suit Separate Pant Slim Fit (36x30)](https://amzn.to/3Xrtl8m)
-
-
-
-## Tech
-- [Amazfit Band 7 - Beige Band](https://amzn.to/3tVJzJn)
-- [Five Pack Replacement Bands for Amazfit Band 7 - Orange, Blue, Black, Red, Green](https://amzn.to/3AHmqhA)
-- [Argon ONE M.2 Aluminum Case for Raspberry Pi 4](https://amzn.to/3EzrntX)
-- [Timetec 2TB SSD (M.2 SATA)](https://amzn.to/3EXJ0Fm)
-
+- [Haggar Men's Smart Wash Performance Blazer & Jackets - Medium Heather Grey (44-46)](https://amzn.to/3Oz4pYQ)
