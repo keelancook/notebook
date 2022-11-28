@@ -1,5 +1,5 @@
 ---
-title: wish List
+title: Wish List
 author: Keelan Cook
 season: automn
 tags: shopping Amazon wishlist
@@ -24,7 +24,6 @@ Here's a running wish list of items we'd love to have.
 ---
 
 # Meredith
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=keelancook-20&language=en_US&marketplace=amazon&region=US&placement=B0BCJ6J54W&asins=B0BCJ6J54W&linkId=ef286a396c7b96e727e7dd20791d910a&show_border=true&link_opens_in_new_window=true"></iframe>
 <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=keelancook-20&language=en_US&marketplace=amazon&region=US&placement=B09JKGXT8Z&asins=B09JKGXT8Z&linkId=63d71540abf5db9a8a44479e0c0e83b2&show_border=true&link_opens_in_new_window=true"></iframe>
 <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=keelancook-20&language=en_US&marketplace=amazon&region=US&placement=B0742G9C3D&asins=B0742G9C3D&linkId=7d0853468d8807140b2f09b4e2034b72&show_border=true&link_opens_in_new_window=true"></iframe>
 <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=keelancook-20&language=en_US&marketplace=amazon&region=US&placement=1631063073&asins=1631063073&linkId=3454b689e31a740407d499b2d015b973&show_border=true&link_opens_in_new_window=true"></iframe>
