@@ -39,6 +39,7 @@ Here's a running wish list of items we'd love to have.
 - [Bruno Marc Men's Dress Sneakers Casual Oxford Formal Shoes (10.5)](https://amzn.to/3VtBw26)
 - [Argon ONE M.2 Aluminum Case for Raspberry Pi 4](https://amzn.to/3EzrntX)
 - [Timetec 2TB SSD (M.2 SATA)](https://amzn.to/3EXJ0Fm)
+- [Mini PC Beelink SER5](https://amzn.to/3XQPCNh)
 
 
 
