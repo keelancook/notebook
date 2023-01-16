@@ -129,7 +129,7 @@ The International Mission Board policy is that C3 is healthy contextualization w
 
 ---
 ## Notes from Critical Contextualization chapter of *Anthropological Reflections on Missiological Issues*
-[[See More: [[Anthropological Reflections on Missiological Issues (Hiebert, 1994)]]::rmn ]]
+[[See More: [[Anthropological Reflections on Missiological Issues (Hiebert, 1994)]] ::rmn]]
 * Noncontextualization ironically leads to syncretism. When the pieces of worldview are not addressed by the gospel, they merely go underground. Christianity becomes a veneer over an old worldview. Western Protestant culture is passed on, but the underlying worldview remains unchanged. The result is a folk religion. [[Hiebert, Critical Contextualization, 106.::rsn]]
 * On Critical Realism
 * We see through a glass darkly, but we do see. (109)
