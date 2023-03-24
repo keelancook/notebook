@@ -1,12 +1,12 @@
 title: Keelan Cook
 name: My Commonplace Book
 user_description: Thinking in progress. Notes under construction. Expect typos and clarifying positions.
-notes_url: "https://keelancook.com/notebook"
+notes_url: "/notebook"
 profile_pic: /assets/img/seal.png
 favicon: /assets/img/favicon.ico
 copyright_name: MIT
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://keelancook.com/notebook" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/notebook" # the subpath of your site, e.g. /blog
+url: "https://keelancook.com" # the base hostname & protocol for your site, e.g. http://example.com
 encoding: utf-8
 
 # Build settings
