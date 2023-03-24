@@ -6,7 +6,7 @@ profile_pic: /assets/img/seal.png
 favicon: /assets/img/favicon.ico
 copyright_name: MIT
 baseurl: "/notebook" # the subpath of your site, e.g. /blog
-url: "https://keelancook.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://keelancook.com/notebook" # the base hostname & protocol for your site, e.g. http://example.com
 encoding: utf-8
 
 # Build settings
