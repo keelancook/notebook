@@ -8,7 +8,7 @@ modified: 2021-02-26T06:14:13-06:00
 
 ![Commonplace Banner Image](https://i.imgur.com/BzZOtqw.png)
 
-You have stumbled into the little corner of the internet where I do my public thinking. By trade, I'm an evangelical missiologist and theologian. My family and I live in Houston where I serve [a network of roughly 340 Baptist churches](https://ubahouston.org) here in the city as a missions strategist. I'm also on faculty as an instructor of North American missiology for [Southeastern Baptist Theological Seminary](https://sebts.edu).
+You have stumbled into the little corner of the internet where I do my public thinking. By trade, I'm an evangelical missiologist and theologian. My family and I live in Wake Forest, NC where I serve as the director for the [Center for Great Commission Studies](https://thecgcs.org) at [Southeastern Baptist Theological Seminary](https://sebts.edu). Prior to this, my family lived in Houston, TX, where I served [a network of roughly 340 Baptist churches](https://ubahouston.org) in the city as a missions strategist. I'm also on faculty as an instructor of North American missiology for [Southeastern Baptist Theological Seminary](https://sebts.edu).
 
 Primarily, the notes in this commonplace book will deal with topics of theology and ministry. By thinking in public, instead of keeping these notes closed up, I hope my thoughts here will benefit others. And perhaps, these thoughts will be sharpened as well.
 
