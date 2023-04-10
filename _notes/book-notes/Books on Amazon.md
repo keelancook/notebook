@@ -25,3 +25,17 @@ Periodically, I'll list books I find here so others can know about them as well.
 
 <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=keelancook-20&language=en_US&marketplace=amazon&region=US&placement=B006YDFXQI&asins=B006YDFXQI&linkId=c0cdb289358c99cf5aea829ead634239&show_border=false&link_opens_in_new_window=true"></iframe>
 
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "true";
+amzn_assoc_tracking_id = "keelancook-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "My Amazon Picks";
+amzn_assoc_asins = "B006YDFXQI,B0BM4MHTZB,B07W744Q2Z,B0BWFWMH3K";
+amzn_assoc_linkid = "faaf302a97b6205fb865c4223485750d";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
