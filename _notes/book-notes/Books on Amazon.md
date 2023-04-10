@@ -21,3 +21,7 @@ Periodically, I'll list books I find here so others can know about them as well.
 
 - <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=keelancook-20&language=en_US&marketplace=amazon&region=US&placement=B006YDFXQI&asins=B006YDFXQI&linkId=6fd9f05a3be60f5306e8a81a61a69f8d&show_border=true&link_opens_in_new_window=true"></iframe>
 
+<a href="https://www.amazon.com/History-Christianity-Paul-Johnson-ebook/dp/B006YDFXQI/ref=sr_1_1?tag=keelancook-20" target="_blank" rel="nofollow noopener" title="See Price" alt="See Price">See Price</a>
+
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=keelancook-20&language=en_US&marketplace=amazon&region=US&placement=B006YDFXQI&asins=B006YDFXQI&linkId=c0cdb289358c99cf5aea829ead634239&show_border=false&link_opens_in_new_window=true"></iframe>
+
