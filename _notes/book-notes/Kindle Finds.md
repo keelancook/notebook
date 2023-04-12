@@ -25,10 +25,10 @@ Periodically, I'll list books I find here so others can know about them as well.
 <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=keelancook-20&language=en_US&marketplace=amazon&region=US&placement=B007MEUV56&asins=B007MEUV56&linkId=6c649ce59137b50758cf49a6d773a0e1&show_border=true&link_opens_in_new_window=true"></iframe>
 
 *For those of you with ad blockers (like me) who don't see the lnks above:*
-- Fesko, J. V. [Romans](https://amzn.to/3ZWZdlj). Reformation Heritage Books, 2018.
-- Greear, J. D. [You Don't Get Your Own Personal Jesus](https://amzn.to/3mvixIT). Zondervan, 2018.
-- Marshall, Rosalind K. [John Knox](https://amzn.to/43ulY3h). Birlinn, 2013.
-- Duvall, J. Scott, et al. [Understanding the Book of Revelation: A Zondervan Digital Short](https://amzn.to/3MC8ZGI). Zondervan, 2012.
+- Fesko, J. V. [Romans](https://amzn.to/3ZWZdlj). Reformation Heritage Books, 2018. $2.99
+- Greear, J. D. [You Don't Get Your Own Personal Jesus](https://amzn.to/3mvixIT). Zondervan, 2018. $1.99
+- Marshall, Rosalind K. [John Knox](https://amzn.to/43ulY3h). Birlinn, 2013. $2.99
+- Duvall, J. Scott, et al. [Understanding the Book of Revelation: A Zondervan Digital Short](https://amzn.to/3MC8ZGI). Zondervan, 2012. $1.99
 
 ---
 
