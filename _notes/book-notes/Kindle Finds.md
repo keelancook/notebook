@@ -17,6 +17,21 @@ Periodically, I'll list books I find here so others can know about them as well.
 
 ---
 
+### April 12, 2023
+
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=keelancook-20&language=en_US&marketplace=amazon&region=US&placement=B07F99NVZW&asins=B07F99NVZW&linkId=fa3f37ba948f18aa6cc8e07300f946e7&show_border=true&link_opens_in_new_window=true"></iframe>
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=keelancook-20&language=en_US&marketplace=amazon&region=US&placement=B0775F2RDX&asins=B0775F2RDX&linkId=028625a4f66bb7b88c4228fe822fa1c0&show_border=true&link_opens_in_new_window=true"></iframe>
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=keelancook-20&language=en_US&marketplace=amazon&region=US&placement=B06XSCZT6Q&asins=B06XSCZT6Q&linkId=0c22a508b2013ab196fe722fab832253&show_border=true&link_opens_in_new_window=true"></iframe>
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=keelancook-20&language=en_US&marketplace=amazon&region=US&placement=B007MEUV56&asins=B007MEUV56&linkId=6c649ce59137b50758cf49a6d773a0e1&show_border=true&link_opens_in_new_window=true"></iframe>
+
+*For those of you with ad blockers (like me) who don't see the lnks above:*
+- Fesko, J. V. [Romans](https://amzn.to/3ZWZdlj). Reformation Heritage Books, 2018.
+- Greear, J. D. [You Don't Get Your Own Personal Jesus](https://amzn.to/3mvixIT). Zondervan, 2018.
+- Marshall, Rosalind K. [John Knox](https://amzn.to/43ulY3h). Birlinn, 2013.
+- Duvall, J. Scott, et al. [Understanding the Book of Revelation: A Zondervan Digital Short](https://amzn.to/3MC8ZGI). Zondervan, 2012.
+
+---
+
 ### April 10, 2023
 
 <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=keelancook-20&language=en_US&marketplace=amazon&region=US&placement=B006YDFXQI&asins=B006YDFXQI&linkId=c0cdb289358c99cf5aea829ead634239&show_border=false&link_opens_in_new_window=true"></iframe>
