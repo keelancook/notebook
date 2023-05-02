@@ -17,6 +17,17 @@ Periodically, I'll list books I find here so others can know about them as well.
 
 ---
 
+### May 2, 2023
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=keelancook-20&language=en_US&marketplace=amazon&region=US&placement=B005XKI8Q0&asins=B005XKI8Q0&linkId=35f8e40f9481922747f1ef7f41ca8cbb&show_border=true&link_opens_in_new_window=true"></iframe>
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=keelancook-20&language=en_US&marketplace=amazon&region=US&placement=B007JJSJE4&asins=B007JJSJE4&linkId=0848e69c76674ab646bc97395a7f18aa&show_border=true&link_opens_in_new_window=true"></iframe>
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=keelancook-20&language=en_US&marketplace=amazon&region=US&placement=B09254CHMB&asins=B09254CHMB&linkId=37b09ec66cb2e55505d8634f2a4f5dc6&show_border=true&link_opens_in_new_window=true"></iframe>
+
+*For those of you with ad blockers (like me) who don't see the lnks above:*
+- Michael, Larry J. [Spurgeon on Leadership: Key Insights for Christian Leaders from the Prince of Preachers](https://amzn.to/3Vr2Was). Kregel Ministry, 2010. $2.99
+- Klink, Edward and Darian R. Lockett. [Understanding Biblical Theology: A Comparison of Theory and Practice](https://amzn.to/3NvpQeF). Zondervan Academic, 2012. $3.99
+- Warfield, Benjamin B. [The Plan of Salvation](https://amzn.to/3Vq8cLf). GLH Publishing, 2021. $1.99
+
+---
 ### April 12, 2023
 
 <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=keelancook-20&language=en_US&marketplace=amazon&region=US&placement=B07F99NVZW&asins=B07F99NVZW&linkId=fa3f37ba948f18aa6cc8e07300f946e7&show_border=true&link_opens_in_new_window=true"></iframe>
